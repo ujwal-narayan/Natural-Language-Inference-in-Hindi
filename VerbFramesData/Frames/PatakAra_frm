@@ -1,0 +1,23 @@
+Verb::PatakAra
+SID::PatakAra%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to scold
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->dAzta%VT%S1%FID1, cillA%VI%S3%FID1 (different vibhakti), barasa (different vibhakti); Verb frames populated--> barasa (different 				vibhakti)
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rAma ko PatkArawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::PatakAra%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n               l            c
+k2                 m              ko                n               l            c
+----------------------------------------------------------------------------------------
+
+
+

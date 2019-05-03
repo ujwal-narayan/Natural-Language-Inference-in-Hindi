@@ -1,0 +1,52 @@
+
+Frame: k1 + k7t + verb
+===========================================
+
+
+Verb Class: (Verbs having this frame)
+
+
+(1)CUta			(CUta%VI%S1%FID1)
+(2)jAga			(jAga%VI%S1%FID1)
+(3)uTa			(uTa%VI%S4%FID1)
+(4)Kula			(Kula%VI%S2%FID1)
+(5)jAga			(jAga%VI%S3%FID1)
+(6)jI			(jI%VI%S1%FID1)
+(7)cala			(cala%VI%S6%FID1)
+(8)tika			(tika%VI%S1%FID1)
+(9)raha			(raha%VI%S3%FID1)
+(10)Tahara
+(11)cala		(cala%VI%S5%FID1)
+
+===============================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frames for the following verbs is given below: Theses verbs are communication verbs
+
+CUta (CUta%VI%S1%FID1), jAga (jAga%VI%S1%FID1), uTa (uTa%VI%S4%FID1), Kula (Kula%VI%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7t                m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+==============================================================================================
+
+
+II.Frames for the following verbs is given below: Theses verbs are communication verbs
+
+jAga (jAga%VI%S3%FID1), jI (jI%VI%S1%FID1), cala (cala%VI%S6%FID1), tika (tika%VI%S1%FID1), raha (raha%VI%S3%FID1), Tahara, cala (cala%VI%S5%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t		   m		   0|waka     	    n		     l		  c		    
+----------------------------------------------------------------------------------------
+
+

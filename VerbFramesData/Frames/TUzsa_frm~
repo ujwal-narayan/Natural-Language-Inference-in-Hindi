@@ -1,0 +1,22 @@
+Verb::TUzsa
+SID::TUzsa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Semantic relation-->GusedZa; Verb frames to be populated-->GusedZa
+Frames::
+
+        Frame_Name_1::
+        Example::vaha mUz meM pena GusedZawA hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::TUzsa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                m               meM              n                l            c                             
+k2		   m               0                n                l            c
+----------------------------------------------------------------------------------------
+

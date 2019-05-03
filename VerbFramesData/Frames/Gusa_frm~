@@ -1,0 +1,46 @@
+Verb::Gusa
+SID::Gusa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to enter
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->A%VI%S7%FID1, praveSa_kar, xAKZila_honA; Verb frames populated-->praveSa_kar, xAKZila_ho
+Frames::
+
+        Frame_Name_1::
+        Example::billI rojZa raat ko Gara meM GusawI hEM
+        Theta_Roles::AGENT GOAL V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Gusa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                n                l            c
+k2p                m               meM              n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::Gusa%VI%S2
+Verb_Sense::HWN ()
+Eng_Gloss::to interfere
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xUsaroM ke mAmaloM meM GusawA hEM
+        Theta_Roles::AGENT ? V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::Gusa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7                 m               meM              n                l            c
+----------------------------------------------------------------------------------------
+
+
+
+

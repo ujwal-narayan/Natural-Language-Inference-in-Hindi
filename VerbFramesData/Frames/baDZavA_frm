@@ -1,0 +1,26 @@
+Verb::baDZavA
+SID::baDZavA%VCaus1%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to cause to increase 
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma aXyApaka se apane naMbara baDZavAwA     hE
+		 ram  teacher  by his   marks   increase-CAUS be-PRES
+		 "Ram made the teacher increase his marks"
+        Theta_Roles::CAUSER CAUSEE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baDZavA%Caus1%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m             0                  n               l            c
+jk1                 m             se                 n               l            c
+k2                  m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+

@@ -1,0 +1,41 @@
+Verb::paka
+SID::paka%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to ripen
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::kacce Ama (jalxI) pakawe hE
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::paka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c                       
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::paka%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to be cooked
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::cAvala (jalxI) pakawe hE
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::paka%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c                       
+----------------------------------------------------------------------------------------
+

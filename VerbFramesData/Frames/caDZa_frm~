@@ -1,0 +1,103 @@
+Verb::caDZa
+SID::caDZa%VI%S1
+Verb_Sense::HWN (1,15)
+Eng_Gloss::to climb
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sIDZiyAM caDZawA hEM 
+        Theta_Roles::AGENT THEME V 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::caDZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               0|ko             n                l            c                             
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::vaha Cawa para caDZawA hEM
+        Theta_Roles::AGENT GOAL V 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::caDZa%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2p                m               para             n                l            c                             
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::caDZa%VI%S2
+Verb_Sense::HWN (19)
+Eng_Gloss::to raise
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->baDZa; Verb frames populated-->baDZa
+Frames::
+
+        Frame_Name_1::
+        Example::barasAwa meM naxI kA pAnI kamara waka caDZawA hEM
+        Theta_Roles::LOCATION PATIENT('s) ATTRIBUTE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::caDZa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7                 d               meM              n                l            c
+k1                 m               0                n                l            c
+k2p                m               waka             n                l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::caDZa%VI%S3
+Verb_Sense::HWN (18)
+Eng_Gloss::to increase
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->baDZa%VI%S2%FID1
+Frames::
+
+
+	Frame_Name_1::
+        Example::xina-prawixina cIzoM ki kimaweM caDZa jAwIM heM
+        Theta_Roles::LOCATION PATIENT('s) ATTRIBUTE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::caDZa%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+
+*********************************************************************************************
+
+SID::caDZa%VI%S4
+Verb_Sense::HWN (7,21)
+Eng_Gloss::to offer
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::maMxira meM bahuwa caDZAvA caDZawA hEM
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::caDZa%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d               meM              n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+

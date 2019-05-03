@@ -1,0 +1,77 @@
+
+Frame: k1 + rt + k2 + verb
+============================================
+
+
+Verb Class: (Verbs having this frame)
+
+
+(1)CodZa		(CodZa%VT%S1%FID1)
+(2)manA			(manA%VT%S2%FID1)
+(3)manA_le
+(4)rAjZI_kara
+(5)pakadZa		(pakadZa%VT%S4%FID1)
+(6)le
+(7)sawA			(sawA%VT%S1%FID1)
+
+===========================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+CodZa (CodZa%VT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                 n                 l            c
+rt		   d	         ke_liye           v                 l            c
+k2                 m             0|ko              n                 l            c                             
+----------------------------------------------------------------------------------------
+
+================================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+manA (manA%VT%S2%FID1), manA_le, rAjZI_kara
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                 n                l            c
+k2                 m               ko                n                l            c  
+rt		   m		   ke_lie	     v		      l		   c                           
+----------------------------------------------------------------------------------------
+
+================================================================================================
+
+
+III.Frame for the following verbs is given below:
+	
+pakadZa	(pakadZa%VT%S4%FID1), le
+
+---------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n               l            c
+rt		   d		   ke_lie	     v               l            c
+k2                 m               0                 n               l            c                             
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+IV.Frame for the following verbs is given below:		
+
+sawA (sawA%VT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               ko               n                l            c  
+rt                 d               ke_lie           n                l            c                           
+----------------------------------------------------------------------------------------

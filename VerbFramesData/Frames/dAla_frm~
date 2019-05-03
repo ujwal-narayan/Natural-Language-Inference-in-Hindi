@@ -1,0 +1,93 @@
+Verb::dAla
+SID::dAla%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to put
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sabjZI meM namaka dAlawA hEM  
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dAla%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                m               meM              n                l            c                             
+k2		   m               0|ko             n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::dAla%VT%S2
+Verb_Sense::HWN ()
+Eng_Gloss::to water the plants, to feed
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+
+	Frame_Name_1::
+        Example::vaha cidiyA ko xAnA dAlawA hEM
+        Theta_Roles::AGENT RECIPIENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dAla%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k4                 m               ko               n                l            c
+k2                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::dAla%VT%S3
+Verb_Sense::HWN (3)
+Eng_Gloss::to spread
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> biCA; Verb frames populated--> biCA
+Frames::
+
+        Frame_Name_1::
+        Example::vaha KAta para caxxara dAlawA hEM
+        Theta_Roles::AGENT DESTINATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dAla%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                d               para             n                l            c
+k2                 m               0|ko             n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+
+SID::dAla%VT%S4
+Verb_Sense::HWN (2)
+Eng_Gloss::to wear
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->pahana, XAraNa_kara; Verb frames populated--> pahana, XAraNa_kara
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rojZa naye kapade dAlawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dAla%VT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+

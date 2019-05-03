@@ -1,0 +1,47 @@
+Verb::Gata
+SID::Gata%VI%S1
+Verb_Sense::HWN (2,4)
+Eng_Gloss::to reduce
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->gira, uwara; Verb frames to be populated-->gira, uwara
+Frames::
+
+        Frame_Name_1::
+        Example::seroM ke xAma GataweM hEM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Gata%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::Gata%VI%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to happen
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::Gara ke sAmne xurGatanAyeM GatawIM hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Gata%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+
+
+
+

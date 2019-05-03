@@ -1,0 +1,23 @@
+Verb::pozCa
+SID::pozCa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to clean
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kapade se gAdZI pozCawI hEM
+        Theta_Roles::AGENT INSTRUMENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pozCa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0|ko            n               l              c
+k3		   d		   se		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+

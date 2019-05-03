@@ -1,0 +1,360 @@
+
+Frame: k1 + k2 + verb 
+===========================
+
+Verb Class: (Verbs having this frame)
+
+(1)jAna 		(jAna%VT%S2%FID1)
+(2)apanA 		(apanA%VT%S1%FID1)
+(3)svIkAr
+(4)svIkAr_kar
+(5)cuna
+(6)apnA_banA
+(7)aMgIkAr_kar
+(8)apnA_le
+(9)baDZA 		(baDZA%VT%S1%FID1)
+(10)baDZA 		(baDZA%VT%S2%FID1)
+(11)lambA_kar
+(12)bajA		(bajA%VT%S1%FID1)
+(13)baxala		(baxala%VT%S2%FID1)
+(14)bigAdZa		(bigAdZa%VT%S1%FID1)
+(15)buJA		(buJA%VT%S1%FID1)
+(16)caKa		(caKa%VT%S1%FID1)
+(17)CIna		(CIna%VT%S1%FID1)xxxxxxxxxxxxxxxxxxxxxxxxxxxx(remove it)
+(18)CipA		(CipA%VT%S1%FID1)
+(19)CU			(CU%VT%S1%FID1)
+(20)sparSa_kara
+(21)Ko			(Ko%VT%S1%FID1)
+(22)gazvA		(gazvA%VT%S1%FID1)
+(23)DUzDa		(DUzDa%VT%S1%FID1)
+(24)GumA		(GumA%VT%S3%FID1)
+(25)modZa
+(26)hilA		(hilA%VT%S1%F1D1)
+(27)jalA		(jalA%VT%S1%FID1)
+(28)sulagA
+(29)PZUzka
+(30)jalA		(jalA%VT%3%FID1)
+(31)jodZa		(jodZa%VT%S1%FID1)
+(32)lagA		(lagA%VT%S6%FID1)
+(33)jodZa		(jodZa%VT%S2%FID1)
+(34)lagA		(lagA%VT%S3%FID1)
+(35)jowa		(jowa%VT%S1%FID1)
+(36)KA			(KA%VT%S1%FID1)
+(37)KarIxa		(KarIxa%VT%S1%FID1)
+(38)le			(le%VT%S2%FID1)
+(39)KIMca		(KIMca%VT%S1%FID1)
+(40)KIMca		(KIMca%VT%S4%FID1)
+(41)Kola		(Kola%VT%S1%FID1)
+(42)Kola		(Kola%VT%S2%FID1)
+(43)wodZa
+(44)Koxa		(Koxa%VT%S1%FID1)
+(45)latakA		(latakA%VT%S2%FID1)
+(46)manA		(manA%VT%S3%FID1)
+(47)moda		(moda%VT%S1%FID1)
+(48)teDZA_kara
+(49)PAdza		(PAdza%VT%S1%FID1)
+(50)cIra
+(51)pakA		(pakA%VT%S1%FID1)
+(52)pakadZa		(pakadZa%VT%S1%FID1)
+(53)pakadZa		(pakadZa%VT%S2%FID1)
+(54)PeMka		(PeMka%VT%S1%FID1)
+(55)uCAla		(uCAla%VT%S1%FID1)
+(56)PeMka
+(57)udZA		(udZA%VT%S1%FID1)
+(58)xabA		(xabA%VT%S1%FID1)
+(59)xeKa		(xeKa%VT%S1%FID1)
+(60)nihAra
+(61)wAka
+(62)roka		(roka%VT%S1%FID1)
+(63)ubAla		(ubAla%VT%S1%FID1)
+(64)tAla		(tAla%VT%S1%FID1)
+(65)sulaJA		(sulaJA%VT%S1%FID1)
+(66)mAna		(mAna%VT%S1%FID1)
+(67)kabUla
+(68)suna		(suna%VT%S2%FID1)
+(69)suna		(suna%VT%S1%FID1)
+(70)xoharA		(xoharA%VT%S1%FID1)
+(71)wala		(wala%VT%S1%FID1)
+(72)uXedZa		(uXedZa%VT%S1%FID1)
+(73)nikAla
+(74)Kola
+(75)saha		(saha%VT%S1%FID1)
+(76)Jela
+(77)sahana_kara
+(78)barxASwa_kara
+(79)razga		(razga%VT%S1%FID1)
+(80)pIsa		(pIsa%ST%S1%FID1)
+(81)kucala		(kucala%VT%S1%FID1)
+(82)pIsa
+(83)sajA		(sajA%VT%S1%FID1)
+(84)sazvAra
+(85)sanjo
+(86)rOzxa		(rOzxa%VT%S1%FID1)
+(87)ujAdZa		(ujAdZa%VT%S1%FID1)
+(88)naRta_kara
+(89)mitA
+(90)uKAdZa
+(91)marodZa		(marodZa%VT%S1%FID1)
+(92)GumA
+(93)sazBAla		(sazBAla%VT%S1%FID1)
+(94)sUzGa		(sUzGa%VT%S1%FID1)
+(95)sahalA		(sahalA%VT%S1%FID1)
+(96)lAzGa		(lAzGa%VT%S1%FID1)
+(97)cabA		(cabA%VT%S1%FID1)
+(98)DAzka		(DAzka%VT%S1%FID1)
+(100)DAzpa
+(101)Dakela		(Dakela%VT%S1%FID1)
+(102)CIla		(CIla%VT%S1%FID1)
+(103)wola		(wola%VT%S1%FID1)
+(104)nApa		(nApa%VT%S1%FID1)
+(105)mApa
+(106)nigala		(nigala%VT%S1%FID1)
+(107)gataka
+(108)rata		(rata%VT%S1%FID1)
+(109)ragadZa		(ragadZa%VT%S1%FID1)
+(110)Gisa
+(111)bETA		(bETA%VT%S2%FID1)
+(112)jAna		(jAna%VT%S1%FID1)
+(113)pahacAna		(pahacAna%VT%S1%FID1)
+(114)bigAdZa		(bigAdZa%VT%S2%FID1)
+(115)bulA		(bulA%VT%S1%FID1)
+(116)pukAra		(pukAra%VT%S1%FID1)
+(117)CodZa		(CodZa%VT%S2%FID1)
+(118)AjZAxa_kara
+(119)mukwa_kara
+(120)Kola
+(121)Gera		(Gera%VT%S1%FID1)
+(122)girA		(girA%VT%S2%FID1)
+(123)jodZa		(jodZa%VT%S3%FID1)
+(124)KA			(KA%VT%S2%FID1)
+(125)barbAxa_kar
+(126)KZarAba_kar
+(127)kAta		(kAta%VT%S1%FID1)
+(128)kAta		(kAta%VT%S4%FID1)
+(129)kosa		(kosa%VT%S1%FID1)
+(130)Taga
+(131)manA		(manA%VT%S1%FID1)
+(132)mAra		(mAra%VT%S2%FID1)
+(133)pAla		(pAla%VT%S1%FID1)
+(134)parvariSa_kara
+(135)darA		(darA%VT%S1%FID1)
+(136)XamakA		(XamakA%VT%S1%FID1)
+(137)hadZakA
+(138)darA
+(139)KilA		(KilA%VT%S1%FID1)
+(140)dazsa		(dazsa%VT%S1%FID1)
+(141)kAta
+(142)caDZa		(caDZa%VI%S1%FID1)
+(143)banA		(banA%VT%S2%FID1)
+(144)Bara		(Bara%VT%S3%FID1)
+(145)cukA
+(146)bola		(bola%VT%S5%FID1)
+(147)BUla		(BUla%VT%S1%FID1)
+(148)bisara
+(149)cAha		(cAha%VT%S2%FID1)
+(150)bigadZa		(bigadZa%VI%S2%FID2)
+(151)BadZaka
+(152)gussA_kara
+(153)bola		(bola%VT%S7%FID1)
+(154)cAha		(cAha%VT%S1%FID1)
+(155)prema_kar		(prema_kar)
+(156)calA		(calA%VT%S2%FID1)
+(157)CudZA		(CudZA%VT%S2%FID1)
+(158)curA		(curA%VT%S1%FID1)
+(159)dAla		(dAla%VT%S4%FID1)
+(160)pahana
+(161)XAraNa_kara
+(162)lagA		(lagA%VT%S8%FID1)
+(163)DO			(DO%VT%S1%FID1)
+(164)gA			(gA%VT%S1%FID1)
+(165)gAdZa		(gAdZa%VT%S2%FID1)
+(166)girA		(girA%VT%S1%FID1)
+(167)uTA		(uTA%VT%S1%FID1)
+(168)uTA		(uTA%VT%S2%FID1)
+(169)calA
+(170)CedZa
+(171)AramBa_kara
+(172)SurU_kara
+(173)nikAla
+(174)jodZa		(jodZa%VT%S4%FID1)
+(175)jamA_kara
+(176)jutA
+(177)ikatTA_kara
+(178)kamA		(kamA%VT%S1%FID1)
+(179)kara		(kara%VT%S1%FID1)
+(180)nipatA		(nipatA%VT%S1%FID1)
+(181)Kela		(Kela%VT%S2%FID1)
+(182)KIMca		(KIMca%VT%S2%FID1)
+(183)liKa		(liKa%VT%S1%FID1)
+(184)oDZa		(oDZa%VT%S1%FID1)
+(185)paDZa		(paDZa%VT%S1%FID1)
+(186)pakadZa		(pakadZa%VT%S3%FID1)
+(187)WAma
+(188)pI			(pI%VT%S1%FID1)
+(199)pI			(pI%VT%S2%FID1)
+(190)KA
+(191)le
+(192)soca		(soca%VT%S1%FID1)
+(193)samaJa		(samaJa%VT%S1%FID1)
+(194)buna		(buna%VT%S1%FID1)
+(195)cuga		(cuga%VT%S1%FID1)
+(196)bacA		(bacA%VT%S1%FID1)
+(197)bacawa_kar
+(198)cillA		(cillA%VI%S3%FID1)
+(199)barasa
+(200)dAzta		(dAzta%VT%S1%FID1)
+(201)PatakAra		(PatakAra%VT%S1%FID1)
+(202)Japata		(Japata%VT%S1%FID1)
+(203)lapaka
+(204)mara		(mara%VI%S2%FID1)
+(205)hazsa		(hazsa%VT%S2%FID1)
+(206)jIwa		(jIwa%VT%S1%FID2)
+(207)ladZa		(ladZa%VI%S1%FID1)
+(208)JagadZa
+(209)JagadZA_kara
+(210)ladZAI_kara
+(211)ulaJa
+(212)ladZa		(ladZa%VI%S2%FID1)
+(213)yuxXa_kara
+(214)laga		(laga%VI%S6%FID1)
+(215)CU
+(216)lipata		(lipata%VT%S1%FID1)
+(217)bola		(bola%VT%S6%FID1)
+(218)bAwa_kar
+(219)mAna		(mAna%VT%S3%FID1)
+(220)mAna		(mAna%VT%S3%FID2)
+(221)mila		(mila%VI%S2%FID1)
+(222)mulAkAwa_kara
+(223)takarA		(takarA%VT%S1%FID1)
+(224)JAdZa		(JAdZa%VT%S1%FID1)
+(225)lapeta		(lapeta%VT%S1%FID1)
+(226)GUra
+(227)BidZa------------------------------------> populated
+(228)jagA 		(jagA%VCAUS%S1%FID1)
+(229)uTA 		(uTA%VCAUS%S3%FID1)
+====================================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+jAna (jAna%VT%S2%FID1), banA (banA%VT%S2%FID1), Bara (Bara%VT%S3%FID1), cukA, bola (bola%VT%S5%FID1), BUla (BUla%VT%S1%FID1), bisara, cAha (cAha%VT%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0               n|v             l              c
+----------------------------------------------------------------------------------------
+
+=================================================================================================
+
+
+II.Frame for following verbs is given below:
+
+apanA (apanA%VT%S1%FID1), svIkAr, svIkAr_kar, cuna, apnA_banA, aMgIkAr_kar, apnA_le, baDZA (baDZA%VT%S1%FID1), baDZA (baDZA%VT%S2%FID1), lambA_kar, 
+bajA (bajA%VT%S1%FID1), baxala (baxala%VT%S2%FID1), bigAdZa (bigAdZa%VT%S1%FID1), buJA (buJA%VT%S1%FID1), caKa (caKa%VT%S1%FID1), 
+CipA (CipA%VT%S1%FID1), CU (CU%VT%S1%FID1), sparSa_kara, Ko (Ko%VT%S1%FID1), gazvA (gazvA%VT%S1%FID1), DUzDa (DUzDa%VT%S1%FID1), GumA (GumA%VT%S3%FID1), modZa, 
+hila (hilA%VT%S1%F1D1), jalA (jalA%VT%S1%FID1), sulagA, PZUzka, jalA (jalA%VT%3%FID1), jodZa (jodZa%VT%S1%FID1), lagA (lagA%VT%S6%FID1), jodZa (jodZa%VT%S2%FID1), lagA (lagA%VT%S3%FID1), jowa (jowa%VT%S1%FID1), KA (KA%VT%S1%FID1), KarIxa (KarIxa%VT%S1%FID1), le (le%VT%S2%FID1), KIMca (KIMca%VT%S1%FID1), 
+KIMca (KIMca%VT%S4%FID1), Kola (Kola%VT%S1%FID1), Kola (Kola%VT%S2%FID1), wodZa, Koxa (Koxa%VT%S1%FID1), latakA (latakA%VT%S2%FID1), manA (manA%VT%S3%FID1), moda (moda%VT%S1%FID1), teDZA_kara, PAdza (PAdza%VT%S1%FID1), cIra, pakA (pakA%VT%S1%FID1), pakadZa (pakadZa%VT%S1%FID1), pakadZa (pakadZa%VT%S2%FID1), 
+PeMka (PeMka%VT%S1%FID1), uCAla (uCAla%VT%S1%FID1), PeMka, udZA, (udZA%VT%S1%FID1), xabA (xabA%VT%S1%FID1), xeKa (xeKa%VT%S1%FID1), nihAra, wAka, 
+roka (roka%VT%S1%FID1), ubAla (ubAla%VT%S1%FID1), tAla (tAla%VT%S1%FID1), sulaJA (sulaJA%VT%S1%FID1), mAna (mAna%VT%S1%FID1), kabUla, suna (suna%VT%S2%FID1),
+suna (suna%VT%S1%FID1), xoharA (xoharA%VT%S1%FID1), wala (wala%VT%S1%FID1), uXedZa (uXedZa%VT%S1%FID1), nikAla, Kola, saha (saha%VT%S1%FID1), Jela, sahana_kara, barxASwa_kara, razga (razga%VT%S1%FID1), pIsa (pIsa%ST%S1%FID1), kucala (kucala%VT%S1%FID1), pIsa, sajA (sajA%VT%S1%FID1), sazvAra, sanjo, rOzxa (rOzxa%VT%S1%FID1), ujAdZa (ujAdZa%VT%S1%FID1), naRta_kara, mitA, uKAdZa, marodZa (marodZa%VT%S1%FID1), GumA, sazBAla (sazBAla%VT%S1%FID1), sUzGa (sUzGa%VT%S1%FID1), 
+sahalA (sahalA%VT%S1%FID1), lAzGa (lAzGa%VT%S1%FID1), cabA (cabA%VT%S1%FID1), DAzka (DAzka%VT%S1%FID1), DAzpa, Dakela (Dakela%VT%S1%FID1), CIla	(CIla%VT%S1%FID1), wola (wola%VT%S1%FID1), nApa (nApa%VT%S1%FID1), mApa, nigala (nigala%VT%S1%FID1), gataka, rata (rata%VT%S1%FID1), ragadZa (ragadZa%VT%S1%FID1), Gisa, 
+bETA (bETA%VT%S2%FID1), caDZa (caDZa%VI%S1%FID1), nipatA (nipatA%VT%S1%FID1), mAna (mAna%VT%S3%FID1), JAdZa (JAdZa%VT%S1%FID1), lapeta (lapeta%VT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------
+
+================================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+jAna (jAna%VT%S1%FID1), pahacAna (pahacAna%VT%S1%FID1), bigAdZa (bigAdZa%VT%S2%FID1), bulA (bulA%VT%S1%FID1), pukAra (pukAra%VT%S1%FID1), CodZa (CodZa%VT%S2%FID1), AjZAxa_kara, mukwa_kara, Kola, Gera (Gera%VT%S1%FID1), girA (girA%VT%S2%FID1), jodZa (jodZa%VT%S3%FID1), KA (KA%VT%S2%FID1), barbAxa_kar, KZarAba_kar, 
+kAta (kAta%VT%S1%FID1), kAta (kAta%VT%S4%FID1), kosa (kosa%VT%S1%FID1), Taga, manA (manA%VT%S1%FID1), mAra (mAra%VT%S2%FID1),
+pAla (pAla%VT%S1%FID1), parvariSa_kara, darA (darA%VT%S1%FID1), XamakA (XamakA%VT%S1%FID1), hadZakA, darA, KilA	(KilA%VT%S1%FID1), dazsa (dazsa%VT%S1%FID1), kAta, cAha (cAha%VT%S1%FID1), dAzta (dAzta%VT%S1%FID1), PatakAra (PatakAra%VT%S1%FID1), GUra, jagA (jagA%VCAUS%S1%FID1), uTA (uTA%VCAUS%S3%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               ko              n               l              c
+----------------------------------------------------------------------------------------
+
+================================================================================================
+
+
+IV.Frame for the following verbs is given below:
+
+bigadZa	(bigadZa%VI%S2%FID2), BadZaka, gussA_kara, cillA (cillA%VI%S3%FID1), barasa, Japata (Japata%VT%S1%FID1), lapaka, mara (mara%VI%S2%FID1), hazsa (hazsa%VT%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              para            n               l              c
+----------------------------------------------------------------------------------------
+
+=================================================================================================
+
+
+V.Frame for the bola (bola%VT%S7%FID1) verb is given below:
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              para|ke_bAre_meM  n                l            c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+VI.Frame for the following verbs is given below: Most of the verbs are Social Interaction Verbs
+
+prema_kar, ladZa (ladZa%VI%S1%FID1), JagadZa, JagadZA_kara, ladZAI_kara, ulaJa, ladZa (ladZa%VI%S2%FID1), yuxXa_kara, laga (laga%VI%S6%FID1), CU, 
+lipata (lipata%VT%S1%FID1, bola (bola%VT%S6%FID1), bAwa_kar, mila (mila%VI%S2%FID1), mulAkAwa_kara, takarA (takarA%VT%S1%FID1), BidZa
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              se                n                l            c                             
+----------------------------------------------------------------------------------------
+
+====================================================================================================
+
+
+VII.Frame for the following verbs is given below:
+
+calA (calA%VT%S2%FID1), CudZA (CudZA%VT%S2%FID1), curA (curA%VT%S1%FID1), dAla (dAla%VT%S4%FID1), pahana, XAraNa_kara, lagA (lagA%VT%S8%FID1), DO (DO%VT%S1%FID1),
+gA (gA%VT%S1%FID1), gAdZa (gAdZa%VT%S2%FID1), girA (girA%VT%S1%FID1), uTA (uTA%VT%S1%FID1), uTA	(uTA%VT%S2%FID1), calA, CedZa, AramBa_kara, SurU_kara, nikAla, 
+jodZa (jodZa%VT%S4%FID1), jamA_kara, jutA, ikatTA_kara, kamA (kamA%VT%S1%FID1), kara (kara%VT%S1%FID1), Kela (Kela%VT%S2%FID1),KIMca (KIMca%VT%S2%FID1), 
+liKa (liKa%VT%S1%FID1), oDZa (oDZa%VT%S1%FID1), paDZa (paDZa%VT%S1%FID1), pakadZa (pakadZa%VT%S3%FID1), WAma, pI (pI%VT%S1%FID1), pI (pI%VT%S2%FID1), KA, le, 
+soca (soca%VT%S1%FID1), samaJa (samaJa%VT%S1%FID1), buna (buna%VT%S1%FID1), cuga (cuga%VT%S1%FID1), bacA (bacA%VT%S1%FID1), bacawa_kar, jIwa (jIwa%VT%S1%FID2)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                n                l            c
+k2                 m     	   0                n                l            c
+----------------------------------------------------------------------------------------
+
+=====================================================================================================
+
+
+VIII.Frame for the mAna (mAna%VT%S3%FID2) verb is given below:
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m           	   0                n                l            c
+k2                 m               0                cl               r            c                      
+----------------------------------------------------------------------------------------

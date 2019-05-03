@@ -1,0 +1,22 @@
+Verb::sOMpa
+SID::sOmpa%VDT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->CodZa(different vibhakti-->rAma yaha kAma sIwA para CoDZawA hEM); Verb frames to be populated-->CodZa
+Frames::
+
+        Frame_Name_1::
+        Example::rAma yaha kAma sIwA ko sOMpwA hEM
+        Theta_Roles::AGENT THEME RECIPIENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::sOmpa%VDT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k4                 m               ko               n                l            c
+k2                 m               0                n                l            c
+---------------------------------------------------------------------------------------
+

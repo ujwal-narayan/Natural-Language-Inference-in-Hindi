@@ -1,0 +1,181 @@
+Verb::A
+SID::A%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to come
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms-->pahuzca, paXAra%VI%S1%FID1 (different vibhaktis); Verb frames populated-->pahuzca,
+Frames::
+
+	Frame_Name_1::
+	Example::rAma aksara hExarAbAxa AwA       hE
+		 ram  often  Hyderabad  come-PRES be-PRES    
+		 "Ram often comes to Hyderabad"
+	Theta_Roles::AGENT DESTINATION V
+	Demand_Frame::FRAME_ID_1
+
+FRAME_ID::A%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2p                m            0|?ko|ke_pAsa       n               l            c
+                                 |para|waka
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::A%VI%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to know
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms-->jAna%VT%S2%FID1 (different frame)
+Frames::
+
+        Frame_Name_1::
+        Example::sIwA ko KAnA banAnA AwA hEM | sIwA ko silAI-kaDZAI AwI hEM   
+        Theta_Roles::EXPERIENCER THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::A%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a                m               ko               n                l           c
+k1                 m               0                v|n              l           c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::A%VI%S3
+Verb_Sense::HWN ()
+Eng_Gloss::to cost
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms-->mila%VI%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::yaha kiwAba 125 rupaye meM AwI       hE
+		 this book   125 Rs      in  cost-PRES be-PRES	
+		 "This book costs Rs.125" or "This book comes for Rs.125"
+        Theta_Roles::THEME ASSET V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::A%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k7                 m             meM                n               l            c
+----------------------------------------------------------------------------------------
+
+	Frame_Name_2::
+        Example::yaha kiwAba 125 rupaye kI AwI       hE
+		 this book   125 Rs     in  cost-PRES be-PRES	
+		 "This book costs Rs.125" or "This book comes for Rs.125"
+        Theta_Roles::THEME ASSET V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::A%VI%S3%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+r6v                m             kI|kA|ke           n               l            c
+----------------------------------------------------------------------------------------
+***********************************************************************************************
+
+SID::A%VI%S4 (TIka_A)
+Verb_Sense::HWN (6)
+Eng_Gloss::to fit
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma ko  yaha jUwA TIka nahIM AwA      hE
+		 Ram  DAT this shoe well not   fit-PRES be-PRES
+		 "This shoe doesn't fit well to Ram"
+        Theta_Roles::EXPERIENCER THEME V
+        De`mand_Frame::FRAME_ID_1
+
+FRAME_ID::A%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a		   m		 ko                 n		    l		 c
+k1 		   m		 0		    n		    l		 c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::A%VI%S5
+Verb_Sense::HWN (9)
+Eng_Gloss::to hold
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> samA%VI%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::isa  bowala meM AXA  litara pAnI  AwA       hE
+		 this bottle in  half litre  water hold-PRES be-PRES
+		 "This bottle holds half litre of water"
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::A%VI%S5%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                m             meM                n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::A%VI%S6
+Verb_Sense::HWN (12)
+Eng_Gloss::to return, to come back
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms-->lOta%VI%S1%FID1, vApas_A; Verb frames populated-->vApas_A
+
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xaPwara se Gara pAzca baje AwA hEM
+        Theta_Roles::AGENT SOURCE GOAL V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::A%VI%S6%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k5                 d               se              n               l              c
+k2p                m               0|?ko           n               l              c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::A%VI%S7
+Verb_Sense::HWN (14)
+Eng_Gloss::to enter
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> Gusa%VI%S1%FID1, praveSa_kar, xAKZila_honA; Verb frames populated-->praveSa_kar, xAKZila_ho
+Frames::
+
+        Frame_Name_1::
+        Example::aXyApaka paDZAne ke lie kakRA meM AweM (praveSa karawA) hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::A%VI%S7%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn		 reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k7p                m               meM             n               l              c
+----------------------------------------------------------------------------------------
+
+
+
+

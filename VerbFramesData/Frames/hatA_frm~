@@ -1,0 +1,47 @@
+Verb::hatA
+SID::hatA%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to remove
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::nOkara mejZa se|para se barwana hatAwA hEM
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::hatA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              0|ko            n               l              c
+k5		    d		   se|para_se      n		   l 		  c             		
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::hatA%VT%S2
+Verb_Sense::HWN ()
+Eng_Gloss::to remove stains, 
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::sarPa kapadoM se xAgZa (ko) hatAwA hEM  
+        Theta_Roles::CAUSE SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::hatA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              0|ko            n               l              c
+k5                  d              se              n               l              c
+----------------------------------------------------------------------------------------
+
+
+

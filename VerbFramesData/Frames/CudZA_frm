@@ -1,0 +1,47 @@
+Verb::CudZA
+SID::CudZA%VT%S1
+Verb_Sense::HWN (5)
+Eng_Gloss::to remove
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::XobI kapadZoM se xAgZa CudZAwA hEM
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CudZA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k5                 m              se                n                l           c
+k2                 m		  0		    n		     l		 c	              
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::CudZA%VT%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::baccA apnA hAWa CudZAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CudZA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k2                 m		  0		    n		     l		 c	              
+----------------------------------------------------------------------------------------
+
+
+
+

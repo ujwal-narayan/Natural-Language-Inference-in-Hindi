@@ -1,0 +1,22 @@
+Verb::mazgA
+SID::mazgA%VCAUS%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->mazgavA; Verb frames to be populated-->mazgavA
+Frames::
+
+        Frame_Name_1::
+        Example::rAma SyAma se xillI se miTAI mazgAwA hEM
+        Theta_Roles::CAUSER CAUSEE SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mazgA%VCAUS%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m               0                 n                l            c
+jk1                 m               se                n                l            c  
+k2		    m               0                 n                l            c 
+k5                  d               se                n                l            c         
+----------------------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+Verb::bacA
+SID::bacA%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to save
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bacawa_kar; Verb frames populated-->bacawa_kar
+Frames::
+
+        Frame_Name_1::
+        Example::rAma pEse  bacAwA    hE
+	         Ram  money save-PRES be-PRES
+		 "Ram saves money"
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bacA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n                l           c
+k2                 m             0                  n                l           c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::bacA%VT%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to protect
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->rakSA_kar; Verb frames populated-->rakSA_kar
+Frames::
+
+        Frame_Name_1::
+        Example::dOYktara baccoM   ko  bimAriyoM se   bacAwe       hEM    /rAma bacce ko  dUbane   se   bacAwA       hE
+		 doctor   children ACC diseases  from protect-PRES be-PRES Ram  child ACC drowning from protect-PRES be-PRES
+		 "Doctor saves the children from diseases"                 "Ram saves the child from drowning"
+        Theta_Roles::AGENT THEME  V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bacA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn       reln
+----------------------------------------------------------------------------------------
+k1                  m              0                n                l          c
+k2                  m              ko               n                l          c
+k5                  d              se               n|v              l          c
+----------------------------------------------------------------------------------------
+

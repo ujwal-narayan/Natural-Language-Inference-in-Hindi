@@ -1,0 +1,105 @@
+
+Frame: k1 + k5 + verb
+===========================
+
+Verb Class: (Verbs having this frame)
+
+(1)BAga			(BAga%VI%S2%FID1)
+(2)PZarAr ho
+(3)gira			(gira%VI%S1%FID1)
+(4)baha			(baha%VI%S1%FID1)
+(5)nikala
+(6)baca			(baca%VI%S1%FID1)
+(7)nikala		(nikala%VI%S2%FID1)
+(8)nikala		(nikala%VI%S3%FID1)
+(9)nikala		(nikala%VI%S5%FID1)
+(10)nikala		(nikala%VI%S9%FID1)
+(11)hata		(hata%VI%S1%FID1)
+(12)saraka
+(13)Kisaka		(Kisaka%VI%S2%FID1)
+(14)hila		(hila%VI%S3%FID1)
+(15)JAzka		(JAzka%VI%S1%FID1)
+(16)lataka		(lataka%VI%S1%FID1)
+(17)JUla
+(18)luDZaka		(luDZaka%VI%S1%FID1)
+(19)mukara		(mukara%VI%S1%FID1)
+(20)palata
+(21)Pira
+(22)sazBala		(sazBala%VI%S1%FID1)
+(23)baca
+(24)tapaka		(tapaka%VI%S1%FID1)
+(25)gira
+(26)gujZara		(gujZara%VI%S1%FID1)
+(27)nikala
+(28)uwara		(uwara%VI%S2%FID1)
+(29)barasa		(barasa%VI%S1%FID1)
+(30)SarmA		(SarmA%VI%S1%FID1)
+(31)bana		(bana%VI%S1%FID1)
+(32)wayyAra_ho
+(33)nikala		(nikala%VI%S8%FID1)
+(34)dara		(dara%VI%S1%FID1)
+(35)GabarA		(GabarA%VI%S1%FID1)
+(36)JAdZa		(JAdZa%VT%S1%FID2)
+(37)rUTa----------------------------------->populated
+
+==========================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+
+I.Frame for the following verbs is given below:
+
+BAga (BAga%VI%S2%FID1), PZarAr ho, gira	(gira%VI%S1%FID1), baha (baha%VI%S1%FID1), nikala, baca (baca%VI%S1%FID1), nikala (nikala%VI%S2%FID1), 
+nikala (nikala%VI%S3%FID1), nikala (nikala%VI%S5%FID1), nikala (nikala%VI%S9%FID1), hata (hata%VI%S1%FID1), saraka, Kisaka (Kisaka%VI%S2%FID1), 
+hila (hila%VI%S3%FID1), JAzka (JAzka%VI%S1%FID1), lataka (lataka%VI%S1%FID1), JUla, luDZaka (luDZaka%VI%S1%FID1), mukara (mukara%VI%S1%FID1), palata, Pira, sazBala	(sazBala%VI%S1%FID1), baca, tapaka (tapaka%VI%S1%FID1), gira, gujZara (gujZara%VI%S1%FID1), nikala, uwara (uwara%VI%S2%FID1), rUTa
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k5                 m             se                 n               l            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+barasa (barasa%VI%S1%FID1), SarmA (SarmA%VI%S1%FID1), bana (bana%VI%S1%FID1), wayyAra_ho, JAdZa (JAdZa%VT%S1%FID2)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 d             se                 n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+nikala (nikala%VI%S8%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 m              meM_se|meM      n                l            c
+k1                 m              0               n                l            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+IV.Frame for the following verbs is given below: 
+
+dara (dara%VI%S1%FID1), GabarA (GabarA%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k5                 m               se               n                l            c                             
+----------------------------------------------------------------------------------------

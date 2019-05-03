@@ -1,0 +1,87 @@
+Verb::GUma
+SID::GUma%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to go on a tour
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->GUma-PZira, PZira%VI%S2%FID1; Verb frames populated-->GUma-PZira
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xeSaBara meM GUmawA hEM | vaha jagaha jagaha GUmawA hEM | pakRI Bojana kI Koja meM xUra xUra waka GUmawe hEM | vaha sadZakoM para GUmawA hEM | vaha Sava ke cAroM ora GUmawI hEM
+	Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GUma%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k7p	            m		   0|meM|waka|para n               l              c
+				   |ora
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::GUma%VI%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to walk
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->tahal, cala-PZira; Verb frames populated-->tahal, cala-PZira
+Frames::
+
+        Frame_Name_1::
+        Example::vaha bAga meM GUmawA hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GUma%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k7p                 m              meM             n               l              c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::GUma%VI%S3
+Verb_Sense::HWN (1)
+Eng_Gloss::to move round, to revolve, to spin, 
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::pruWvI apanI XurI para GUmawI hEM | pahiyA GUmawA hEM |
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GUma%VI%S3
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::GUma%VI%S4
+Verb_Sense::HWN (2)
+Eng_Gloss::to take a turn
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->mudZa%VI%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::yaha rAswA wAlAba ki ora GUmawA hEM | yaha sadZaka xAyeM GUmawI hEM ?????
+        Theta_Roles::THEME DIRECTION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GUma%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+rd                  m              0|ki_ora        n		   l              c
+----------------------------------------------------------------------------------------
+

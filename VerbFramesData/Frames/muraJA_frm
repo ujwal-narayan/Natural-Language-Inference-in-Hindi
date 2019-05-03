@@ -1,0 +1,22 @@
+Verb::muraJa
+SID::muraJA%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->sUKa; Verb frames to be formulated-->sUKa
+Frames::
+
+        Frame_Name_1::
+        Example::XUpa ke kAraNa pOXe muraJawe hEM
+        Theta_Roles::REASON EXPERIENCER V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::muraJA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+rh                 d               se|kI_vajah_se|  n                l            c
+                                   ke_kAraNa
+----------------------------------------------------------------------------------------
+

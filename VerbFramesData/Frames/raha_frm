@@ -1,0 +1,64 @@
+Verb::raha
+SID::raha%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to settle, live
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> nivAsa_kar, basa (no habitual TAM); Verb frames populated--> nivAs_kar, basa (no habitual TAM)
+Frames::
+
+        Frame_Name_1::
+        Example::uskA BAI xillI meM rahawA hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::raha%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                m               meM              n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::raha%VI%S2
+Verb_Sense::HWN (8)
+Eng_Gloss::to stay
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> ruka%VI%S2%FID1, Tahara%VI%S1%FID1, tika%VI%S2%FID1, uwara%VI%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::ham jab BI xillI jAwe hEM wo SarmA jI ke yahAM rahawe hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::raha%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                m               0|meM            n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::raha%VI%S3
+Verb_Sense::HWN (9)
+Eng_Gloss::to last for long time
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> tika%VI%S1%FID1, cala%VI%S6%FID1, Tahara; Verb frames populated--> Tahara; 
+Frames::
+
+        Frame_Name_1::
+        Example::acCI kampaniyoM ke uwpAxa jZyAxA xin waka rahawe hEM
+        Theta_Roles::THEME TIME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::raha%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t                m               0|waka           n                l            c
+----------------------------------------------------------------------------------------

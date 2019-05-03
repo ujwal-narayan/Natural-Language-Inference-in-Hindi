@@ -1,0 +1,22 @@
+Verb::niBA
+SID::niBA%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to play a role
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha nAtaka meM rAma kI BUmikA niBAwA hEM
+        Theta_Roles::AGENT ??? THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::niBA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               0|ko              n                l            c  
+k7                 d               meM               n                l            c                           
+----------------------------------------------------------------------------------------
+

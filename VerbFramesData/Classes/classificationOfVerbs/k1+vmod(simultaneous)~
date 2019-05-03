@@ -1,0 +1,43 @@
+
+Frame: k1 + vmod(simultaneous) + verb
+==========================================
+
+Verb Class: (Verbs having this frame)
+
+(1)ataka		(ataka%VI%S2%FID1)
+(2)ruka			(ruka%VI%S1%FID1)
+(3)ataka
+(4)baMx_ho
+(5)muskurA		(muskurA%VI%S1%FID2)
+
+=================================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frames for the following verbs is given below:
+
+ataka (ataka%VI%S2%FID1), ruka (ruka%VI%S1%FID1), ataka, baMx_ho
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+vmod               m             0                  v               l            c
+(simultaneous)
+----------------------------------------------------------------------------------------
+
+==============================================================================================
+
+
+II.Frames for the following verbs is given below:
+
+muskurA (muskurA%VI%S1%FID2)
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+vmod               d               0                 v                l            c
+(simultaneous)                             
+----------------------------------------------------------------------------------------

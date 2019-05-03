@@ -1,0 +1,87 @@
+Verb::jodZa
+SID::jodZa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to join
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> lagA%VT%S6%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::baDZaI mejZa ke tUte hue pAe ko jodZawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jodZa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               0|ko             n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::jodZa%VT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to add
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sAmAna ke xAma minitoM meM jodZawA hEM 
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jodZa%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               0|ko             n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::jodZa%VT%S3
+Verb_Sense::HWN (3)
+Eng_Gloss::to unite
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vivAha xo parivAroM ko jodZawA hEM
+        Theta_Roles::?? ??  V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jodZa%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               ko               n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::jodZa%VT%S4
+Verb_Sense::HWN (4)
+Eng_Gloss::to save
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> jamA_kara, jutA, ikatTA_kara; Verb frames populated--> jamA_kara, jutA, ikatTA_kara
+Frames::
+
+        Frame_Name_1::
+        Example::vaha eka eka pEsA jodZawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jodZa%VT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+

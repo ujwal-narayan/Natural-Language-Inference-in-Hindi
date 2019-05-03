@@ -1,0 +1,87 @@
+Verb::uTA
+SID::uTA%VT%S1
+Verb_Sense::HWN (11)
+Eng_Gloss::to lift
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha boJa uTAwA hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTA%VT%S1%FID1
+--------------------------------------------------------------------------------------
+arc_label	necessity	vibhakti	lextype         src-pos       reln             
+--------------------------------------------------------------------------------------
+k1		m                   0            n		l              c
+k2              m                   0            n		l              c
+--------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::uTA%VT%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to start
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> calA, CedZa, AramBa_kara, SurU_kara, nikAla; Verb frames to be populated--> calA, CedZa, AramBa_kara, SurU_kara, nikAla
+Frames::
+
+	Frame_Name_1::
+        Example::vaha bAra bAra SAxI ki bAwa uTAwe hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTA%VT%S2%FID1
+--------------------------------------------------------------------------------------
+arc_label	necessity	vibhakti	lextype         src-pos       reln             
+--------------------------------------------------------------------------------------
+k1		m                   0            n		l              c
+k2              m                   0            n		l              c
+--------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::uTA%VT%S3
+Verb_Sense::HWN (12)
+Eng_Gloss::to wakeup
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> jagA%VT%S1%FID1
+Frames::
+
+	Frame_Name_1::
+        Example::mAz rojZa subaha muJe uTAwI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTA%VT%S3%FID1
+--------------------------------------------------------------------------------------
+arc_label	necessity	vibhakti	lextype         src-pos       reln             
+--------------------------------------------------------------------------------------
+k1		   m                0             n		  l             c
+k2                 m                ko            n		  l             c
+--------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::uTA%VCAUS%S4
+Verb_Sense::HWN (10)
+Eng_Gloss::to cause to getup
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+        Example::rAma mohan ko apnI jagah se/ kursI par se uTAwA hEM 
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTA%VCAUS%S4%FID1
+--------------------------------------------------------------------------------------
+arc_label	necessity	vibhakti	lextype         src-pos       reln             
+--------------------------------------------------------------------------------------
+pk1		m                   0            n		l              c
+jk1             m                   ko           n		l              c
+k5		m		    se|par_se	 n		l	       c
+--------------------------------------------------------------------------------------

@@ -1,0 +1,212 @@
+
+Frame: k1 + k2p + verb
+===========================
+
+Verb Class: (Verbs having this frame)
+
+(1)A       	(A%VI%S1%FID1) 'come'
+(2)pahuzca 	'come' 
+(3)paXAra  	(paXAra%VI%S1%FID1) 'arrive' 
+(4)jA      	(jA%VI%S1%FID1) 'go'
+(5)A       	(A%VI%S6%FID1) 'return'
+(6)lOta    	(lOta%VI%S1%FID1) 'return'
+(7)vApas_A 	'return'
+(8)cala    	'go'
+(9)xOdZa   	'run'
+(10)BAga   	'run'
+(11)caDZa  	(caDZa%VI%S1%FID2) 'climb'
+(12)caDZa  	(caDZa%VI%S2%FID1) 'raise'
+(13)baDZa  	'raise'
+(14)cala   	(cala%VI%S4%FID2) 'sail'
+
+============================================
+
+All the above verbs are motion verbs except caDZa (caDZa%VI%S2%FID1) 'raise' and baDZa 'raise'. karta (k1) and Goal (k2p) are the mandatory arguments for these verbs. A (A%VI%S1%FID1) 'come', pahuzca 'come', paXAra (paXAra%VI%S1%FID1) 'arrive', jA (jA%VI%S1%FID1) 'go', cala 'go', xOdZa 'run', BAga 'run', caDZa (caDZa%VI%S1%FID2) 'climb' and cala (cala%VI%S4%FID2) 'sail' are verbs which denote moving from one place to the other. But these verbs mainly focus on the end point of movement i.e. Goal (k2p). A (A%VI%S6%FID1) 'return', lOta (lOta%VI%S1%FID1) 'return', vApas_A 'return' also focus on source point. They focus on both source (k5) and goal (k2p). These verbs take source (Apadaan-k5) as desirable argument. Source (Apadaan-k5) is not mandatory as semantics of the verb is fulfilled even if Apadaan-k5 is dropped. caDZa (caDZa%VI%S2%FID1) 'raise' and baDZa 'raise' are not motion verbs. They denote increase in quantity from one point to the other. So the end point of increment is considered as Goal (k2p). karta (k1) is non-human in these verbs. These verbs take vishayaadhikaran (k7) as desirable argument.
+
+
+Above verbs are divided into following classes:
+
+Motion Verbs:
+===============
+A       	(A%VI%S1%FID1) 'come'
+pahuzca 	'come' 
+paXAra  	(paXAra%VI%S1%FID1) 'arrive' 
+jA      	(jA%VI%S1%FID1) 'go'
+A       	(A%VI%S6%FID1) 'return'
+lOta    	(lOta%VI%S1%FID1) 'return'
+vApas_A 	'return'
+cala    	'go'
+xOdZa   	'run'
+BAga   		'run'
+caDZa  		(caDZa%VI%S1%FID2) 'climb'
+cala   		(cala%VI%S4%FID2) 'sail'
+
+
+Raise Verbs (Quantity Increment):
+==========================
+caDZa  	(caDZa%VI%S2%FID1) 'raise'
+baDZa  	'raise'
+
+
+
+Even though all the verbs above have the same frame i.e. k1 + k2p, but they differ in the vibhaktis (Hindi postpositions) that k1 and k2p take. Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+
+
+I.Frame for the following verbs is given below:
+
+A (A%VI%S1%FID1) 'come', pahuzca 'come'. 
+
+For these verbs k2p takes any of these vibhaktis: 0, ?ko, ke_pAsa, para, waka.
+
+Example::rAma aksara hExarAbAxa AwA hE
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2p                m             0|?ko|ke_pAsa      n               l            c
+                                 |para|waka
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+II.Frame for the following verbs is given below: 
+
+paXAra (paXAra%VI%S1%FID1) 'arrive'.
+
+For these verbs k2p takes any of these vibhaktis: 0, ?ko, ke_pAsa, para 
+
+Example::pIra  bAbA  (hameSA) (yahAz) paXArawe    hE
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2p                m             0|?ko|ke_pAsa|para n               l            c                    
+---------------------------------------------------------------------------------------- 
+
+================================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+jA (jA%VI%S1%FID1) 'go'. 
+
+For these verbs k2p takes any of these vibhaktis: 0, ?ko, meM, para, ke_pAsa, waka 
+
+Example::vaha skUla jAwA hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m             0                n               l              c
+k2p	 	    m		  0|?ko|meM|para|  n               l              c
+				  ke_pAsa|waka
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+
+Frame: k1 + k5 + k2p + verb
+=============================
+
+IV.Frame for the following verbs is given below:
+
+A (A%VI%S6%FID1) 'return', lOta (lOta%VI%S1%FID1) 'return', vApas_A 'return'. 
+
+For these verbs k2p takes any of these vibhaktis: 0 and ?ko. 
+
+These verbs also take source i.e., Apadaan (k5) as a desirable argument with vibhakti se.
+
+Example::vaha xaPwara se Gara pAzca baje AwA hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k5                 d               se              n               l              c
+k2p                m               0|?ko           n               l              c
+----------------------------------------------------------------------------------------
+
+=====================================================================================================
+
+
+V.Frame for the following verbs is given below:
+
+cala 'go', xOdZa 'run', BAga 'run' is given below. 
+
+For these verbs k2p takes any of these vibhaktis: 0 and ?ko.
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2p                m               0|?ko           n               l              c
+----------------------------------------------------------------------------------------
+
+======================================================================================================
+
+
+VI.Frame for the following verbs is given below:
+
+caDZa (caDZa%VI%S1%FID2) 'climb'. 
+
+For this verb k2p takes para vibhakti.
+
+Example::vaha Cawa para caDZawA hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2p                m               para             n                l            c                             
+----------------------------------------------------------------------------------------
+
+========================================================================================================
+
+
+
+Frame: k7 + k1 + k2p + verb
+=============================
+
+VII.Frame for the following verbs is given below:
+
+caDZa (caDZa%VI%S2%FID1) 'raise', baDZa 'raise'. 
+
+For these verbs k2p takes waka vibhakti.
+
+They also take vishayaadhikaran (k7) as desirable argument with meM vibhakti
+
+Example::barasAwa meM naxI kA pAnI kamara waka caDZawA hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7                 d               meM              n                l            c
+k1                 m               0                n                l            c
+k2p                m               waka             n                l            c
+----------------------------------------------------------------------------------------
+
+========================================================================================================
+
+
+VIII.Frame for the following verbs is given below:
+
+cala (cala%VI%S4%FID2) 'sail'. 
+
+For this verb k2p takes waka vibhakti.
+
+Example::yaha nAva usa GAta waka calawI hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2p		   d		   waka		    n		     l            c
+----------------------------------------------------------------------------------------
+
+

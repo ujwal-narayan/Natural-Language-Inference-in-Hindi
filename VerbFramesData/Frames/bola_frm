@@ -1,0 +1,160 @@
+Verb::bola
+SID::bola%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to utter
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kaha; Verb frames populated-->kaha
+Frames::
+
+	Frame_Name_1::
+        Example::sImA dZa ko ra bolawI hEM
+        Theta_Roles::AGENT THEME1 THEME2 V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bola%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              ko                n                l            c
+k2g                m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::bola%VDT%S2
+Verb_Sense::HWN (5)
+Eng_Gloss::to advise, to order
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kaha%VDT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::gurujI rAma ko paDZane ke liye bolawe hEM (can we also use 'ko' instead of 'ke liye')
+        Theta_Roles::AGENT RECEPIENT TOPIC V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bola%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k4                 m              ko                n                l            c
+k2                 m              ko|ke_liye        v                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::bola%VDT%S3
+Verb_Sense::HWN (6)
+Eng_Gloss::to tell
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kaha%VDT%S4%FID1, bawA%VDT%S1%FID1 (different vibhakti; k2 takes ko)
+Frames::
+
+
+	Frame_Name_1::
+        Example::rAma muJa se bolawA hEM kI hE ki vaha kal AyegA
+        Theta_Roles::AGENT RECIPIENT V TOPIC
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bola%VDT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k4                 m              ko|se             n                l            c
+k2                 m              0                 cl|n             r            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::bola%VT%S4
+Verb_Sense::HWN (8)
+Eng_Gloss::to tell something offending
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kaha%VDT%S3%FID1, sunA; Verb frames populated--> sunA
+Frames::
+
+
+        Frame_Name_1::
+        Example::sAsa bahU ko ultA-sIXA bolawI hEM
+        Theta_Roles::AGENT RECIPIENT TOPIC V
+        Demand_Frame::FRAME_ID_4
+
+FRAME_ID::bola%VT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k4                 m              ko                n                l            c
+k2                 m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::bola%VT%S5
+Verb_Sense::HWN (10)
+Eng_Gloss::to utter words
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+        Example::vaha rAma-rAma bolawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bola%VT%S5%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::bola%VT%S6
+Verb_Sense::HWN (11)
+Eng_Gloss::to talk
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bAwa_kar; Verb frames populated -->bAwa_kar
+Frames::
+
+	Frame_Name_1::
+        Example::SIlA muJa se nahIM bolawI hEM
+        Theta_Roles::ACTOR1 ACTOR2 V
+        Demand_Frame::FRAME_ID_6
+
+FRAME_ID::bola%VT%S6%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              se                n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::bola%VT%S7
+Verb_Sense::HWN (15)
+Eng_Gloss::to give lecture
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+        Example::vaha sammelana meM anuSAsana ke mahawva para/ke_bAre_meM bolawA hEM
+        Theta_Roles::AGENT TOPIC V
+        Demand_Frame::FRAME_ID_7
+
+FRAME_ID::bola%VT%S7%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              para|ke_bAre_meM  n                l            c
+----------------------------------------------------------------------------------------
+
+

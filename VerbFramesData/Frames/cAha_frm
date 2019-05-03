@@ -1,0 +1,43 @@
+Verb::cAha
+SID::cAha%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to like,to love
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->prema_kar(different vibhakti: takes se vibhakti with k2), pasand_kar; Verb frames populated-->prema_kar, pasand_kar
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apane baccoM ko cAhawA hEM
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cAha%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              ko                n                l            c                             
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::cAha%VT%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to desire, to want
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha AjZAxI cAhawA hEM / vaha praSna pUCanA cAhawA hEM
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cAha%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              0                 n|v              l            c
+----------------------------------------------------------------------------------------
+

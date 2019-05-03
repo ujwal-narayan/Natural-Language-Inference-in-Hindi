@@ -1,0 +1,68 @@
+Verb::bulA
+SID::bulA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to call
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->pukAra%VT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sIwA ko iSAre se bulAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bulA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              ko                n                l            c                             
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::bulA%VDT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to address
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kaha%VT%S2%FID1 (different vibhakti--> k2g takes both only 0), pukAra; Verb frames populated-->pukAra
+Frames::
+
+	Frame_Name_1::
+        Example::saba usa ko mIrA bulAwe hEM | saba usa ko mIrA ke nAma se bulAwe hEM | saba usa ko mIrA BI bulAwe hEM
+        Theta_Roles::AGENT THEME1 THEME2 V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::bulA%VDT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              ko                n                l            c
+k2g		   m              0|se              n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::bulA%VT%S3
+Verb_Sense::HWN (2)
+Eng_Gloss::to invite
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha saba ko Gara para bulAwA hEM
+        Theta_Roles::AGENT THEME DESTINATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bulA%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              ko                n                l            c
+k7p                m              para              n                l            c
+----------------------------------------------------------------------------------------
+
+

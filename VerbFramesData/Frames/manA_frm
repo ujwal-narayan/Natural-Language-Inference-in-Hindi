@@ -1,0 +1,67 @@
+Verb::manA
+SID::manA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to coax
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::mAz bacce ko manAwI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::manA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                 n                l            c
+k2                 m               ko                n                l            c                             
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::manA%VT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to convince
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->manA_le, rAjZI_kara; Verb frames to be populated-->manA_le, rAjZI_kara
+Frames::
+
+        Frame_Name_1::
+        Example::rAma SyAma ko yaha kAma karne ke lie manAwA hEM
+        Theta_Roles::AGENT THEME PURPOSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::manA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                 n                l            c
+k2                 m               ko                n                l            c  
+rt		   m		   ke_lie	     v		      l		   c                           
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::manA%VT%S3
+Verb_Sense::HWN (4)
+Eng_Gloss::to celebrate
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::hama xivAlI manAwe hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::manA%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                 n                l            c
+k2                 m               0|ko              n                l            c                    
+----------------------------------------------------------------------------------------
+
+

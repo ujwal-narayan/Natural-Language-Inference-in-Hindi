@@ -1,0 +1,41 @@
+
+Frame: pk1 + mk1 + jk1 + k2 + verb
+====================================================
+
+Verb Class: (Verbs having this frame)
+
+(1)siKavA------------------------------------->populated			
+(2)xiKavA------------------------------------->populated			
+(3)caravA------------------------------------->populated			
+(4)sunavA------------------------------------->populated			
+(5)samaJavA------------------------------------->populated			
+(6)paDZvA------------------------------------->populated			
+(7)catavA------------------------------------->populated
+(8)caKavA------------------------------------->populated
+(9)jiwavA------------------------------------->populated
+(10)KilavA------------------------------------->populated
+(11)pahanavA------------------------------------->populated
+
+
+
+======================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+siKavA, xiKavA, caravA, sunavA, samaJavA, paDZvA, catavA, caKavA, jiwavA, KilavA, pahanavA
+
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m             0                  n               l            c
+mk1                 m             se                 n               l              c
+jk1                 m             ko                 n               l            c
+k2                  m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+

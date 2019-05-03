@@ -1,0 +1,62 @@
+
+Frame: k1 + rd
+===================
+
+Verb Class: (Verbs having this frame)
+
+(1)BAga			(BAga%VI%S1%FID2)
+(2)xOdZa
+(3)BAga			(BAga%VI%S3%FID1)
+(4)baha
+(5)GUma			(GUma%VI%S4%FID1)
+(6)mudZa		(mudZa%VI%S1%FID1)
+(7)A
+(8)jA
+(9)baDZA
+
+
+===============================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+BAga (BAga%VI%S1%FID2), xOdZa, A, jA, baDZA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+rd                 m             kI_ora             n               l            c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+II.Frame for the following verbs is given below:
+
+BAga (BAga%VI%S3%FID1), baha
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+rd                 d             kI_ora             n               l            c
+----------------------------------------------------------------------------------------
+
+
+====================================================================================================
+
+
+
+III.Frame for the following verbs is given below:
+
+GUma (GUma%VI%S4%FID1), mudZa (mudZa%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+rd                  m              0|ki_ora        n		   l              c
+----------------------------------------------------------------------------------------

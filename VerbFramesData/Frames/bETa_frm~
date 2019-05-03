@@ -1,0 +1,44 @@
+Verb::bETa
+SID::bETa%VI%S1
+Verb_Sense::HWN (1,9)
+Eng_Gloss::to sit
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kursI para/goxI meM bETawA hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bETa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7p                d              para|meM          n                l            c                             
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::bETa%VI%S2
+Verb_Sense::HWN (10,11)
+Eng_Gloss::to settle down
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->jama; Verb frames populated-->jama
+Frames::
+
+        Frame_Name_1::
+        Example::rewa pAnI meM bETa jAwI hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bETa%VI%S2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m              0                n                l            c
+k7p                 m              meM              n                l            c
+----------------------------------------------------------------------------------------
+
+

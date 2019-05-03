@@ -1,0 +1,89 @@
+Verb::ruka
+SID::ruka%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to stop
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> ataka, baMx_ho; Verb frames populated--> ataka, baMx_ho
+Frames::
+
+        Frame_Name_1::
+        Example::yaha gAdZI calawe calawe rukawI hEM
+        Theta_Roles::THEME ? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ruka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n               l            c
+vmod               m               0                n               l            c
+(simultaneous)
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::ruka%VI%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to stay
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> tika%VI%S2%FID1, Tahara%VI%S1%FID1, raha%VI%S2%FID1, uwara%VI%S1%FID1 
+Frames::
+
+        Frame_Name_1::
+        Example::ham jab BI xillI jAwe hEM wo SarmA jI ke yahAM rukawe hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ruka%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n               l            c
+k7p		   m               0|meM       	    n               l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::ruka%VI%S3
+Verb_Sense::HWN (3)
+Eng_Gloss::to stop
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> baMx_ho, Wama, Tahara; Verb frames populated--> baMx_ho, Wama, Tahara
+Frames::
+
+        Frame_Name_1::
+        Example::bAriSa ki vajaha se kAma - XaMxA rukawA hEM
+        Theta_Roles::CAUSE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ruka%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d               se|ki_vajaha_se| n               l            c
+                                   ke_kAraNa
+k1                 m               0                n               l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::ruka%VI%S4
+Verb_Sense::HWN (5)
+Eng_Gloss::to halt
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> Tahara; Verb frames populated--> Tahara
+Frames::
+
+        Frame_Name_1::
+        Example::gAdZI isa steSana para nahIM rukawI hEM
+        Theta_Roles::THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ruka%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k7p                m               para            n                l            c
+----------------------------------------------------------------------------------------
+

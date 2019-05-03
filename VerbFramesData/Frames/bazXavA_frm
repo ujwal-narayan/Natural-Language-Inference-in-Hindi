@@ -1,0 +1,46 @@
+Verb::bazXavA
+SID::bazXavA%VCaus1%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to get something tied
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI bahana se rAKi bazXvAwA hEM
+        Theta_Roles::CAUSER CAUSEE THEME V THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bazXavA%VCaus1%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn           reln
+----------------------------------------------------------------------------------------
+pk1                 m              0               n               l              c
+jk1    		    m              se              n               l		  c
+k2                  m              0               n               l              c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::bazXavA%VCaus1%S2
+Verb_Sense::HWN ()
+Eng_Gloss::to get something constructed
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha pula bazXavAwA hEM
+        Theta_Roles::CAUSER THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bazXavA%VCaus1%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m              0                n                l            c
+jk1		    m		   se               n                l            c
+k2                  m              0                n                l            c
+----------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,21 @@
+Verb::sazBala
+SID::sazBala%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to be cautious
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->baca; Verb frames populated-->baca
+Frames::
+
+        Frame_Name_1::
+        Example::vaha ubadZa-KAbadZa rAswe se sazBalawA hEM | vaha jaMglI jAnavaroM se sazBalawA hEM
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::sazBala%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k5                 m              se                n                l            c
+----------------------------------------------------------------------------------------
+

@@ -1,0 +1,40 @@
+Verb::cIKZa
+SID::cIKZa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to scream
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> Sora_macA, hallA_macA, cillA%VI%S2%FID1-cillA%VI%S2%FID2, Sora_kara; Verb frames populated--> Sora_macA, hallA_macA, Sora_kara
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xarxa se cIKZawA hEM 
+        Theta_Roles::AGENT CAUSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cIKZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh		  d		   se|ke_kAraNa|    n		     l		 c
+                                   |kI_vajaha_se
+k1                m                0                n                l            c
+----------------------------------------------------------------------------------------
+
+	Frame_Name_2::
+        Example::vaha kutte ko xekhkara cIKZawA hEM
+        Theta_Roles::AGENT CAUSE V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::cIKZa%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		   d		   0		   v		    l		 c
+(reason)
+k1                 m               0               n                l            c
+----------------------------------------------------------------------------------------
+
+
+******************************************************************************************
+
+

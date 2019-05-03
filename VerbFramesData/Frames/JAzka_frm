@@ -1,0 +1,44 @@
+Verb::JAzka
+SID::JAzka%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to peep
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha KidZakI se JAzkawA hEM 
+        Theta_Roles::AGENT SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::JAzka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k5		   m		   se              n		   l              c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::JAzka%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to peep
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kamare meM JAzkawA hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::JAzka%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k7p                m               meM             n               l              c
+----------------------------------------------------------------------------------------
+
+

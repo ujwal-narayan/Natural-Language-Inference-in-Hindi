@@ -1,0 +1,21 @@
+Verb::gUzja
+SID::gUzja%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to echo
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::mazxira meM AvAjZa gUzjawI hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::gUzja%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                m	           meM              n                l            c
+k1                 m    	   0                n                l            c
+----------------------------------------------------------------------------------------
+

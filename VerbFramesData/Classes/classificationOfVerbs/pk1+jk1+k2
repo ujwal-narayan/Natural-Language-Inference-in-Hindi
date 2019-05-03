@@ -1,0 +1,81 @@
+
+Frame: pk1 + jk1 + k2 + verb
+====================================================
+
+Verb Class: (Verbs having this frame)
+
+(1)baDZavA			(baDZavA%VCaus1%S1%FID1)
+(2)bajavA			(bajavA%VCaus1%S1%FID1)
+(3)banavA			(banavA%VCaus1%S1%FID1)
+(4)bazXavA			(bazXavA%VCaus1%S1%FID1)
+(5)bazXavA			(bazXavA%VCaus1%S2%FID1)
+(6)karA				(karA%VCAUS%S1%FID1)
+(7)karavA			(karavA%VCAUS%S1%FID1)
+(8)liKA				(liKA%VCAUS%S1%FID1)
+(9)liKavA			(liKavA%VCAUS%S1%FID1)
+(10)siKA			(siKA%VCAUS%S1%FID1)
+(11)xiKA			(xiKA%VCAUS%S1%FID1)
+(12)carA			(carA%VCAUS%S1%FID1)
+(13)sunA			(sunA%CAUS%S1%FID1)
+(14)samaJA			(samaJA%VCAUS%S1%FID1)
+(15)paDZA			(paDZA%VCAUS%S1%FID1)
+(16)milA			(milA%VCAUS%S1%FID1)
+(17)milavA
+(18)catA------------------------------------->populated
+(19)caKA------------------------------------->populated
+(20)jiwA------------------------------------->populated
+(21)KilA------------------------------------->populated
+(22)pahanA------------------------------------->populated
+(23)pilA------------------------------------->populated
+(24)KarIxvA------------------------------------->populated
+(25)raKavA------------------------------------->populated
+(26)razgavA------------------------------------->populated
+
+
+======================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+
+baDZavA (baDZavA%VCaus1%S1%FID1), bajavA (bajavA%VCaus1%S1%FID1), banavA (banavA%VCaus1%S1%FID1), bazXavA (bazXavA%VCaus1%S1%FID1), bazXavA (bazXavA%VCaus1%S2%FID1),
+karA (karA%VCAUS%S1%FID1), karavA (karavA%VCAUS%S1%FID1), liKA (liKA%VCAUS%S1%FID1), liKavA (liKavA%VCAUS%S1%FID1), KarIxvA, raKavA, razgavA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m             0                  n               l            c
+jk1                 m             se                 n               l            c
+k2                  m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+II.Frame for the following verbs is given below:
+
+siKA (siKA%VCAUS%S1%FID1), xiKA	(xiKA%VCAUS%S1%FID1), carA (carA%VCAUS%S1%FID1), sunA (sunA%CAUS%S1%FID1), samaJA (samaJA%VCAUS%S1%FID1), 
+paDZA (paDZA%VCAUS%S1%FID1),  catA, caKA, jiwA, KilA, pahanA, pilA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m             0                  n               l            c
+jk1                 m             ko                 n               l            c
+k2                  m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+III.Frame for the following verbs is given below:
+
+milA (milA%VCAUS%S1%FID1), milavA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m               0                 n                l            c
+jk1                 m               ko                n                l            c  
+k2		    m               se                n                l            c        
+----------------------------------------------------------------------------------------

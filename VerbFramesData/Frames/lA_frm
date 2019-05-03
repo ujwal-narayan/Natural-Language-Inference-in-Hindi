@@ -1,0 +1,26 @@
+Verb::lA
+SID::lA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to bring
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma sIwA ke lie bajZAra se Ama lAwA hEM
+        Theta_Roles::AGENT BENEFECIARY SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+rt		   d		   ke_lie	   n               l              c
+k5		   d		   se	   	   n               l              c
+k2                 m               0|ko            n               l              c
+----------------------------------------------------------------------------------------
+
+
+
+       

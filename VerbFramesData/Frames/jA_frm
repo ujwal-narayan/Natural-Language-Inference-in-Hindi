@@ -1,0 +1,45 @@
+Verb::jA
+SID::jA%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to go 
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha skUla jAwA hEM
+        Theta_Roles::AGENT DESTINATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m             0                n               l              c
+k2p	 	    m		  0|?ko|meM|para|  n               l              c
+				  ke_pAsa|waka
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::jA%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to match
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> jazca, mela_KA ; Verb frames populated-->jazca, mela_KA
+Frames::
+
+        Frame_Name_1::
+        Example::isa pEnta ke sAWa yaha Sarta nahIM jAwI
+        Theta_Roles::?? ?? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jA%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+ras                 m             ke_sAWa          n               l              c
+k1	 	    m		  0   		   n               l              c
+				  
+----------------------------------------------------------------------------------------
+

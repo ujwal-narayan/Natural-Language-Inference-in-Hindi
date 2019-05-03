@@ -1,0 +1,21 @@
+Verb::Puxaka
+SID::Puxaka%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::Azgana meM cidZiyA PuxakawI hE
+        Theta_Roles::LOCATION AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Puxaka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d               meM               n                l            c
+k1                 m               0                 n                l            c                          
+---------------------------------------------------------------------------------------
+

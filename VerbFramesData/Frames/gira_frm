@@ -1,0 +1,43 @@
+Verb::gira
+SID::gira%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to fall
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::baccA sIdiyoM se girawA hE
+        Theta_Roles::EXPERIENCER SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::gira%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l             c
+k5                  m              se              n               l             c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::gira%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to fall
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> JadZa; Verb frames populated-->JadZa
+Frames::
+
+        Frame_Name_1::
+        Example::usake bAla bahuwa girawe hEM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID_1::gira%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+----------------------------------------------------------------------------------------
+
+

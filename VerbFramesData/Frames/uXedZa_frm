@@ -1,0 +1,21 @@
+Verb::uXedZa
+SID::uXedZa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->nikAla, Kola; Verb frames to be populated-->nikAla, Kola; 
+Frames::
+
+        Frame_Name_1::
+        Example::sImA salavAra kI silAI uXedZawI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uXedZa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               0|ko              n                l            c                             
+----------------------------------------------------------------------------------------
+

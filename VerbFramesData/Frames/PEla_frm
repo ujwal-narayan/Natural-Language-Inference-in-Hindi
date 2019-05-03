@@ -1,0 +1,20 @@
+Verb::PEla
+SID::PEla%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to spread
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::isa rAjya  meM (bahuwa) BayaMkara mahAmAriyAz  PElawI hE
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::PEla%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c                            
+----------------------------------------------------------------------------------------
+

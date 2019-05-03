@@ -1,0 +1,52 @@
+Verb::ataka
+SID::ataka%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to get stuck
+Verb_Class:: 
+Verbs_in_Same_Class::Synonyms-->PZazsa%VI%S1%FID1, ulaJa%VI%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::haddI gale   meM atakawI    hE
+		 bone  throat in  stuck-PRES be-PRES
+		 "Bone gets stuck in my throat"
+        Theta_Roles::THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ataka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k7p                m             meM                n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::ataka%VI%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to stop
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha paDZawe paDZawe atakawA hEM
+		 he   -PRES  -PRES  stop-PRES      be-PRES
+		 "He stops while "
+        Theta_Roles::EXPERIENCER V 
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::ataka%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+vmod               m             0                  v               l            c
+(simultaneous)
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+
+

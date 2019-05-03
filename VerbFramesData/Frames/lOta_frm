@@ -1,0 +1,46 @@
+Verb::lOta
+SID::lOta%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to return, to come back
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->A%VI%S6%FID1, vApas_A; Verb frames populated-->vApas_A
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xaPwara se Gara pAzca baje lOtawA hEM
+        Theta_Roles::AGENT SOURCE GOAL V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lOta%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k5		   d               se		   n		   l              c
+k2p                m               0|?ko           n               l              c
+----------------------------------------------------------------------------------------
+
+************************************************************************************************
+
+SID::lOta%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to turn back
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> palata, mudZa%VI%S3%FID1, GUma, Pira; Verb frames populated--> palata, GUma, PZira
+Frames::
+
+        Frame_Name_1::
+        Example::mAz ki pukAra sunakara rama lOtawA hEM
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lOta%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+vmod               m               0               v               l              c
+(reason)
+k1                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+
+

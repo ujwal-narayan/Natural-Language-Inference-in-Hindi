@@ -1,0 +1,25 @@
+Verb::baka
+SID::baka%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to jabber, to chatter, to prate
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bakabaka_kara
+Frames::
+
+        Frame_Name_1::
+        Example::vaha bakawA       hE      
+		 he   chatter-PRES be-PRES  
+		 "He chatters"     
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+

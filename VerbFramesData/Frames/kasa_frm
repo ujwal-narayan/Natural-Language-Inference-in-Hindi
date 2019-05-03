@@ -1,0 +1,45 @@
+Verb::kasa
+SID::kasa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to tie
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha XAna ke boJa ko rassI se kasawA hE
+        Theta_Roles::AGENT THEME INSTRUMENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kasa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0|ko            n               l              c
+k3		   d		   se		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::kasa%VT%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to tighten
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha pAnA se maSIna ke purjZoM ko kasawA hEM
+        Theta_Roles::AGENT INSTRUMENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kasa%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k3                 d               se              n               l              c
+k2                 m               0|ko            n               l              c
+----------------------------------------------------------------------------------------
+

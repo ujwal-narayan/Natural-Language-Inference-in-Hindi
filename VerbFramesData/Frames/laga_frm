@@ -1,0 +1,155 @@
+Verb::laga
+SID::laga%VI%S1
+Verb_Sense::HWN (6)
+Eng_Gloss::to cost
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> Karca_ho; Verb frames populated--> Karca_ho
+Frames::
+
+        Frame_Name_1::
+        Example::kirAye ke sO rupaye lagawe hEM
+        Theta_Roles::ASSET V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laga%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+r6v		   m		   kI|kA|ke        n                l            c
+k1                 m               0               n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::laga%VI%S2
+Verb_Sense::HWN (22)
+Eng_Gloss::to be related
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha riSwe meM mere mAmA lagawe hEM
+        Theta_Roles::??????? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laga%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7		   d               meM              n		     l		  c
+k1s                m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::laga%VI%S3
+Verb_Sense::HWN (5)
+Eng_Gloss::to get applied
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> caDZa; Verb frames to be populated--> caDZa
+Frames::
+
+        Frame_Name_1::
+        Example::SAxI meM, xUlhA Ora xulhan ke SarIra para halxI l lagawI hEM 
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laga%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7		    d		   meM		   n		    l            c
+k7p                 m              para            n                l            c
+k1                  m              0               n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::laga%VI%S4
+Verb_Sense::HWN (8)
+Eng_Gloss::to be locked
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->dala, padZa; Verb frames populated-->dala, padZa
+Frames::
+
+        Frame_Name_1::
+        Example::usa kamare ko rojZa wAlA lagawA hEM
+        Theta_Roles::THEME ??????? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laga%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a		   m               ko               n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::laga%VI%S5
+Verb_Sense::HWN (21)
+Eng_Gloss::to seem, to appear, to look
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+	
+	Frame_Name_1::
+        Example:: rAma ko lagawA hE kI kala bAriSa hogI
+        Theta_Roles::EXPERIENCER ???
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laga%VI%S5%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a                m               ko               n                l            c
+k1                 m               0                cl               r            c
+----------------------------------------------------------------------------------------
+
+***************************************************************************************************
+
+SID::laga%VI%S6
+Verb_Sense::HWN (1)
+Eng_Gloss::to touch
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->CU; Verb frames populated--> CU
+Frames::
+
+        Frame_Name_1::
+        Example::parxA jZamIna se lagawA hE
+        Theta_Roles::THEME ??? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laga%VI%S6%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               se               n                l            c
+----------------------------------------------------------------------------------------
+
+***************************************************************************************************
+
+SID::laga%VI%S7
+Verb_Sense::HWN (12)
+Eng_Gloss::to get involved
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->juta; Verb frames populated--> juta
+Frames::
+
+        Frame_Name_1::
+        Example::vaha pUrA xina kAma meM lagawI hEM
+        Theta_Roles::AGENT TIME ??? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laga%VI%S7%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t		   d		   0		    n                l            c
+k7                 m               meM              n                l            c
+----------------------------------------------------------------------------------------

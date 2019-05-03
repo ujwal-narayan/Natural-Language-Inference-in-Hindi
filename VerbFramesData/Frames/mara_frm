@@ -1,0 +1,61 @@
+Verb::mara
+SID::mara%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to die
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->gujZara; Verb frames to be populated-->gujZara
+Frames::
+
+        Frame_Name_1::
+        Example::BUkampa ki vajaha se hajZAroM loga marawe hE 
+        Theta_Roles::CAUSE EXPERIENCER V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mara%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh		  d		  se|ki_vajah_se|   n		     l            c
+				  ke_kAraNa
+k1                m               0                 n                l            c                        
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::xurGatanAoM meM hajZAroM loga marawe hE
+        Theta_Roles::CAUSE EXPERIENCER V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::mara%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7		  d		  meM	    	    n		     l            c				  
+k1                m               0                 n                l            c                        
+----------------------------------------------------------------------------------------
+
+
+********************************************************************************************
+
+SID::mara%VI%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to be attracted
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma sIwA para marawA hEM
+        Theta_Roles::EXPERIENCER ???? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mara%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m               0                 n                l            c
+k2		  m		  para		    n		     l		  c                        
+----------------------------------------------------------------------------------------
+
+
+

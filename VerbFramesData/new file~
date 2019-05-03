@@ -1,0 +1,7 @@
+1.VerbFrames folder shud contain: simple and conjunct verbs (path:demandcharts/verbs/verbframes/verbframes-classes)
+
+2.OnlyVerbFrames folder shud contain frame files (path:demandcharts/verbs/verbframes/verbframes-classes/final-frames-output-data/frame_files)
+
+3.Frames folder shud contain unique frames (path:demandcharts/verbs/verbframes/all-frames/verbclass/old/verbclass)
+
+4.Stats-Report shud contain analysis and stats

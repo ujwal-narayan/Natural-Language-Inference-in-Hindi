@@ -1,0 +1,29 @@
+
+Frame: k1 + k2p + k7t + verb
+===============================================
+
+
+Verb Class: (Verbs having this frame)
+
+
+(1)cala			(cala%VI%S3%FID1)
+(2)prasWAna_kar
+(3)ravAnA_ho
+(4)nikala		(nikala%VI%S6%FID1)
+
+===============================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+cala (cala%VI%S3%FID1), prasWAna_kar, ravAnA_ho, nikala	(nikala%VI%S6%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m                0                n                l            c
+k2p               m                0|ke_liye        n                l            c
+k7t		  m		   0		    n		     l		  c
+----------------------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+Verb::paDZa
+SID::paDZa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to read
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kahAniyAz paDawA hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::paDZa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               0                n                l            c                             
+----------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,21 @@
+Verb::pAla
+SID::pAla%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->parvariSa_kara; Verb frames to be populated-->parvariSa_kara
+Frames::
+
+        Frame_Name_1::
+        Example::mAz-bApa baccoM ko pAlawe hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pAla%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               ko              n               l              c
+----------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Verb::Beja
+SID::Beja%V?%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to send
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+	Example::mAwA-piwA baccoM ko skUla Bejawe hE / vaha baccoM ko rAma ke pAsa BejawA hE
+	Theta_Roles::AGENT THEME DESTINATION V
+	Demand Frame::FRAME_ID_1
+
+	Frame_Name_2::
+	Example::rAma siwA ko saMdeSa Bejawe hEM
+	Theta_Roles::AGENT DESTINATION THEME V
+	Demand Frame::FRAME_ID_2
+
+FRAME_ID::Beja%V?%S1%FID1
+------------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn           reln
+------------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               ko              n               l              c
+k2p                m               0|ke_pAsa       n               l              c
+------------------------------------------------------------------------------------------
+
+FRAME_ID::Beja%V?%S1%FID2
+------------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+------------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k4                 m               ko              n               l              c
+k2                 m               0               n               l              c
+------------------------------------------------------------------------------------------
+
+
+

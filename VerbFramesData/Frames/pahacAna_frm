@@ -1,0 +1,26 @@
+Verb::pahacAna
+SID::pahacAna%VT%S1
+Verb_Sense::HWN (5)
+Eng_Gloss::to identify
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->jAna%VT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::rAma SyAma ko  pahacAnawA     hE
+                 ram  shyam Acc identify-IMPF  be-PRES
+                 "Ram knows Shyam."
+        Theta_Roles::EXPERIENCER THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pahacAna%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               ko              n               l              c
+----------------------------------------------------------------------------------------
+
+
+
+

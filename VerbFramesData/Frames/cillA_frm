@@ -1,0 +1,83 @@
+Verb::cillA
+SID::cillA%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to talk loudly
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha hameSA cillAwA hEM
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cillA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::cillA%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to scream, to cry, to yell
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> Sora_macA, hallA_macA, cIKZa%VI%S1%FID1-cIKZa%VI%S1%FID2, Sora_kara; Verb frames populated--> Sora_macA, hallA_macA, Sora_kara
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xarxa se cillAwA hEM 
+        Theta_Roles::AGENT CAUSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cillA%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh		  d		   se|ke_kAraNa|    n		     l		 c
+                                   |kI_vajaha_se
+k1                m                0                n                l            c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::vaha kutte ko xekhkara cillAwA hEM
+        Theta_Roles::AGENT CAUSE V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::cillA%VI%S2%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		   d		   0		   v		    l		 c
+(reason)
+k1                 m               0               n                l            c
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::cillA%VI%S3
+Verb_Sense::HWN (3)
+Eng_Gloss::to shout at someone
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> dAzta%VT%S1%FID1 (different vibhakti), PatkAra%VT%S1%FID1 (different vibhakti), barasa; Verb frames populated--> barasa
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rAma para cillAwA hEM 
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cillA%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k2  		   m		   para		   n                l            c
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+

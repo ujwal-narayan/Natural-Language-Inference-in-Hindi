@@ -1,0 +1,25 @@
+Verb::jowa
+SID::jowa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to plough, to till
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::kisAna Kewa jowawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jowa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0|ko            n               l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+
+

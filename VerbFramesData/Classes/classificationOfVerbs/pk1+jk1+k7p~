@@ -1,0 +1,62 @@
+
+Frame: pk1 + jk1 + k7p + verb
+====================================================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)bETA			(bETA%VCaus1%S1%FID1)
+(2)GumA			(GumA%VCAUS%S1%FID1)
+(3)sEra_karA
+(4)letA			(letA%VCAUS%S1%FID1)
+(5)letA			(letA%VCAUS%S2%FID1)
+(6)sulA			(sulA%VCAUS%S2%FID1)
+
+
+======================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+bETA (bETA%VCaus1%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m              0                 n                l            c
+jk1                 m              ko                n                l            c
+k7p                 d              para|meM          n                l            c
+----------------------------------------------------------------------------------------
+
+==============================================================================================
+
+II.Frame for the following verbs is given below:
+
+GumA (GumA%VCAUS%S1%FID1), sEra_karA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m               0                n                l            c
+jk1                 m               ko               n                l            c
+K7p		    m		    0		     n		      l		   c
+----------------------------------------------------------------------------------------
+
+==============================================================================================
+
+III.Frame for the following verbs is given below:
+
+letA (letA%VCAUS%S1%FID1), letA	(letA%VCAUS%S2%FID1), sulA
+	
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn         	reln
+----------------------------------------------------------------------------------------
+pk1                 m              0               n               l              c
+jk1                 m              ko              n               l              c
+k7p		    m		   para            n               l              c
+----------------------------------------------------------------------------------------
+
+
+

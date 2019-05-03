@@ -1,0 +1,43 @@
+Verb::bigAdZa
+SID::bigAdZa%VT%S1
+Verb_Sense::HWN (1,2,3)
+Eng_Gloss::to damage
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::xarjI mere kapdZe bigAdZawA hEM
+        Theta_Roles::AGENT PATIENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bigAdZa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m               0                 n                l            c
+k2                m               0|ko              n                l            c                             
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::bigAdZa%VT%S2
+Verb_Sense::HWN (4,6)
+Eng_Gloss::to spoil
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha baccoM ko bigAdZawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bigAdZa%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m               0                 n                l            c
+k2                m               ko                n                l            c
+----------------------------------------------------------------------------------------
+

@@ -1,0 +1,26 @@
+Verb::Pira
+SID::Pira%VI%S1
+Verb_Sense::HWN (4)
+Eng_Gloss::to roam
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->GUma%VI%S1%FID1, GUma-Pira; Verb frames populated-->GUma-Pira
+Frames::
+
+        Frame_Name_1::
+        Example::vaha (yahAz) (vahAz) PirawA    hE
+                 he   (here)  (there) roam-IMPF be-PRES
+                 "He roams here and there"
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Pira%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k7p		   m               0|meM|waka|para n               l              c
+				   |ora		   
+----------------------------------------------------------------------------------------
+
+
+

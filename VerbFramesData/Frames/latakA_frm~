@@ -1,0 +1,45 @@
+Verb::latakA
+SID::latakA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to hang
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->tAzga%VT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha KUztI para topI latakAwA hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::latakA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m           	   0               n                l            c
+k7p                m           	   para            n                l            c
+k2                 m               0|ko		   n		    l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::latakA%VT%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to suspend
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sAre kAma latakAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::latakA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k2                 m               0|ko            n                l            c
+----------------------------------------------------------------------------------------
+
+

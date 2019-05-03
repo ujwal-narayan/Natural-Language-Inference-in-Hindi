@@ -1,0 +1,50 @@
+Verb::bETA
+SID::bETA%VCaus1%S1
+Verb_Sense::HWN (9)
+Eng_Gloss::to seat
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha bacce ko kursii para bETAwA hEM
+        Theta_Roles::AGENT THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bETA%VCaus1%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m              0                 n                l            c
+jk1                 m              ko                n                l            c
+k7p                 d              para|meM          n                l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::bETA%VT%S2
+Verb_Sense::HWN (10)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha tAila bETAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::bETA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+
+
+
+
+
+

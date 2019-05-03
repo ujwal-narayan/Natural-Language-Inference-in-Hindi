@@ -1,0 +1,66 @@
+Verb::dUba
+SID::dUba%VI%S1
+Verb_Sense::HWN(1)
+Eng_Gloss::to drown
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::jahAjZa pAnI meM dUbawA hEM
+        Theta_Roles::THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dUba%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l             c
+k7p	            d              meM             n               l             c
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::dUba%VI%S2
+Verb_Sense::HWN(2)
+Eng_Gloss::to set
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> Dala, aswa_ho; Verb frames formulated--> Dala, aswa_ho
+Frames::
+
+        Frame_Name_1::
+        Example::sUraja paRcima meM dUbawA hEM
+        Theta_Roles::THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dUba%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l             c
+k7p                 d              meM             n               l             c
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::dUba%VI%S3
+Verb_Sense::HWN(3)
+Eng_Gloss::to get involved deeply
+Verb_Class::
+Verbs_in_Same_Class:: Ko%VI%S2%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kAma meM dUba jAwA hEM
+        Theta_Roles::EXPERIENCER ? V 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dUba%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l             c
+k7                  m              meM             n               l             c
+----------------------------------------------------------------------------------------
+
+

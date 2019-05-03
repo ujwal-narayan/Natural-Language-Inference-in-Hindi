@@ -1,0 +1,21 @@
+
+Frame: vmod (sequential) k1 + k2 + verb 
+===========================================
+
+Verb Class: (Verbs having this frame)
+
+(1)jalA 	(jalA%VT%S2%FID1)
+
+
+
+I.Detailed Frame for the following verbs is given below:
+
+Example::vaha rojZa naye kapadZe pahanakara apanI bahana ko jalAwI hEM
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		    m		   0		   v		    l		 c
+(sequential)
+k1                  m              0               n                l            c
+k2                  m              ko              n                l            c
+----------------------------------------------------------------------------------------

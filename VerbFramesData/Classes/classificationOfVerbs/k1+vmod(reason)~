@@ -1,0 +1,79 @@
+
+Frame: k1 + vmod(reason) + verb
+===================================
+
+Verb Class: (Verbs having this frame)
+
+(1)kAzpa		(kAzpa%VI%S2%FID1)
+(2)lOta			(lOta%VI%S2%FID1)
+(3)palata
+(4)mudZa		(mudZa%VI%S3%FID1)
+(5)GUma
+(6)Pira
+(7)Waka			(Waka%VI%S2%FID1)
+(8)hAra
+(9)cIKZa		(cIKZa%VI%S1%FID2)
+(10)cillA		(cillA%VI%S2%FID2)
+(11)Sora_macA
+(12)hallA_macA
+(13)Sora_kara
+(14)dara		(dara%VI%S1%FID2)
+(15)GabarA		(GabarA%VI%S1%FID2)
+(16)kuDZa		(kuDZa%VI%S1%FID1)
+(17)IrSyA_kara
+
+
+================================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frames for the following verbs is given below:
+
+kAzpa (kAzpa%VI%S2%FID1), lOta (lOta%VI%S2%FID1), palata, mudZa	(mudZa%VI%S3%FID1), GUma, Pira, dara (dara%VI%S1%FID2), GabarA (GabarA%VI%S1%FID2)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		    m		  0		    v		     l		 c
+(reason)
+k1                  m             0                 n                l           c
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+
+II.Frames for the following verbs is given below:
+
+Waka (Waka%VI%S2%FID1), hAra
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+vmod		   m		   0		    v		     l		  c
+(?reason/simultaneous)
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+
+III.Frames for the following verbs is given below:
+
+cIKZa (cIKZa%VI%S1%FID2), cillA (cillA%VI%S2%FID2), Sora_macA, hallA_macA, Sora_kara, kuDZa (kuDZa%VI%S1%FID1), IrSyA_kara
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		   d		   0		   v		    l		 c
+(reason)
+k1                 m               0               n                l            c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+
+
+

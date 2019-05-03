@@ -1,0 +1,100 @@
+
+Frame: k1 + k2 + k3 + verb
+=============================================
+
+Verb Class: (Verbs having this frame)
+
+(1)Bara			(Bara%VT%S2%FID1)
+(2)jIwa			(jIwa%VT%S2%FID1)
+(3)kasa			(kasa%VT%S1%FID1)
+(4)kasa			(kasa%VT%S2%FID1)
+(5)kAta			(kAta%VT%S2%FID1)
+(6)kawara		(kawara%VT%S1%FID1)
+(7)kAta
+(8)Podza		(Podza%VT%S1%FID1)
+(9)wodZa
+(10)Xo			(Xo%VT%S1%FID1)
+(11)powa		(powa%VT%S1%FID1)
+(12)pozCa		(pozCa%VT%S1%FID1)
+(13)bAzXa		(bAzXa%VT%S1%FID1)
+(14)buJA		(buJA%VT%S2%FID1)
+(15)mitA	
+(16)lAxa		(lAxa%VT%S1%FID2)
+(17)mAra		(mAra%VT%S1%FID1)
+(18)pIta		(pIta%VT%S1%FID1)
+(19)Toka|Tozka
+(20)pitAI_kara
+(21)mitA		(mitA%VT%S1%FID1)
+(22)luBA		(luBA%VT%S1%FID1)
+(23)moha
+(24)riJA
+		
+===============================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+Bara (Bara%VT%S2%FID1), kasa (kasa%VT%S2%FID1), kAta (kAta%VT%S2%FID1), kawara (kawara%VT%S1%FID1), kAta, Podza	(Podza%VT%S1%FID1), wodZa, Xo (Xo%VT%S1%FID1), 
+powa (powa%VT%S1%FID1), pozCa (pozCa%VT%S1%FID1), bAzXa	(bAzXa%VT%S1%FID1), buJA (buJA%VT%S2%FID1), mitA
+	
+------------------------------------------------------------------------------------------
+arc-label       necessity         vibhakti        lextype           posn          reln
+------------------------------------------------------------------------------------------
+k1                 m               0                 n               l             c
+k2                 m               0|ko              n               l             c 
+k3 		   d 		   se	             n               l		   c
+------------------------------------------------------------------------------------------
+
+===================================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+jIwa (jIwa%VT%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k3                 m               se               n                l            c
+k2                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+====================================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+lAxa (lAxa%VT%S1%FID2)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               ko              n               l              c
+k3		   m		   se		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+======================================================================================================
+
+
+IV.Frame for the following verbs is given below:
+
+mAra (mAra%VT%S1%FID1), pIta (pIta%VT%S1%FID1), Toka|Tozka, pitAI_kara, mitA (mitA%VT%S1%FID1), luBA (luBA%VT%S1%FID1), moha, riJA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               ko                n                l            c  
+k3                 d               se                n                l            c           
+----------------------------------------------------------------------------------------
+
+
+
+
+
+

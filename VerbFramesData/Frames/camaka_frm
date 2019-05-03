@@ -1,0 +1,22 @@
+Verb::camaka
+SID::camaka%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to glow, glitter
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->jagamagA, xamaka; Verb frames to be populated-->jagamagA, xamaka
+Frames::
+
+        Frame_Name_1::
+        Example::sIwA kA ceharA weja se camakawA hEM
+        Theta_Roles::THEME REASON V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::camaka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d             se                 n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+

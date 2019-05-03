@@ -1,0 +1,88 @@
+Verb::KIMca
+SID::KIMca%VT%S1
+Verb_Sense::HWN (8)
+Eng_Gloss::to pull
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rassI KIMcawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::KIMca%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m    	   0               n                l            c
+k2                 m	           0|ko            n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::KIMca%VT%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to draw
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha Gara kA nakSA KIMcawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::KIMca%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k2                 m               0               n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::KIMca%VT%S3
+Verb_Sense::HWN (2)
+Eng_Gloss:: to suck
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> cUsa; Verb frames populated--> cUsa
+Frames::
+
+        Frame_Name_1::
+        Example::saPerA bacce ke SarIra se jZahar KIMcawA hEM
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::KIMca%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k5                 m               se              n                l            c
+k2		   m		   0|ko		   n		    l		 c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::KIMca%VT%S4
+Verb_Sense::HWN ()
+Eng_Gloss::to attract
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::cuMbaka lohe ko KIMcawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::KIMca%VT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k2                 m               0|ko            n                l            c
+----------------------------------------------------------------------------------------
+

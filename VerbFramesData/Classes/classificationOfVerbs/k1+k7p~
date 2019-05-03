@@ -1,0 +1,248 @@
+
+Frame: k1 + k7p + verb 
+===========================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)A			(A%VI%S5%FID1)
+(2)samA			(samA%VI%S1%FID1)
+(3)GUma			(GUma%VI%S2%FID1)
+(4)tahal
+(5)cala-Pira
+(6)caDZa		(caDZa%VI%S4%FID1)
+(7)nikala		(nikala%VI%S1%FID1)
+(8)uga			(uga%VI%S2%FID1)
+(9)uxaya_ho
+(10)nikala		(nikala%VI%S4%FID1)
+(11)kata		(kata%VI%S2%FID1)
+(12)gujZara
+(13)bIwa
+(14)nikala
+(15)ataka		(ataka%VI%S1%FID1)
+(16)PZazsa		(PZazsa%VI%S1%FID1)
+(17)ulaJa		(ulaJa%VI%S1%FID1)
+(18)bETa		(bETa%VI%S2)
+(19)jama	
+(20)dUba		(dUba%VI%S2%FID1)
+(21)Dala
+(22)aswa_ho 
+(23)laxa		(laxa%VI%S2%FID1)
+(24)caDZa
+(25)gUzja		(gUzja%VI%S1%FID1)
+(26)JAzka		(JAzka%VI%S2%FID1)
+(27)raha		(raha%VI%S1%FID1)
+(28)nivAsa_kar
+(29)basa 
+(30)GUma		(GUma%VI%S1%FID1)
+(31)GUma-Pira
+(32)Pira		(Pira%VI%S1%FID1)
+(33)baca		(baca%VI%S2%FID1)
+(34)raha
+(35)BAga		(BAga%VI%S1%FID1)
+(36)xOdZa
+(37)bana		(bana%VI%S1%FID2)
+(38)wayyAra_ho
+(39)bazXa		(bazXa%VI%S1%FID1)
+(40)nikala		(nikala%VI%S7%FID1)
+(41)uTa			(uTa%VI%S2%FID1)
+(42)Kila		(Kila%VI%S2%FID1)
+(43)jazca
+(44)jama
+(45)Kula
+(46)leta		(leta%VI%S1%FID1)
+(47)padZa
+(48)ruka		(ruka%VI%S4%FID1)
+(49)Tahara
+(50)kUxa		(kUxa%VI%S1%FID1)
+(51)bETa		(bETa%VI%S1%FID1)
+(52)CA			(CA%VI%S1%FID1)
+(53)cala		(cala%VI%S4%FID1)
+(54)tika		(tika%VI%S2%FID1)
+(55)ruka		(ruka%VI%S2%FID1)
+(56)Tahara		(Tahara%VI%S1%FID1)
+(57)raha		(raha%VI%S2%FID1)
+(58)uwara		(uwara%VI%S1%FID1)
+(59)uga			(uga%VI%S1%FID1)
+(60)Kila		(Kila%VI%S1%FID1)
+(61)PUla
+(62)udZa		(udZa%VI%S1%FID1)
+(63)wEra		(wEra%VI%S1%FID1)
+(64)dUba		(dUba%VI%S1%FID1)
+(65)Gula		(Gula%VI%S1%FID1)
+(66)Puxaka (Puxaka%VI%S1%FID1)
+(67)ho			(ho%VI%S2%FID1)
+(68)Bataka		(Bataka%VI%S1%FID1)
+(69)Cipa		(Cipa%VI%S1%FID1)
+(70)A			(A%VI%S7%FID1)
+(71)Gusa		(Gusa%VI%S1%FID1)
+(72)praveSa_kar
+(73)xAKZila_honA
+
+(74)reMga--------------------------->populated
+(75)dola--------------------------->populated
+(76)uCala--------------------------->populated
+(77)jala 		(jala%VI%S1%FID1)
+
+	 
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+A (A%VI%S5%FID1), samA (samA%VI%S1%FID1), GUma (GUma%VI%S2%FID1), tahal, cala-Pira, caDZa (caDZa%VI%S4%FID1), nikala (nikala%VI%S1%FID1), uga (uga%VI%S2%FID1), uxaya_ho, nikala (nikala%VI%S4%FID1), kata (kata%VI%S2%FID1), gujZara, bIwa, nikala, ataka (ataka%VI%S1%FID1), PZazsa (PZazsa%VI%S1%FID1), ulaJa (ulaJa%VI%S1%FID1), bETa (bETa%VI%S2), jama, dUba (dUba%VI%S2%FID1), Dala, aswa_ho, laxa (laxa%VI%S2%FID1), caDZa, gUzja (gUzja%VI%S1%FID1), JAzka (JAzka%VI%S2%FID1), 
+raha (raha%VI%S1%FID1), nivAsa_kar, basa, A (A%VI%S7%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                m             meM                n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+================================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+GUma (GUma%VI%S1%FID1), GUma-Pira, Pira	(Pira%VI%S1%FID1), BAga (BAga%VI%S1%FID1), xOdZa
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k7p	            m		   0|meM|waka|para n               l              c
+				   |ora
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+baca (baca%VI%S2%FID1),raha
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn        reln
+----------------------------------------------------------------------------------------
+k7p                 d              pAsa            n               l          c
+k1                  m              0               n               l          c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+IV.Frame for the following verbs is given below:
+
+bana (bana%VI%S1%FID2), wayyAra_ho, cala (cala%VI%S4%FID1), uga	(uga%VI%S1%FID1), Kila (Kila%VI%S1%FID1), PUla, udZa (udZa%VI%S1%FID1), wEra (wEra%VI%S1%FID1),
+dUba (dUba%VI%S1%FID1), Gula (Gula%VI%S1%FID1), Puxaka (Puxaka%VI%S1%FID1), dola, 
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d             meM                n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+
+V.Frame for the following verbs is given below:
+
+bazXa (bazXa%VI%S1%FID1), nikala (nikala%VI%S7%FID1), uTa (uTa%VI%S2%FID1), Kila (Kila%VI%S2%FID1), jazca, jama, Kula, leta (leta%VI%S1%FID1), padZa, 
+ruka (ruka%VI%S4%FID1), Tahara, kUxa (kUxa%VI%S1%FID1), reMga
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k7p                 m              para            n               l              c
+k1                  m              0               n               l              c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+VI.Frame for the following verbs is given below:
+
+bETa (bETa%VI%S1%FID1), CA (CA%VI%S1%FID1), uCala
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7p                d              para|meM          n                l            c                             
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+VII.Frame for the following verbs is given below: These are lodge verbs
+
+tika (tika%VI%S2%FID1), ruka (ruka%VI%S2%FID1), Tahara (Tahara%VI%S1%FID1), raha (raha%VI%S2%FID1), uwara (uwara%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                m               0|meM            n                l            c
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+
+VIII.Frame for the following verbs is given below:
+
+ho (ho%VI%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k7p                 m              0|meM|para      n               l              c
+----------------------------------------------------------------------------------------
+
+====================================================================================================
+
+
+IX.Frame for the following verbs is given below:
+
+Bataka (Bataka%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k7p                m               0|meM|ke_pAsa|    n                l            c                             
+----------------------------------------------------------------------------------------
+
+====================================================================================================
+
+
+X.Frame for the following verbs is given below:
+
+Cipa (Cipa%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m              0                 n                l            c
+k7p                 m              meM|ke_pICe|      n                l            c  
+                                   ke_pAsa                           
+----------------------------------------------------------------------------------------
+
+=====================================================================================================
+
+
+XI.Frame for the following verbs is given below:
+
+
+jala (jala%VI%S1%FID1)
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k7p                 d              para            n               l               c
+k1                  m              0               n               l               c
+----------------------------------------------------------------------------------------	
+
+

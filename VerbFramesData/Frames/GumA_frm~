@@ -1,0 +1,67 @@
+Verb::GumA
+SID::GumA%VCAUS%S1
+Verb_Sense::HWN (4)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> sEra_karA; Verb frames populated-->sEra_karA
+Frames::
+
+        Frame_Name_1::
+        Example::gAida yAtriyoM ko sAra Sahara GumAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GumA%CAUS%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m               0                n                l            c
+jk1                 m               ko               n                l            c
+K7p		    m		    0		     n		      l		   c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::GumA%VCAUS%S2
+Verb_Sense::HWN (6)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> tahalA, sEra_karA, PirA; Verb frames populated--> tahalA, sEra_karA, PirA
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rojZa baccoM ko GumAwA hEM
+        Theta_Roles::CAUSER CAUSEE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GumA%VCAUS%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m               0                n                l            c
+jk1                 m               ko               n                l            c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::GumA%VT%S3
+Verb_Sense::HWN (7)
+Eng_Gloss::to turn
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->modZa
+Frames::
+
+        Frame_Name_1::
+        Example::drAivara gAdI/gAdI ko wejZI se GumAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GumA%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               0|ko             n                l            c
+----------------------------------------------------------------------------------------
+
+

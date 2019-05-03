@@ -1,0 +1,22 @@
+Verb::xuKa
+SID::xuKa%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to ache, pain
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->xarxa_ho ; Verb frames populated-->xarxa_ho
+Frames::
+
+        Frame_Name_1::
+        Example::rAma ko sara meM xuKawA hEM
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::xuKa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a		   m               ko               n                l            c
+k7p                m               meM              n                l            c
+----------------------------------------------------------------------------------------
+
+

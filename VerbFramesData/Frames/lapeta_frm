@@ -1,0 +1,37 @@
+Verb::lapeta
+SID::lapeta%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha Una lapetawI hEM 
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lapeta%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------
+
+
+ 	Frame_Name_2::
+        Example::vaha pEra meM rassI lapetawA hEM | vaha miTAI ke dabbe ke Upara kAgaJZa lapetawA hEM | vaha Gutane ke nIce rassI lapetawA  hEM 
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::lapeta%VT%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k2                 m               0|ko	           n              l              c
+k7p		   m		   meM|para|	   n		  l		 c
+----------------------------------------------------------------------------------------
+
+

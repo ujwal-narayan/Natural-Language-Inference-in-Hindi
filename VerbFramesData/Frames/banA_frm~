@@ -1,0 +1,76 @@
+Verb::banA
+SID::banA%VT%S1
+Verb_Sense::HWN (1,4)
+Eng_Gloss::to make
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+        Example::kumhAra mittI se   GadZe banAwA    hEM
+		 potter  mud   from pots  make-PRES be-PRES
+		 "Potter makes pots from mud"
+        Theta_Roles::AGENT INSTRUMENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::banA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k5                 d             se                 n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::banA%VT%S2
+Verb_Sense::HWN ()
+Eng_Gloss::to cook
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha Bojana banAwI    hEM
+		 she  food   cook-PRES be-PRES
+		 "She cooks food"
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::banA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::banA%VT%S3
+Verb_Sense::HWN (6)
+Eng_Gloss::to turn
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::jAxugara rumAla       ko  PUla   banAwA    hEM
+		 magician handkerchief ACC flower turn-PRES be-PRES
+		 "The magician turns the handkerchief into flower"
+        Theta_Roles::AGENT ---- THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::banA%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             ko                 n               l            c
+k2g                m             0                  n 		    l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+

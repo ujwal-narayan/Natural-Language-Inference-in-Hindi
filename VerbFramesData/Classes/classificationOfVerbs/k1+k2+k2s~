@@ -1,0 +1,62 @@
+
+Frame: k1 + k2 + k2s + verb
+=================================================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)cuna			(cuna%VT%S3%FID1)
+(2)bawA			(bawA%VT%S5%FID1)
+(3)mAna			(mAna%VT%S2%FID1)
+(4)samaJa		(samaJa%VT%S2%FID1)
+(5)raKa-------------------------------------->populated   (vaha xarvAjZA KulA raKawA hE)
+(6)TaharA-------------------------------------->populated  (vaha rAma ko xoSI TaharAwA hE)
+
+==================================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+cuna (cuna%VT%S3%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             ko                 n               l            c
+??k2g or k2s       m             0                  n 		    l            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+bawA (bawA%VT%S5%FID1), mAna (mAna%VT%S2%FID1), samaJa (samaJa%VT%S2%FID1), TaharA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             ko                 n               l            c
+k2s		   m             0                  n|adj           l            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+
+raKa
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+k2s		   m             0                  n|adj           l            c
+----------------------------------------------------------------------------------------
+

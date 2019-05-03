@@ -1,0 +1,47 @@
+Verb::baDZA
+SID::baDZA%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to increase
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::sarakAra   cIzoM  kI  kImaweM  baDZAwI       hEM
+		 government things GEN prices   increase-PRES be-PRES
+		 "Government increases the prices of commodities"
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baDZA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2		   m             0|ko       	    n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::baDZA%VT%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to grow
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->lambA kar; Verb frames populated-->lambA kar
+Frames::
+
+        Frame_Name_1::
+        Example::rAma apane nAKZUna/bAla baDZAwA-PRES hE	 
+	         ram  his   nails  /hair grow         be-PRES
+		 "Ram grows his nails/hair"
+        Theta_Roles::AGENT PATIENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baDZA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l           c
+k2                 m               0|ko             n                l           c
+----------------------------------------------------------------------------------------
+

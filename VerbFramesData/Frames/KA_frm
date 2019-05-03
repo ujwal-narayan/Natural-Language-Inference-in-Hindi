@@ -1,0 +1,53 @@
+Verb::KA
+SID::KA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to eat
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+	Example::rAma seba  KAwA     hE
+		 Ram  apple eat-PRES be-PRES    
+		 "Ram eats an apple"
+	Theta_Roles::AGENT THEME V
+	Demand_Frame::FRAME_ID_1
+
+FRAME_ID::KA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko		    n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::KA%VT%S2
+Verb_Sense::HWN (4,9,11)
+Eng_Gloss::to destroy
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> barbAxa_kar, KZarAba_kar; Verb frames populated--> barbAxa_kar, KZarAba_kar
+Frames::
+
+        Frame_Name_1::
+        Example::jaMga lohe ko  KA      jAwA hE
+		 rust  iron ACC destroy PRES be-PRES
+		 "Rust destroys the iron"
+        Theta_Roles::CAUSE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::KA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l           c
+k2                 m               ko              n                l           c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+
+
+
+

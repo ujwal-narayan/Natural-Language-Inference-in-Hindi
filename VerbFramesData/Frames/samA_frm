@@ -1,0 +1,23 @@
+Verb::samA
+SID::samA%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to contain
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->A%VI%S5%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::isa dibbe meM eka kilo AtA samAwA hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::samA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                 m              meM              n                l            c
+k1                  m              0                n                l            c
+----------------------------------------------------------------------------------------
+
+~
+

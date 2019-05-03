@@ -1,0 +1,30 @@
+
+Frame: k1 + rt + verb
+===========================================
+
+
+Verb Class: (Verbs having this frame)
+
+
+(1)nikala		(nikala%VI%S10%FID1)
+(2)warasa		(warasa%VI%S1%FID1)
+(3)uTa			(uTa%VI%S1%FID1)
+(4)KadZA_ho
+
+=============================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+nikala (nikala%VI%S10%FID1), warasa (warasa%VI%S1%FID1), uTa (uTa%VI%S1%FID1), KadZA_ho
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                n                l            c
+rt                 m              ke_liye          n                l            c
+----------------------------------------------------------------------------------------
+

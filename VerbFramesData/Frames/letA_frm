@@ -1,0 +1,45 @@
+Verb::letA
+SID::letA%VCAUS%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to make to lie down
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::dOyktara marIjZa ko biswara para letAwA hEM
+        Theta_Roles::CAUSER CAUSEE LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::letA%VCAUS%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn         	reln
+----------------------------------------------------------------------------------------
+pk1                 m              0               n               l              c
+jk1                 m              ko              n               l              c
+k7p		    m		   para            n               l              c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::letA%VCAUS%S2
+Verb_Sense::HWN (H2)
+Eng_Gloss::to make to lie down
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->sulA%VCAUS%S2%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::mAz soye hue bacce ko biswara para letAwI hEM
+        Theta_Roles::AGENT THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::letA%VCAUS%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+pk1                 m               0               n               l              c
+jk1                 m               ko              n               l              c
+k7p                 m               para            n               l              c
+----------------------------------------------------------------------------------------
+

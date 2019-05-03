@@ -1,0 +1,143 @@
+Verb::bawA
+SID::bawA%VDT%S1
+Verb_Sense:: HWN (2)
+Eng_Gloss::to tell
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kaha%VDT%S4%FID1 (different vibhakti; k2 takes ko|se), bola%VDT%S3%FID1 (different vibhakti; k2 takes ko|se)
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rAma ko  sArI bAwe bawAwA    hEM
+		 he   Ram  ACC all       tell-PRES be-PRES   he   children ACC animals   about       tell-PRES be-PRES
+        Theta_Roles::AGENT RECIPIENT TOPIC V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bawA%VDT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2 		   m             0                  n|cl            r            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::bawA%VDT%S2
+Verb_Sense:: HWN (4)
+Eng_Gloss::to explain
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+
+	Frame_Name_1::
+        Example::vaha baccoM ko jAnavaroM ke bAre meM bawAwA hEM
+                 he   Ram  ACC all       tell-PRES be-PRES   he   children ACC animals   about       tell-PRES be-PRES
+        Theta_Roles::AGENT RECIPIENT TOPIC V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bawA%VDT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2                 m             ke_bAre_meM        n               l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::bawA%VDT%S3
+Verb_Sense:: HWN (1)
+Eng_Gloss::to tell, to narrate
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+        Example::rAma saba ko bawAwA hE ki vaha dOYktara kEse banA
+        Theta_Roles::AGENT RECIPIENT V TOPIC
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bawA%VDT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2                 m             0                  cl              r            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::bawA%VDT%S4
+Verb_Sense:: HWN (3)
+Eng_Gloss::to teach
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->siKA%VDT%S4%FID1 (different frame)
+Frames::
+
+	Frame_Name_1::
+        Example::vaha muJe acAra banAne ki viXi bawAwA hEM
+        Theta_Roles::AGENT RECIPIENT TOPIC V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bawA%VDT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::bawA%VT%S5
+Verb_Sense:: HWN ()
+Eng_Gloss::to claim
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+
+	Frame_Name_1::
+        Example::vaha apane ko nirxoRa bawAwA hE
+        Theta_Roles::AGENT THEME ? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bawA%VT%S5%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             ko                 n               l            c
+k2s		   m             0                  n|adj           l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::bawA%VT%S6
+Verb_Sense:: HWN (6)
+Eng_Gloss::to show
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha saba ko rAswA bawAwA hE
+        Theta_Roles::AGENT RECIPIENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bawA%VT%S6%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+
+

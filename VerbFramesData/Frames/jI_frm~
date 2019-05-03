@@ -1,0 +1,21 @@
+Verb::jI
+SID::jI%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to live
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::hAWI 100 sAla jIwe hEM
+        Theta_Roles::EXPERIENCER TIME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jI%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t		   m		   0|waka     	    n		     l		  c		    
+----------------------------------------------------------------------------------------
+

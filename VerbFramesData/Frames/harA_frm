@@ -1,0 +1,23 @@
+Verb::harA
+SID::harA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to defeat
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma Syama ko kriketa meM harAwA hE
+        Theta_Roles::AGENT THEME ??? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::harA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              ko              n               l              c
+k7p	    	    d		   meM             n		   l		  c
+----------------------------------------------------------------------------------------
+
+

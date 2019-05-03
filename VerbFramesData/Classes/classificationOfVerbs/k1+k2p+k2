@@ -1,0 +1,46 @@
+
+Frame: k1 + k2p + k2 + verb
+===============================================
+
+
+Verb Class: (Verbs having this frame)
+
+
+(1)Beja			(Beja%V?%S1%FID1)
+(2)CodZa		(CodZa%VT%S3%FID1)
+
+
+================================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+
+Beja (Beja%V?%S1%FID1)
+
+------------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn           reln
+------------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               ko              n               l              c
+k2p                m               0|ke_pAsa       n               l              c
+------------------------------------------------------------------------------------------
+
+=================================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+
+CodZa (CodZa%VT%S3%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k2                 m              ko                n                l           c
+k2p                m              0|waka            n                l           c
+----------------------------------------------------------------------------------------
+

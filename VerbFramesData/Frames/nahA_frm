@@ -1,0 +1,20 @@
+Verb::nahA
+SID::nahA%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to bathe
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->snAna_kara; Verb frames to be populated-->snAna_kara
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rojZa nahAwA hEM
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nahA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+

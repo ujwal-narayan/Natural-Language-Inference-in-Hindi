@@ -1,0 +1,63 @@
+Verb::lAxa
+SID::lAxa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to load
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->caDZA; Verb frames populated-->caDZA (participates only in first frame)
+Frames::
+
+        Frame_Name_1::
+        Example::majZaxUra traka para|meM boriyAz lAxawA hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lAxa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k7p		   m               para|meM        n               l              c
+k2                 m               0|ko            n               l              c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::majZaxUra traka ko boriyoz se lAxawA hEM
+        Theta_Roles::AGENT THEME INSTRUMENT V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::lAxa%VT%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               ko              n               l              c
+k3		   m		   se		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+************************************************************************************************
+
+SID::lAxa%VT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to impose responsibility
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::mAlika sArA kAma nOkara para lAxawA hEM
+        Theta_Roles::AGENT THEME ? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lAxa%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0|ko            n               l              c
+k7                 m               para            n               l              c
+----------------------------------------------------------------------------------------
+
+************************************************************************************************
+
+

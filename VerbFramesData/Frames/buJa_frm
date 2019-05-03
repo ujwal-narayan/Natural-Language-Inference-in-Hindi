@@ -1,0 +1,44 @@
+Verb::buJa
+SID::buJa%VI%S1
+Verb_Sense::HWN (1,2,3)
+Eng_Gloss::to extinguish
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::pAnI se Aga buJawI hEM
+        Theta_Roles::CAUSE EXPERIENCER V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::buJa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d              se                n                l            c
+k1                 m              0                 n                l            c                             
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::buJa%VI%S2
+Verb_Sense::HWN (5)
+Eng_Gloss::to quench the thirst
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->mita; Verb frames populated-->mita
+Frames::
+
+        Frame_Name_1::
+        Example::pAnI se pyAsa buJawI hEM
+        Theta_Roles::CAUSE EXPERIENCER V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::buJa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d              se                n                l            c
+k1                 m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+

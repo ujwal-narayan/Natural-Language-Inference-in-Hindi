@@ -1,0 +1,88 @@
+Verb::pakadZa
+SID::pakadZa%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to catch
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma (BAgakara) geMxa pakadZawA hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pakadZa%VT%S1%FID1
+---------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               0|ko              n                l            c                             
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::pakadZa%VT%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to arrest
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example:: pulisa coroM ko pakadZawe hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pakadZa%VT%S2%FID1
+---------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               0|ko              n                l            c                             
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::pakadZa%VT%S3
+Verb_Sense::HWN (3)
+Eng_Gloss::to hold
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->WAma; Verb frames to be populated-->WAma
+Frames::
+
+        Frame_Name_1::
+        Example::baccA apanI mAz kA hAwa pakadZawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pakadZa%VT%S3%FID1
+---------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               0                 n                l            c                             
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::pakadZa%VT%S4
+Verb_Sense::HWN (7)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->le; Verb frames to be populated-->le
+Frames::
+
+        Frame_Name_1::
+        Example::vaha mumbaI jAne ke lie trEna pakadZawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pakadZa%VT%S4%FID1
+---------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n               l            c
+rt		   d		   ke_lie	     v               l            c
+k2                 m               0                 n               l            c                             
+----------------------------------------------------------------------------------------
+

@@ -1,0 +1,93 @@
+Verb::Bara
+SID::Bara%VI%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to be filled
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::varRA ke  pAnI  se   wAlAba BarawA    hE
+		 rain  GEN water with pond   fill-PRES be-PRES
+		 "Pond gets filled with rain water"
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Bara%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d             se                 n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::Bara%VT%S2
+Verb_Sense::HWN (1,6)
+Eng_Gloss::to fill
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+	Frame_Name_1::
+        Example::vaha GadZA pAnI  se   BarawI    hEM
+		 he   pot   water with fill-PRES be-PRES
+		 "She fills the pot with water"
+        Theta_Roles::AGENT THEME INSTRUMENT V
+        Demand Frame::FRAME_ID_1
+
+FRAME_ID::Bara%VT%S2%FID1
+------------------------------------------------------------------------------------------
+arc-label       necessity         vibhakti        lextype           posn          reln
+------------------------------------------------------------------------------------------
+k1                 m               0                 n               l             c
+k2                 m               0|ko              n               l             c 
+k3 		   d 		   se	             n               l		   c
+------------------------------------------------------------------------------------------
+
+
+        Frame_Name_2::
+        Example::vaha GadZe meM pAnI  BarawI    hEM
+		 she  pot   in  water fill-PRES be-PRES
+		 "She fills water in the pot"
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand Frame::FRAME_ID_2
+
+FRAME_ID::Bara%VT%S2%FID2
+------------------------------------------------------------------------------------------
+arc-label       necessity         vibhakti        lextype           posn           reln
+------------------------------------------------------------------------------------------
+k1                 m               0                 n               l              c
+k7p                m               meM               n               l              c
+k2                 m               0                 n               l              c
+------------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::Bara%VT%S3
+Verb_Sense::HWN (3)
+Eng_Gloss::to pay
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->cukA; Verb frames populated-->cukA
+Frames::
+
+        Frame_Name_1::
+        Example::vaha bijalI  kA  bila BarawA   hEM
+		 he   current GEN bill pay-PRES be-PRES
+		 "He pays the current bill"
+        Theta_Roles::AGENT THEME V
+        Demand Frame::FRAME_ID_1
+
+FRAME_ID::Bara%VT%S3%FID1
+------------------------------------------------------------------------------------------
+arc-label       necessity         vibhakti        lextype           posn           reln
+------------------------------------------------------------------------------------------
+k1                 m               0                 n               l              c
+k2                 m               0                 n               l              c
+------------------------------------------------------------------------------------------
+
+				
+
+
+

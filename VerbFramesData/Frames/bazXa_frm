@@ -1,0 +1,23 @@
+Verb::bazXa
+SID::bazXa%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss:to put on
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::hAWa para voYca bazXawI hE
+        Theta_Roles::LOCATION THEME V 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bazXa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k7p                 m              para            n               l              c
+k1                  m              0               n               l              c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+

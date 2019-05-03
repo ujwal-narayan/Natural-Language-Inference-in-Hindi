@@ -1,0 +1,27 @@
+
+Frame: k1 + k1u + k1s + verb
+=============================================
+
+
+Verb Class: (Verbs having this frame)
+
+(1)ho----------------->populated       (sIwA rAXA jEsI suMxara hE)
+(2)laga----------------->populated     (sIwA rAXA jEsI suMxara lagawI hE)
+(3)xiKa----------------->populated     (sIwA rAXA jEsI suMxara xiKawI hE)
+
+==============================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+ho, laga, xiKa
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k1u                d               jEsI            n               l              c
+k1s                m               0               adj             l              c
+----------------------------------------------------------------------------------------

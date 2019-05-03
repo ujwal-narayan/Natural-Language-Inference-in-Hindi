@@ -1,0 +1,21 @@
+Verb::gujZara
+SID::gujZara%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to pass
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->nikala
+Frames::
+
+        Frame_Name_1::
+        Example::yaha sadZaka mere Gara se/Gara ke sAmne se gujZarawI hEM
+        Theta_Roles::THEME SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::gujZara%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                n                l            c
+k5                 m               se                n                l            c
+----------------------------------------------------------------------------------------
+

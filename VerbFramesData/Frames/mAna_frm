@@ -1,0 +1,83 @@
+Verb::mAna
+SID::mAna%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::consent
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kabUla, suna%VT%S2%FID1(has semantic relation); Verb frames populated-->kabUla
+Frames::
+
+        Frame_Name_1::
+        Example::rAma apanI mAz ki bAwa mAnawA hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mAna%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m           	   0                n                l            c
+k2                 m               0|ko             n                l            c                             
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::mAna%VT%S2
+Verb_Sense::HWN (1,5)
+Eng_Gloss::to treat
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::kriSna suxAmA ko acCA xoswa mAnawA hE
+        Theta_Roles::AGENT THEME ???? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mAna%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m           	   0                n                l            c
+k2                 m               ko               n                l            c 
+k2s		   m		   0		    n|adj	     l		  c                          
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+Verb::mAna
+SID::mAna%VT%S3
+Verb_Sense::HWN ()
+Eng_Gloss::to believe
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::kuCa loga BUwoM ki kahAniyoM ko mAnawe hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mAna%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m           	   0                n                l            c
+k2                 m               0|ko             n                l            c                      
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::saba loga mAnawA hE ki vaha pAgala hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::mAna%VT%S3%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m           	   0                n                l            c
+k2                 m               0                cl               r            c                      
+----------------------------------------------------------------------------------------
+
+
+

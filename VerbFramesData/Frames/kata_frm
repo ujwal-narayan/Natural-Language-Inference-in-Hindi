@@ -1,0 +1,66 @@
+Verb::kata
+SID::kata%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to be cut
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::cAkU se sabjZI katawI hEM
+        Theta_Roles::CAUSE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kata%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn          reln
+----------------------------------------------------------------------------------------
+rh		   d		   se		   n		   l		 c
+k1                 m               0               n               l             c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::kata%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to be spent
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->gujZara, bIwa, nikala; Verb frames populated-->gujZara, bIwa, nikala
+Frames::
+
+        Frame_Name_1::
+        Example::usakI garamiyoM ki CuttiyAM SimalA meM katawI hEM
+        Theta_Roles::THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kata%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l             c
+k7p		   m		   meM 		   n		  l		c 
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::kata%VI%S3
+Verb_Sense::HWN (4)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::xillI se jEpUra kA rAswA ArAma se katawA hEM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kata%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l             c
+----------------------------------------------------------------------------------------
+
+
+

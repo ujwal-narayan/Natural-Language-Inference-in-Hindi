@@ -1,0 +1,37 @@
+Verb::dara
+SID::dara%VI%S1
+Verb_Sense::HWN (1,2)
+Eng_Gloss::to fear, to be afraid
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kuwwe se darawA hEM 
+        Theta_Roles::EXPERIENCER CAUSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dara%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k5                 m               se               n                l            c                             
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::vaha BUwoM ki kahAnI sunakara dara jAwA hEM
+        Theta_Roles::EXPERIENCER CAUSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dara%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+vmod               m               0                v                l            c
+(reason)
+----------------------------------------------------------------------------------------
+
+

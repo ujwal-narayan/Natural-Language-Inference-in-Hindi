@@ -1,0 +1,43 @@
+Verb::tika
+SID::tika%VI%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to last for a long time
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> cala%VI%S6%FID1, raha%VI%S3%FID1, Tahara; Verb frames populated--> Tahara
+Frames::
+
+        Frame_Name_1::
+        Example::mere kapade jZyAxA xina waka tikawe hEM
+        Theta_Roles::THEME TIME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::tika%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t                m               0|waka           n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::tika%VI%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to stay
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> ruka%VI%S2%FID1, Tahara%VI%S1%FID1, raha%VI%S2%FID1, uwara%VI%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::ham jab BI xillI jAwe hEM wo SarmA jI ke yahAM tikawe hEM
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::tika%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                m               0|meM            n                l            c
+----------------------------------------------------------------------------------------
+

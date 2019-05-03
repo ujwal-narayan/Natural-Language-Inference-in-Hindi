@@ -1,0 +1,92 @@
+Verb::kaha
+SID::kaha%VDT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to tell, to order
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bola%VT%S2%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::gurujI muJe kAma karane ke lie kahawe hEM
+        Theta_Roles::AGENT 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kaha%VDT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m             0                 n                l            c
+k4		    m		  ko                n                l            c
+k2                  m             ke_lie|ko         v                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::kaha%VT%S2
+Verb_Sense::HWN (6)
+Eng_Gloss::to address
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bulA%VDT%S2%FID1 (different vibhakti--> k2g takes both 0|se), pukAra (different vibhakti--> k2g takes both 0|se); Verb frames     
+                     populated-->pukAra
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rAma ko mUrKa kahawA hEM
+        Theta_Roles::AGENT 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kaha%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m             0                 n                l            c
+k2                  m             ko 	            n                l            c
+k2g	            m		  0		    n		     l	          c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::kaha%VDT%S3
+Verb_Sense::HWN (4)
+Eng_Gloss::to say something offending
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bola%VT%S4%FID1, sunA; Verb frames populated-->sunA
+Frames::
+
+        Frame_Name_1::
+        Example::sAsa bahU ko ulatA-sIXA kahawI hEM
+        Theta_Roles::AGENT 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kaha%VDT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m             0                 n                l            c
+k4                  m             ko                n                l            c
+k2                  m             0                 n                l            c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::kaha%VDT%S4
+Verb_Sense::HWN (10)
+Eng_Gloss::to tell
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bola%VDT%S3%FID1, bawA%VDT%S1%FID1 (different vibhakti; k2 takes ko)
+Frames::
+
+        Frame_Name_1::
+        Example::rAma muJa se kehawA hE ki vaha kal AyegA
+        Theta_Roles::AGENT 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kaha%VDT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m             0                 n                l            c
+k4                  m             ko|se             n                l            c
+k2                  m             0                 cl|n             r            c
+----------------------------------------------------------------------------------------
+

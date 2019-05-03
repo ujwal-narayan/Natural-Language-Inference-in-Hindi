@@ -1,0 +1,26 @@
+Verb::kuDZa
+SID::kuDZa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to begrudge
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->jala%VI%S3%FID1 (different frame), IrSyA_kara; Verb frames populated-->IrSyA_kara
+Frames::
+Frames::
+
+        Frame_Name_1::
+        Example::xUsaroM ki saPalawA xeKakara vaha kuDZawA hEM
+        Theta_Roles::EXPERIENCER V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kuDZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		   d		   0		   v		    l		 c
+(reason)
+k1                 m	           0               n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+

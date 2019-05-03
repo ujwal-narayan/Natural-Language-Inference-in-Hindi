@@ -1,0 +1,32 @@
+
+Frame: pk1 + jk1 + k4 + k2 + verb
+====================================================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)xilA		(xilA%VCAUS%S1%FID1)
+(2)xilavA
+(3)BijavA------------------------------------->populated
+(4)lOtavA------------------------------------->populated
+(5)liKavA------------------------------------->populated
+(6)parosavA------------------------------------->populated
+
+
+======================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+xilA (xilA%VCAUS%S1%FID1), xilavA, BijavA, lOtavA, liKavA, parosavA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m             0                  n               l            c
+jk1                 m             se                 n               l            c
+k4                  m             ko                 n               l            c
+k2                  m             0                  n               l            c
+----------------------------------------------------------------------------------------

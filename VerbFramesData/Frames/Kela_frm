@@ -1,0 +1,43 @@
+Verb::Kela
+SID::Kela%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to play
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::bacce rojZa Kelawe hEM
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kela%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                n               l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::Kela%VT%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to play a game
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::bacce rojZa kriketa Kelawe hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kela%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n               l            c
+k2		   m		   0		    n		    l		 c
+----------------------------------------------------------------------------------------
+
+

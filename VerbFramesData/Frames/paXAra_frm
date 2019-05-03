@@ -1,0 +1,25 @@
+Verb::paXAra
+SID::paXAra%VI%S1
+Verb_Sense::
+Eng_Gloss::to arrive
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms-->A%VI%S1%FID1 (different vibhaktis), pahuzca; Verb frames populated-->pahuzca,
+Frames::
+
+	Frame_Name_1::
+	Example::pIra  bAbA  (hameSA) (yahAz) paXArawe    hE
+                 piira baaba  always   here   arrive-IMPF be-PRES
+                 'Pira Baba always arrives here.'
+	Theta_Roles::AGENT DESTINATION V
+	Demand_Frame::FRAME_ID_1
+
+FRAME_ID::paXAra%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2p                m             0|?ko|ke_pAsa|para n               l            c                    
+----------------------------------------------------------------------------------------
+
+
+

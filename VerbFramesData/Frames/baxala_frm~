@@ -1,0 +1,60 @@
+Verb::baxala
+SID::baxala%VI%S1
+Verb_Sense::HWN (4)
+Eng_Gloss::to change, to turn in
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::aprEla meM MOsama baxalwA hEM
+        Theta_Roles::PATIENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baxala%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::pAnI barPZa meM baxalawA hEM
+        Theta_Roles::PATIENT OBLIQUE V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::baxala%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k7                 m               meM             n                l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::baxala%VT%S2
+Verb_Sense::HWN (2,5)
+Eng_Gloss::to change, to shift
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+
+	Frame_Name_1::
+        Example::vaha gAdZI baxalawA hEM / vaha Gara baxalawA hEM / vaha apane irAxe ko baxalawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baxala%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k2                 m               0|ko            n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+

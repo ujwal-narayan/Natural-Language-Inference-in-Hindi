@@ -1,0 +1,30 @@
+
+Frame-5: k1 + r6v + verb
+===========================
+
+Verb Class: (Verbs having this frame)
+
+(1)A		(A%VI%S3%FID2)
+(2)mila		(mila%VI%S1%FID2)
+(3)laga		(laga%VI%S1%FID1)
+(4)Karca_ho
+(5)hE (rAma ke wIna bete hEM)
+
+================================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+A (A%VI%S3%FID2), mila (mila%VI%S1%FID2), laga (laga%VI%S1%FID1), Karca_ho, hE
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+r6v                m             kI|kA|ke           n               l            c
+----------------------------------------------------------------------------------------
+
+

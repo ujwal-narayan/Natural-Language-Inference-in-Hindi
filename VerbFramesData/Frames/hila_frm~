@@ -1,0 +1,66 @@
+Verb::hila
+SID::hila%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to move
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::havA se pawwe hilawe hEM
+        Theta_Roles::CAUSE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::hila%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         posn           reln
+----------------------------------------------------------------------------------------
+rh	           d		  se|ki_vajah_se  n               l             c
+				  |ke_kAraNa                                 
+k1                 m              0               n               l             c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::hila%VI%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to become loose
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::isa maSIna ke sAre purje hilawe hEM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::hila%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::hila%VI%S3
+Verb_Sense::HWN (2)
+Eng_Gloss::to stir
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->saraka, hata%VI%S1%FID1, Kisaka%VI%S2%FID1;  Verb frames populated--> saraka
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI jagaha se nahIM hilawA hEM
+        Theta_Roles::AGENT SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::hila%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n               l            c
+k5		   m               se               n               l            c 
+----------------------------------------------------------------------------------------
+
+

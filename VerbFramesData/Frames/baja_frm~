@@ -1,0 +1,70 @@
+Verb::baja
+SID::baja%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to ring
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::fona  ki  GaMtI bAra-bAra  bajawI    hE
+		 phone GEN bell  repeatedly ring-PRES be-PRES
+		 "Phone rings repeatedly"
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baja%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::baja%VI%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to strike
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::GadZI meM rojZa bArAha         bajawe      hE
+		 clock in  daily twelve-o'clock strike-PRES be-PRES 	
+		 "It strikes 12 everyday"
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baja%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d             meM                n               l            c
+k7t                d             0                  n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::baja%VI%S3
+Verb_Sense::HWN (2)
+Eng_Gloss::to play
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::Dola bajawe    hE
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baja%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+

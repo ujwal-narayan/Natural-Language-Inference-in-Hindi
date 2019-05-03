@@ -1,0 +1,22 @@
+Verb::barasA
+SID::barasA%VT%S1
+Verb_Sense::HWN (2,3)
+Eng_Gloss::to shower, to rain
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::ve CabbIsa janavarI ke xina helikAptara se logoM para PUla/PUloM ko barasAwe hEM
+        Theta_Roles::AGENT DESTINATION THEME
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::barasA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7p                d              para              n                l            c                             
+k2                 m              0|ko              n                l            c
+----------------------------------------------------------------------------------------
+

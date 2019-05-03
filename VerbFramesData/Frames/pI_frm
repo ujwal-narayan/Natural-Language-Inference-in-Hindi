@@ -1,0 +1,43 @@
+Verb::pI
+SID::pI%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to drink
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xUXa pIwA hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pI%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               0                 n                l            c                             
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::pI%VT%S2
+Verb_Sense::HWN (5)
+Eng_Gloss::to consume
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->KA, le; Verb frames to be populated-->KA, le
+Frames::
+
+        Frame_Name_1::
+        Example::yaha gAdZI bahwa petrola pIwI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pI%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               0                 n                l            c                             
+----------------------------------------------------------------------------------------
+

@@ -1,0 +1,22 @@
+Verb::jawA
+SID::jawA%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to express
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sabke sAmne apnA xuKa jawAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jawA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                d               0                n                l            c 
+k2                 m               0                n                l            c                            
+----------------------------------------------------------------------------------------
+

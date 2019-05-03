@@ -1,0 +1,42 @@
+Verb::suna
+SID::suna%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to listen
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha satyanArAyaNa kI kaWA sunawI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::suna%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::suna%VT%S2
+Verb_Sense::HWN (5)
+Eng_Gloss::to consent
+Verb_Class::
+Verbs_in_Same_Class::Semantic relation-->mAna%VT%S1%FID1, kabUla
+Frames::
+
+        Frame_Name_1::
+        Example::bacce mAz-bApa kI bAwa sunawe hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::suna%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------

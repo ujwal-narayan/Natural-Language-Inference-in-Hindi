@@ -1,0 +1,57 @@
+Verb::bigadZa
+SID::bigadZa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to get worse
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> KZarAba_ho; Verb frames populated-->KZarAba_ho;
+Frames::
+
+        Frame_Name_1::
+        Example::(jZyAxA KAne se) unakA svAsWa bigadZa jAwA hEM
+        Theta_Roles::EXPERIENCER V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bigadZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::bigadZa%VI%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to shout with anger
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->BadZaka, gussA_kara; Verb frames populated-->BadZaka, gussA_kara; 
+Frames::
+
+        Frame_Name_1::
+        Example::(kAryAlaya meM karmacArI ko na pAkara) vaha bigadZawA hEM
+        Theta_Roles::AGENT RECIPIENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bigadZa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l           c
+----------------------------------------------------------------------------------------
+
+	
+	Frame_Name_2::
+        Example::mAz bacce para bigadawI hEM
+        Theta_Roles::AGENT EXPERIENCER V
+	Demand_Frame::FRAME_ID_2
+
+
+FRAME_ID::bigadZa%VI%S2%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              para            n               l              c
+----------------------------------------------------------------------------------------
+
+

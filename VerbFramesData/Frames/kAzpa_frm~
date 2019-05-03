@@ -1,0 +1,48 @@
+Verb::kAzpa
+SID::kAzpa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to shiver, to quiver, to tremble
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sarxI se kAzpawI hEM
+        Theta_Roles::EXPERIENCER CAUSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kAzpa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d               se|ki_vajaha_se| n               l            c
+                                   ke_kAraNa
+k1                 m               0                n               l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::kAzpa%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to shiver,to tremble
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha dAkuOM ko xeKakara kAzpawA hEM
+        Theta_Roles::EXPERIENCER CAUSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kAzpa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		    m		  0		    v		     l		 c
+(reason)
+k1                  m             0                 n                l           c
+----------------------------------------------------------------------------------------
+
+
+
+

@@ -1,0 +1,59 @@
+Verb::jIwa
+SID::jIwa%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to win
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kriketa meM jIwawA hE
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jIwa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k7                 m               meM             n               l              c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::vaha vAxavivAxa prawiyogiwA jIwawA hE
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::jIwa%VT%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+Verb::jIwa
+SID::jIwa%VT%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to win hearts
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI axAkArI se sabakA xila jIwawA hEM
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jIwa%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k3                 m               se               n                l            c
+k2                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+

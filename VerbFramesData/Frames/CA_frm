@@ -1,0 +1,45 @@
+Verb::CA
+SID::CA%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss::overspread, overcast
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::kamare meM aMXerA CA jAwA hE | AkASa meM|para bAxala CA jAwe hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k7p		   d		  meM|para	  n		  l		 c
+k1                 m              0               n               l              c
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::CA%VI%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to impress
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apane aBinaya se sabake xiloM para CA jAwe hE
+        Theta_Roles::CAUSE OBLIQUE EXPERIENCER V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CA%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m              0               n               l              c
+rh                 d              se              n               l              c
+k7                 m              para            n               l              c
+----------------------------------------------------------------------------------------
+
+

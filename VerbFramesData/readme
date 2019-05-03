@@ -1,0 +1,43 @@
+1.Frames folder contains: Verb frame files (path:demandcharts/verbs/verbframes/verbframes-classes)
+
+*2.OnlyVerbFrames folder shud contain frame files (path:demandcharts/verbs/verbframes/verbframes-classes/final-frames-output-data/frame_files)
+
+3.Classes folder contains:
+-verb classification and verb class (classes: i made during verb frames)
+
+4.Stats-Report folder contains:
+
+-Finalstats and analysis file: it has final stats on verb frames
+
+-VerblistForFrames (Total No. of verbs: verb frames made, diff senses, populated; i made during verb frames)
+
+-ExtractionVerbFrameStats Folder contains:
+
+	-DiffSenses-VerbFrames Folder contains:
+
+		-S2toS11 files: Contains the list of verbs having these senses (extracted from VerblistForFrames)
+
+		
+
+	-VerbList-VerbFramesDone Folder Contains:
+
+		-MainVerbList: list of verbs for which verb frames have done (excluding diff senses) (extracted from simple verbs folder)
+
+		-AllSensesS2-S11: Contains list of verbs having S2, S3, S4, S5, S6, S7, S8, S9, S10, S11 senses (S2 to S11 files clubbed together)(extracted from 					  VerblistForFrames)
+
+		-AllSensesS1-S11: Contains list of verbs having S1,S2, S3, S4, S5, S6, S7, S8, S9, S10, S11 senses (S1 to S11 files clubbed together)(extracted from 					  VerblistForFrames)
+
+		-FID-count: list of verbs having FID2 (extracted from VerblistForFrames)
+
+		-PopulatedVerbFrameList1: list of populated verbs (including different senses) (extracted from VerblistForFrames)
+
+		-PopulatedVerbFrameList2: list of populated verbs (excluding different senses) (extracted from PopulatedVerbFrameList1)
+
+		-PopulatedVerbFrameList3: list of populated verbs (excluding main sense) (extracted from VerblistForFrames PopulatedVerbFrameList2)
+
+		-Populated+VerbFrames1: list of populated verbs (including different senses) + Verb frames done (including diff senses) (PopulatedVerbFrameList1 and 						AllSensesS1-S11 clubbed together)
+
+		-Populated+VerbFrames2: list of populated verbs (excluding different senses) Verb frames done (excluding diff senses)(PopulatedVerbFrameList2 and 						MainVerblist clubbed together)
+
+		-Populated+VerbFrames3: list of populated verbs (excluding main sense) + Verb frames done (excluding main sense) (PopulatedVerbFrameList3 and 						AllSensesS2-S11 clubbed together)
+		

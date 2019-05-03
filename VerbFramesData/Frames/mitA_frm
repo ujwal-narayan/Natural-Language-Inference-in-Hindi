@@ -1,0 +1,23 @@
+Verb::mitA
+SID::mitA%VT%S1
+Verb_Sense::HWN (5)
+Eng_Gloss::to erase
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::gurujI borda para liKe SabxoM ko dastara se mitAwe hEM
+        Theta_Roles::AGENT LOCATION THEME INSTRUMENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mitA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               ko                n                l            c  
+k3                 d               se                n                l            c           
+----------------------------------------------------------------------------------------
+
+

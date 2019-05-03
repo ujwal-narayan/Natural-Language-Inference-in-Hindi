@@ -1,0 +1,24 @@
+Verb::barasa
+SID::barasa%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to shower
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::pedZa se   PUla    baraswe     hEM
+		 trees from flowers shower-PRES be-PRES
+		 "Flowers 
+        Theta_Roles::SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::barasa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 d             se                 n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+

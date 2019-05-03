@@ -1,0 +1,43 @@
+Verb::Kisaka
+SID::Kisaka%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to slip away
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha (cupake se) KisakawA hEM 
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kisaka%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l             c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::Kisaka%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to move
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->saraka, hata%VI%S1%FID1, hila%VI%S3%FID1; Verb frames populated--> saraka
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI jagaha se KisakawA hEM
+        Theta_Roles::AGENT SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kisaka%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l             c
+k5		   m		   se		   n		   l		 c
+----------------------------------------------------------------------------------------
+
+

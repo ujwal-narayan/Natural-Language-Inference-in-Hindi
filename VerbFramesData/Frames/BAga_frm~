@@ -1,0 +1,83 @@
+Verb::BAga
+SID::BAga%VI%S1
+Verb_Sense::HWN (1,2)
+Eng_Gloss::to run
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->xOdZa; Verb frames generated-->xOdZa
+Frames::
+
+        Frame_Name_1::
+        Example::billI cUhe ke  pICe  BAgawI hE
+        Theta_Roles::AGENT GOAL V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::BAga%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k7p                m             0|para|meM|waka    n               l     	 c
+				 |ora
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::vaha Gara kI_ora BAgawA hEM
+        Theta_Roles::AGENT GOAL V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::BAga%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+rd                 m             kI_ora             n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::BAga%VI%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to flee, to escape
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> PZarAr ho; Verb frames generated--> PZarAr ho;
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kExI jEla se BAgawA hE
+		 thief police from escape-PRES be-PRES
+                 "Thief escapes from the police"
+        Theta_Roles::AGENT ?THEMEorSource V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::BAga%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k5                 m             se                 n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::BAga%VI%S3
+Verb_Sense::HWN ()
+Eng_Gloss::to flow
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->baha; Verb frames populated-->baha
+Frames::
+
+        Frame_Name_1::
+        Example::jaMgaloM meM vqkRa na raha jAneM se barasAwa kA  pAnI  wejI se   nIce kI-ora  BAgawA    hE 
+                 forests  in  trees no               rainy    GEN water fast with down towards flow-PRES be-PRES
+		 "As there were no trees in the forests so the rainy water flowed fast downwards"
+        Theta_Roles::THEME GOAL V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::BAga%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+rd                 d             kI_ora             n               l            c
+----------------------------------------------------------------------------------------

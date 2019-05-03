@@ -1,0 +1,22 @@
+Verb::beca
+SID::beca%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to sell
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sabzI Rs.10 meM becawA hEM 
+        Theta_Roles::AGENT THEME ASSET
+        Demand_Frame::FRAME_ID_
+
+FRAME_ID::beca%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n               l            c
+k2                 m               0|ko             n               l            c                             
+k7		   d               meM  	    n               l            c
+----------------------------------------------------------------------------------------
+

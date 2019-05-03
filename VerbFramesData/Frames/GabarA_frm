@@ -1,0 +1,36 @@
+Verb::GabarA
+SID::GabarA%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to be nervous
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha pulisa se GabarAwA hE
+        Theta_Roles::EXPERIENCER ? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GabarA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype            posn         reln
+---------------------------------------------------------------------------------------
+k1                  m              0               n                l            c
+k5	            m		   se		   n                l            c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::vaha parikSA ke bAre meM socakara GabarAwA hE
+        Theta_Roles::EXPERIENCER ? V  
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::GabarA%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype            posn         reln
+---------------------------------------------------------------------------------------
+vmod                m              0               v                l            c
+(reason)
+k1                  m              0               n                l            c
+----------------------------------------------------------------------------------------
+

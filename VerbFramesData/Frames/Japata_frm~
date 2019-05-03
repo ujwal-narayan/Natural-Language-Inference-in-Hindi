@@ -1,0 +1,22 @@
+Verb::Japata
+SID::Japata%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to pounce, to dash, to swoop down
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> lapaka; Verb frames populated--> lapaka
+Frames::
+
+        Frame_Name_1::
+        Example::billI cUhe para JapatawI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Japata%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               para            n               l              c
+----------------------------------------------------------------------------------------
+
+

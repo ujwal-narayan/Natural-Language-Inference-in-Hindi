@@ -1,0 +1,64 @@
+Verb::bana
+SID::bana%VI%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::to be made
+Verb_Class:: 
+Verbs_in_Same_Class::Synonyms-->wayyAra_ho; Verb frames populated-->wayyAra_ho;
+Frames::
+
+        Frame_Name_1::
+        Example::jUwe  camadZe se   banawe    hEM
+		 shoes skin    from made-PRES be-PRES
+		 "Shoes are made from skin"
+        Theta_Roles::PRODUCT RAW_MATERIAL V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bana%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k5                 d             se                 n               l            c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::kAraKZAne meM jUwe   banawe    hEM
+		 factory   in  shoes made-PRES be-PRES
+		 "Shoes are made in the factory"
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::bana%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d             meM                n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::bana%VI%S2
+Verb_Sense::HWN ()
+Eng_Gloss::to become
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha hara  sAla mAlika banawA      hE
+		 he   every year owner  become-PRES be-PRES
+		 "He becomes owner every year"
+        Theta_Roles::AGENT ---- V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::bana%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k1s                m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+

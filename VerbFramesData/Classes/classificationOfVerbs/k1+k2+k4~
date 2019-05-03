@@ -1,0 +1,159 @@
+
+
+Frame: k1 + k2 + k4 + verb
+=================================================
+
+Verb Class: (Verbs having this frame)
+
+(1)bawA			(bawA%VDT%S1%FID1)
+(2)bola			(bola%VDT%S3%FID1)
+(3)kaha			(kaha%VDT%S4%FID1)
+(4)bawA			(bawA%VDT%S4%FID1)
+(5)bawA			(bawA%VT%S6%FID1)
+(6)bola			(bola%VT%S4%FID1)
+(7)kaha			(kaha%VDT%S3%FID1)
+(8)sunA
+(9)bawA			(bawA%VDT%S3%FID1)
+(10)bawA		(bawA%VDT%S2%FID1)
+(11)Beja		(Beja%V?%S1%FID2)
+(12)bola		(bola%VT%S2%FID1)
+(13)kaha		(kaha%VDT%S1%FID1)
+(14)pahuzcA		(pahuzcA%VT%S2%FID1)
+(15)dAla		(dAla%VT%S2%FID1)
+(16)dAla		(dAla%VT%S2%FID1)
+(17)lOtA		(lOtA%VDT%S1%FID1)
+(18)vApasa_kara
+(19)parosa		(parosa%VDT%S1%FID1)
+(20)xe			(xe%VDT%S1%FID1)
+(21)sOmpa		(sOmpa%VDT%S1%FID1)
+(22)CodZa
+(23)bAzta		(bAzta%VT%S1%FID1)
+(24)liKa------------------------------------> populated (vaha rAma ko Kawa liKawA hEM)
+
+========================================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+bawA (bawA%VDT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2 		   m             0                  n|cl            r            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+bola (bola%VDT%S3%FID1), kaha (kaha%VDT%S4%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k4                 m              ko|se             n                l            c
+k2                 m              0                 cl|n             r            c
+---------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+bawA (bawA%VDT%S4%FID1), bawA (bawA%VT%S6%FID1), bola (bola%VT%S4%FID1), kaha (kaha%VDT%S3%FID1), sunA, Beja%V?%S1%FID2,
+dAla (dAla%VT%S2%FID1), dAla (dAla%VT%S2%FID1), lOtA (lOtA%VDT%S1%FID1), vApasa_kara, parosa (parosa%VDT%S1%FID1), xe (xe%VDT%S1%FID1), sOmpa (sOmpa%VDT%S1%FID1),
+liKa, bAzta (bAzta%VT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2 		   m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+IV.Frame for the following verbs is given below:
+
+bawA (bawA%VDT%S3%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2                 m             0                  cl              r            c
+----------------------------------------------------------------------------------------
+
+
+==================================================================================================
+
+V.Frame for the following verbs is given below:
+
+bawA (bawA%VDT%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k4                 m             ko                 n               l            c
+k2                 m             ke_bAre_meM        n               l            c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+VI.Frame for the following verbs is given below:
+
+bola (bola%VT%S2%FID1), kaha (kaha%VDT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k4                 m              ko                n                l            c
+k2                 m              ko|ke_liye        v                l            c
+----------------------------------------------------------------------------------------
+
+
+==================================================================================================
+
+VII.Frame for the following verbs is given below:
+
+pahuzcA	(pahuzcA%VT%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k2                 m              0|ko              n                l           c
+k4                 m              waka              n                l           c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+VIII.Frame for the following verbs is given below:
+
+CodZa
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k4                 m               para             n                l            c
+k2                 m               0                n                l            c
+---------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+

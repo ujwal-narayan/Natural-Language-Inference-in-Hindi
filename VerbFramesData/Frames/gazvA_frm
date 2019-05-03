@@ -1,0 +1,22 @@
+Verb::gazvA
+SID::gazvA%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to lose
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->Ko%VT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI cijZe KowA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::gazvA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2		   m		   0|ko		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+

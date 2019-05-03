@@ -1,0 +1,31 @@
+
+Frame: k1 + rt + k5 + k2 + verb
+===============================================
+
+
+Verb Class: (Verbs having this frame)
+
+(1)lA		(lA%VT%S1%FID1)
+
+=================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+lA (lA%VT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+rt		   d		   ke_lie	   n               l              c
+k5		   d		   se	   	   n               l              c
+k2                 m               0|ko            n               l              c
+----------------------------------------------------------------------------------------
+
+
+
+

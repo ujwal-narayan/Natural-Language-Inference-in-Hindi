@@ -1,0 +1,22 @@
+Verb::luBA
+SID::luBA%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to amuse
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->moha, riJA;  Verb frames to be populated-->moha, riJA
+Frames::
+
+        Frame_Name_1::
+        Example::rAma apanI bAwoM se SyAma ko luBAwA hEM
+        Theta_Roles::AGENT INSTRUMENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::luBA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               ko                n                l            c  
+k3                 d               se                n                l            c           
+----------------------------------------------------------------------------------------
+

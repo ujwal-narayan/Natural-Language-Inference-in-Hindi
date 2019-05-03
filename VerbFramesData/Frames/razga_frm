@@ -1,0 +1,23 @@
+Verb::razga
+SID::razga%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to paint
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::majZxUra xIvAla razgawe hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::razga%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------
+
+
+

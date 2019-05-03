@@ -1,0 +1,60 @@
+
+Frame: k1 + k1s
+======================
+
+Verb Class: (Verbs having this frame)
+
+Verb Class: (Verbs having this frame)
+
+(1)bana			(bana%VI%S2%FID1)
+(2)ho			(ho%VI%1%FID1)
+(3)laga			(laga%VI%S2%FID1)
+(4)nikalA----------------------------------->populated (vaha cora nikalA)
+(5)raha----------------------------------->populated (vaha xuKI rahawA hE)
+
+==============================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+I.Frame for the following verbs is given below:
+
+bana (bana%VI%S2%FID1), nikalA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k1s                m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+ho (ho%VI%1%FID1), raha
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos         reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k1s                 m              0               adj             l              c
+----------------------------------------------------------------------------------------
+
+================================================================================================
+
+
+Frame: k1 + k7 + k1s
+======================
+
+III.Frame for the following verbs is given below:
+
+laga (laga%VI%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7		   d               meM              n		     l		  c
+k1s                m               0                n                l            c
+----------------------------------------------------------------------------------------

@@ -1,0 +1,67 @@
+
+Frame: k1 + k2 + k2g + verb
+=============================
+
+
+Verb Class: (Verbs having this frame)
+
+
+(1)banA			(banA%VT%S3%FID1)
+(2)bola			(bola%VT%S1%FID1)
+(3)kaha
+(4)cuna			(cuna%VT%S3%FID1)
+(5)kaha			(kaha%VT%S2%FID1)
+(6)bulA			(bulA%VDT%S2%FID1)
+(7)pukAra
+
+=================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frames for the following verbs is given below: Theses verbs are communication verbs
+
+
+banA (banA%VT%S3%FID1), bola (bola%VT%S1%FID1), kaha, kaha (kaha%VT%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             ko                 n               l            c
+k2g                m             0                  n 		    l            c
+----------------------------------------------------------------------------------------
+
+===============================================================================================
+
+
+II.Frames for the following verbs is given below:
+
+cuna (cuna%VT%S3%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             ko                 n               l            c
+??k2g or k2s       m             0                  n 		    l            c
+----------------------------------------------------------------------------------------
+
+
+=================================================================================================
+
+
+II.Frames for the following verbs is given below:
+
+bulA (bulA%VDT%S2%FID1), pukAra
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              ko                n                l            c
+k2g		   m              0|se              n                l            c
+----------------------------------------------------------------------------------------
+
+

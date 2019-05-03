@@ -1,0 +1,72 @@
+SID:: mudZa%VI%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to swerve
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->GUma%VI%S4%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::yaha rAswA wAlAba ki ora mudZawA hEM | yaha sadZaka xAyeM GUmawI hEM ?????
+                 
+        Theta_Roles::THEME DIRECTION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mudZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+rd                  m              0|ki_ora        n		   l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID:: mudZa%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to buckle
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::usakA pEra (hameSA) mudZawA hE 
+                 his   leg  (always) ??     be-PRES
+                 ""
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mudZa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID:: mudZa%VI%S3
+Verb_Sense::HWN (2)
+Eng_Gloss::to turn back
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> palata, lOta%VI%S2%FID1, GUma, Pira; Verb frames populated--> palata, GUma, PZira
+Frames::
+
+        Frame_Name_1::
+        Example::mAz ki pukAra sunakara rama mudZawA hE
+               
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mudZa%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+vmod               m               0               v               l              c
+(reason)
+k1                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+
+
+
+
+

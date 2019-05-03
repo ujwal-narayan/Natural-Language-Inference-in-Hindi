@@ -1,0 +1,44 @@
+Verb::calA
+SID::calA%VCAUS%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to make one walk
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::xAxAjI bacce ko hAWa pakadZakara calAwe hEM
+        Theta_Roles::CAUSER CAUSEE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::calA%VCAUS%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m	           0                n                l            c
+jk1                 m     	   ko               n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::calA%VT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to drive
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha gAdI calAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::calA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                n                l            c
+k2                 m     	   0                n                l            c
+----------------------------------------------------------------------------------------
+
+

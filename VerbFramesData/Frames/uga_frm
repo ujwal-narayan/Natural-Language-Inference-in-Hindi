@@ -1,0 +1,44 @@
+Verb::uga
+SID::uga%VI%S1
+Verb_Sense::HWN (4)
+Eng_Gloss::to grow, to germinate
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::(Kewa meM) pOXe ugawe hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uga%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d	           meM              n                l            c
+k1                 m    	   0                n                l            c
+----------------------------------------------------------------------------------------
+
+**************************************************************************************************
+
+SID::uga%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to rise
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> nikala%VI%S1%FID1, uxaya_ho; Verb frames populated--> uxaya_ho
+Frames::
+
+        Frame_Name_1::
+        Example::sUraja pUraba meM ugawA hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uga%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l             c
+k7p		   m               meM             n               l	         c 
+----------------------------------------------------------------------------------------
+
+******************************************************************************************

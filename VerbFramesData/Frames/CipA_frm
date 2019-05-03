@@ -1,0 +1,21 @@
+Verb::CipA
+SID::CipA%VT%S1
+Verb_Sense::HWN (1,2)
+Eng_Gloss::to hide, to conceal
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sIwA kI kiwAbeM/kiwAboM ko CipAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CipA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              0|ko              n                l            c                             
+----------------------------------------------------------------------------------------
+

@@ -1,0 +1,24 @@
+Verb::apanA
+SID::apanA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to adopt(method, policy, principle)
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms-->svIkAr, svIkAr_kar, cuna, apnA_banA, aMgIkAr_kar%VT%S1%FID1, apnA_le; Verb frames populated-->svIkAr, svIkAr_kar, cuna, apnA_banA, apnA_le
+Frames::
+
+        Frame_name_1::
+        Example::vaha AXunika wakanIkeM  apanAwe    hEM     
+		 they modern  techniques adopt-PRES be-PRES  
+		 "They adopt modern techniques"
+        Theta_Roles:: AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::apanA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------
+
+

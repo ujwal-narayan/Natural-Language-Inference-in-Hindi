@@ -1,0 +1,24 @@
+Verb::PazsA
+SID::PazsA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to trap
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->ulaJA, PAzsa; Verb frames to be populated-->ulaJA, PAzsa
+Frames::
+
+        Frame_Name_1::
+        Example::SikArI pakSiyoM ko jAla meM PazsAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::PazsA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k2                 m               ko              n                l            c
+k7p                d               meM             n                l            c                             
+----------------------------------------------------------------------------------------
+
+
+

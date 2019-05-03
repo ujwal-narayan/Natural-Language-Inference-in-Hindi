@@ -1,0 +1,148 @@
+Verb::cala
+SID::cala%VI%S1
+Verb_Sense::HWN (6)
+Eng_Gloss::to work
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::yaha GadZI nahIM calwI hEM
+        Theta_Roles:: THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cala%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m                0                n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::cala%VI%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to walk
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha XIre-XIre calwI hEM
+        Theta_Roles::AGENT V 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cala%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m                0                n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::cala%VI%S3
+Verb_Sense::HWN (2)
+Eng_Gloss::to leave
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> prasWAna_kar, ravAnA_ho, CUta%VI%S3%FID1 (different frame), nikala%VI%S6%FID1; Verb frames populated--> prasWAna_kar, ravAnA_ho
+
+(Note: prasWAna_kar, ravAnA_ho will have only this frame; CUta%VI%S3%FID1 will not have this frame, it will have a diiferent frame; cala%VI%S3%FID1, nikala%VI%S6%
+FID1 will have both this frame and the CUta%VI%S3%FID1 frame)
+
+Frames::
+
+        Frame_Name_1::
+        Example::yaha gAdZI subeh 9 baje xillI ke liye calwI hEM
+        Theta_Roles::THEME TIME DESTINATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cala%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m                0                n                l            c
+k2p               m                0|ke_liye        n                l            c
+k7t		  m		   0		    n		     l		  c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::cala%VI%S4
+Verb_Sense::HWN (12)
+Eng_Gloss::to sail, to ply
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::naxI meM nAva calawI hEM
+        Theta_Roles:: LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cala%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d               meM              n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::yaha nAva usa GAta waka calawI hEM
+        Theta_Roles::THEME GOAL V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::cala%VI%S4%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2p		   d		   waka		    n		     l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::cala%VI%S5
+Verb_Sense::HWN (8)
+Eng_Gloss::to continue
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::bETaka xo GaMte (waka)) calawI hEM
+        Theta_Roles:: THEME TIME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cala%VI%S5%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t                d               0|waka           n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::cala%VI%S6
+Verb_Sense::HWN (8)
+Eng_Gloss::to last for long time
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> tika%VI%S1%FID1, raha%VI%S3%FID1, Tahara; Verb frames populated--> Tahara
+Frames::
+
+        Frame_Name_1::
+        Example::acCI kampaniyoM ke uwpAxa jZyAxA xin waka calawI hEM
+        Theta_Roles:: THEME TIME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cala%VI%S6%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t                m               0|waka	    n                l            c
+----------------------------------------------------------------------------------------
+

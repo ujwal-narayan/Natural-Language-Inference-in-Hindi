@@ -1,0 +1,68 @@
+Verb::Kola
+SID::Kola%VT%S1
+Verb_Sense::HWN (10)
+Eng_Gloss::to open
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha xaravAjZA KolawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kola%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              0|ko              n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::Kola%VT%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to break the fast
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> wodZa; Verb frames populated--> wodZa
+Frames::
+
+        Frame_Name_1::
+        Example::vaha PZala se vrawa KolawA hEM
+        Theta_Roles::AGENT INSTRUMENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kola%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              0|ko              n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::Kola%VT%S3
+Verb_Sense::HWN (6)
+Eng_Gloss::to open
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::ve saba jagah SikRA keMxra Kolawe hE
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kola%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7p		   d		  0		    n		     l		  c
+k2                 m              0|ko              n                l            c
+----------------------------------------------------------------------------------------
+
+
+

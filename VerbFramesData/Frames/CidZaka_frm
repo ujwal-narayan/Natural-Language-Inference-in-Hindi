@@ -1,0 +1,36 @@
+Verb::CidZaka
+SID::CidZaka%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to sprinkle
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->biKera; Verb frames to be populated-->biKera
+Frames::
+
+        Frame_Name_1::
+        Example::kisAna Kewa meM bIMja biKerwA hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CidZaka%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7p                m              para|meM          n                l            c
+k2                 m              0|ko              n                l            c                             
+----------------------------------------------------------------------------------------
+
+
+        Frame_Name_2::
+        Example::vaha cAroM Ora bIMja CidZakawA hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::CidZaka%VT%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+rd                 d               Ora              n                l            c   
+k2                 m               0|ko             n                l            c                              
+----------------------------------------------------------------------------------------

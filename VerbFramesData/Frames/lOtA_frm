@@ -1,0 +1,23 @@
+Verb::lOtA
+SID::lOtA%VDT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to return
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->vApasa_kara; Verb frames populated--> vApasa_kara
+Frames::
+
+        Frame_Name_1::
+        Example::rAma mohana ko kiwAbeM lOtAwA hEM
+        Theta_Roles::AGENT BENEFICIARY THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lOtA%VDT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k4		   m		   ko		   n		   l		  c
+k2                 m               0               n               l              c
+----------------------------------------------------------------------------------------
+
+

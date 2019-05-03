@@ -1,0 +1,95 @@
+I.Verb frames
+
+(1)Statistics
+(i)Total verbs (Same verb having different senses is also considered different verb)
+-Verbs that have frames
+-Verbs that are generated
+
+(ii)Total frames
+-Frames that are created
+-Verbs which are listed under theses frames
+
+(2)Analysis
+
+(i)list verbs which have same frames
+(ii)look at syntax of verbs having same meanings
+(iii)Types of verbs
+(iv)Levin's verbs
+
+(3)Description
+-Frame description
+
+desirable (d): -Implicit args--> k3
+               -args without which sentence sounds odd when u try to drop it though meaning is conveyed-->baaDZa se wAlAba meM pAnI caDZawA hE
+               -low expectation level (mandatory high expectation level)
+               -Surface level abscent
+               -In past tense it can be dropped and sentence will be perfect whereas in habitual if u drop it sounds odd
+	       -Most frequent in text
+               -Some arg are expected on surface level and some not: vaha sar para dupatta odhati hai vs vaha badan par razaai odhatii hai
+                                                                      k1    k7p(d)  k2                    k1   k7p(o)     k2   
+                The above is an example of frequently occuring in text
+               -Some desirable arguments on surface level sound odd (hamAre aXyApaka kakSA meM (odd) kaTina aXyAya ko xoharAwe hEM)
+	       -Meaning can be ambiguous without it (vaha padZawe paDZawe atakawA hEM; vaha atakawA hEM--> this is ambiguous)
+               -Some of them take mandatory arguments as different roles. For that purpose i hav kept them as desirable instead of mandatory like k7t, rh, vmod etc,.
+                A verb can take any of these as mandatory arg. Because of this confusion i hav kept them under desirable.
+
+mandatory (m): -not required for verb but still sentence will be incomplete without it--> bottle me ek litre pani aata hai --> k7
+               -sentence is proper when u drop this arg but it is required by the verb--> mk1
+               
+Vibhaktis:	-multiple vibhaktis clubbed together are taken by the single verb for which the frame is made or also by the verbs that are its synonyms 
+
+Populated:	Verb is already present with a particular sense but one of its frame is not made. So the verb is populated again for that frame. 
+                Then this should not be considered as populated. Its frame is populated.
+               
+(4)Report
+
+
+-------------------------------------------------
+
+(1)Total No. of Verbs for which verb frames are developed (Excluding different senses in count):			300
+
+(2)Total No. of Verbs for which verb frames are developed (Excluding main sense; secondary senses are considered here):	186 
+
+(3)Highest sense count taken is:							 				S11
+	
+(3)Total No. of Verbs for which verb frames are developed (Including all senses in count):				486
+
+(4)List of verbs with only main sense is listed in file	 (excluding diff senses)					:MainVerbList
+
+(5)List of all verbs i.e.including different senses is listed in file							:AllSensesS1-S11)
+
+(6)List of all verbs i.e. excluding main sense is listed in file							:AllSensesS2-S11)
+
+(7)Total No. of Populated Verbs (Excluding different senses in count):	180 (filename: PopulatedVerbFrameList2)
+
+(8)Total No. of Populated Verbs (Excluding main sense in count): 21 (filename: PopulatedVerbFrameList3)
+
+(9)Total No. of Populated Verbs (including all senses in count): 201 (filename: PopulatedVerbFrameList1)
+
+(10)Total No. of Populated Verbs+Verb frames done (Excluding different senses in count):	480 (filename: Populated+VerbFrames2)
+
+(11)Total No. of Populated Verbs+Verb frames done (Excluding main sense in count): 207 (filename: Populated+VerbFrames3)
+
+(12)Total No. of Populated Verbs+Verb frames done  (including all senses in count): 687 (filename: Populated+VerbFrames1)
+
+(13)Total No. of Populated Verbs while making classes: 78 (filename: VerblistforFrames)
+
+(14)Total No. of Populated Verbs+Verb frames done  (including all senses in count) + populated Verbs while making classes: 765 
+
+(filename: Club Populated+VerbFrames1 file and Populated Verbs while making classes given in file VerblistforFrames)
+
+(14)Total No. of Frames made while making classes: 142 (filename: Classification-VerbList)
+
+(13)My basic frames (only karakas; no vibhakti): 50 (filename: Basic Frames)
+
+(14)Other basic frames (only karakas; no vibhakti): 5 (filename: Basic Frames)
+
+(15)Total basic frames (my basic frames+other frames) (only karakas; no vibhakti): 55 (filename: Basic Frames)
+
+(16)Total Frames (karaka + vibhakti + necessity + lexical category): 174 (filename: Detailframe)
+
+
+
+
+
+

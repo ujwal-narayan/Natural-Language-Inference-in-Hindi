@@ -1,0 +1,43 @@
+Verb::ulaJa
+SID::ulaJa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> ataka%VI%S1%FID1, PZazsa%VI%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::cunarI kAztoM meM ulaJawI hE
+        Theta_Roles::THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ulaJa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7p                ?d             meM               n                l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::ulaJa%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::AxamI musIbawa meM ulaJawA hEM
+        Theta_Roles::THEME ? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ulaJa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n               l            c
+k7		   m		  meM		    n		    l		 c 
+----------------------------------------------------------------------------------------
+

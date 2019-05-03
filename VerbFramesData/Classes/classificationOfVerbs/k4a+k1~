@@ -1,0 +1,109 @@
+
+Frame: k4a + k1 + verb
+===========================
+
+Verb Class: (Verbs having this frame)
+
+(1)A		(A%VI%S2%FID1) 'to know'
+(2)laga		(laga%VI%S4%FID1) 'to be locked'
+(3)dala
+(4)padZa
+(5)A 		(TIka_A)(A%VI%S4%FID1) 'to fit' 
+(6)laga 	(laga%VI%S5%FID1) 'to seem'
+(7)xiKa 	(xiKa%VI%S1%FID1) & (xiKa%VI%S1%FID2) 'to be visible'	
+(8)mila	'found'
+(9)cAhiye	'want'
+(10)sUJa	      
+(11)BA		'to like'
+(12)Kala	         
+
+=====================================
+
+All the above verbs take anubhava karta (k4a) and karta (k1) as mandatory arguments. anubhava karta (k4a) takes ko vibhakti. Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+
+I.Frame for A (A%VI%S2%FID1) 'to know' is given below. It takes both verb (v) and noun (n) as lexical category for karta (k1).
+
+Example::sIwA ko KAnA banAnA AwA hEM  (or) sIwA ko silAI-kaDZAI AwI hEM  
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a                m               ko               n                l           c
+k1                 m               0                v|n              l           c
+----------------------------------------------------------------------------------------
+
+==================================================================================================
+
+
+II.Frame for laga (laga%VI%S4%FID1) 'to be locked', dala, padZa, A (TIka_A)(A%VI%S4%FID1) 'to fit', mila 'found', cAhiye 'want', sUJa, BA 'to like', Kala is given below. 
+
+Example::usa kamare ko rojZa wAlA lagawA hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a		   m               ko               n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+==============================================================================================
+
+
+III.Frame for laga (laga%VI%S5%FID1) 'to seem' is given below. It takes clause (cl) as lexical category and right (r) as position (posn) for karta (k1).
+
+Example:: rAma ko lagawA hE kI kala bAriSa hogI
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a                m               ko               n                l            c
+k1                 m               0                cl               r            c
+----------------------------------------------------------------------------------------
+
+=================================================================================================
+
+
+
+IV.Frame: k4a + k5 + k1 + verb      
+====================================      
+
+Frame for xiKa 'to be visible' is given below. It has two frames, xiKa (xiKa%VI%S1%FID1) & xiKa (xiKa%VI%S1%FID2) . This verb is taking 
+Apadaan (k5) and k7p as desirable argument in frame-1 and frame-2 respectively. Below given frame is for xiKa (xiKa%VI%S1%FID1).
+
+Example::muJa ko yahAz se skUla xiKawA hE 
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a                m               ko               n                l            c
+k5                 d               se               n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+
+
+V.Frame: k4a + k7p + k1 + verb
+=================================
+
+Frame for xiKa (xiKa%VI%S1%FID2) 'to be visible' is given below. Below given frame is for xiKa (xiKa%VI%S1%FID2).
+
+Example::AkASa meM muJe wAre xiKawe hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d               meM              n                l            c
+k4a                m               ko               n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+=============================================================================================
+
+
+
+
+
+
+

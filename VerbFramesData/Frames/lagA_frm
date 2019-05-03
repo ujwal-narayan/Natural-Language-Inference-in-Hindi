@@ -1,0 +1,180 @@
+Verb::lagA
+SID::lagA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to put on
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::ladZakiyA mAWe para binxI lagAwI hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0|ko            n               l              c
+k7p		   d		   para		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::lagA%VT%S2
+Verb_Sense::HWN (13)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::drAivara gAdZI ko basa stEMda para lagAwA hEM
+        Theta_Roles::AGENT THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k2                 m               ko	           n              l              c
+k7p		   m		   meM|para	   n		  l		 c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::lagA%VT%S3
+Verb_Sense::HWN (21)
+Eng_Gloss::to plant
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::mAlI pOXe lagAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k2                 m               0|ko            n              l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::lagA%VT%S4
+Verb_Sense::HWN (20)
+Eng_Gloss::to apply
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::sIwA rotI para GI lagAwI hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k7p		   m		   para		   n		  l		 c
+k2                 m               0               n              l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::lagA%VT%S5
+Verb_Sense::HWN (18)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> jadZa, bETA/biTA, Pita_kara; Verb frames formulated--> jadZa, bETa/biTA, Pita_kara
+Frames::
+
+        Frame_Name_1::
+        Example::sunAra sone kI azgUTI meM hIrA lagAwA hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S5%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k7p                m               meM             n              l              c
+k2                 m               0|ko            n              l              c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::lagA%VT%S6
+Verb_Sense::HWN (16)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->jodZa%VT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::baDZaI mejZa ke tUte hue pAe ko lagAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S6%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k2                 m               0|ko            n              l              c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::lagA%VT%S7
+Verb_Sense::HWN (15)
+Eng_Gloss::to stitch
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> tAzka; Verb frames populated--> tAzka
+Frames::
+
+        Frame_Name_1::
+        Example::sIwA kurwe meM batana lagAwI hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S7%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k7p		   m		   meM		   n		  l		 c
+k2                 m               0|ko            n              l              c
+----------------------------------------------------------------------------------------
+
+************************************************************************************************
+
+SID::lagA%VT%S8
+Verb_Sense::HWN (1)
+Eng_Gloss::to wear
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> XAraNa_kar, pahana (semantic relation); Verb frames populated--> XAraNa_kar, pahana (semantic relation)
+Frames::
+
+        Frame_Name_1::
+        Example::sIwA caSmA lagAwI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::lagA%VT%S8%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n              l              c
+k2                 m               0|ko            n              l              c
+----------------------------------------------------------------------------------------
+

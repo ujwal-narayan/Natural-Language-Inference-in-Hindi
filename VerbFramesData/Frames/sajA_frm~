@@ -1,0 +1,43 @@
+Verb::sajA
+SID::sajA%VT%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to decorate
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->sazvAra, sanjo; Verb frames to be populated-->sazvAra, sanjo
+Frames::
+
+        Frame_Name_1::
+        Example::sIwA Gara ko sajAwI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID_1::sajA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::sajA%VT%S2
+Verb_Sense::HWN ()
+Eng_Gloss::to arrange
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->lagA, jamA; Verb frames to be populated-->lagA, jamA
+Frames::
+
+        Frame_Name_1::
+        Example::xukAnxAra xukAna meM sAmAnoM ko sajAwA hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID_1::sajA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k7p                d             meM                n               l            c
+k2                 m             0|ko               n               l            c
+----------------------------------------------------------------------------------------

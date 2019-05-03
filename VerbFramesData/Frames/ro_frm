@@ -1,0 +1,20 @@
+Verb::ro
+SID::ro%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to cry
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::baccA (apanI mAz ke liye)  rowA hE
+        Theta_Roles::AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ro%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c                          
+----------------------------------------------------------------------------------------
+

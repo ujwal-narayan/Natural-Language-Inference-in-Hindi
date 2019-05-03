@@ -1,0 +1,86 @@
+Verb::kAta
+SID::kAta%VT%S1
+Verb_Sense::HWN (10)
+Eng_Gloss::to bite
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+	Frame_Name_1::
+	Example::pAgala kuwwA logoM ko kAtawA hE
+        Theta_Roles::AGENT THEME V
+	Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kAta%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn       reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l         c
+k2                 m               ko              n               l         c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::kAta%VT%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to cut
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+        Frame_Name_1::
+        Example::rAma cAku se seba kAtawA hE
+        Theta_Roles::AGENT INSTRUMENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kAta%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l           c
+k3                 d               se              n               l           c
+k2                 m               0|ko            n               l           c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::kAta%VT%S3
+Verb_Sense::HWN (4)
+Eng_Gloss::to spend
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->biwA, nikAla, gujZAra; Verb frames populated-->biwA, nikAla, gujZAra
+Frames::
+        Frame_Name_1::
+        Example::vaha garmiyoM ki CuttiyAM SimalA meM kAtawA hE
+        Theta_Roles::AGENT THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kAta%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn        reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l          c
+k2                 m               0               n               l          c
+k7p	           m		   meM             n               l          c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::kAta%VT%S4
+Verb_Sense::HWN (9)
+Eng_Gloss::to strike off
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+        Frame_Name_1::
+        Example::SikRaka galawa uwwara ko kAtawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::kAta%VT%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn        reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l          c
+k2                 m               ko              n               l          c
+----------------------------------------------------------------------------------------
+
+

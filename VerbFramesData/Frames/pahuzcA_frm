@@ -1,0 +1,47 @@
+Verb: pahuzcA
+SID::pahuzcA%VCAUS%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to drop, to leave
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->CodZa%VT%S3%FID1 (CodZa also different frame)
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sIwA ko Gara waka pahuzcAwA hEM | vaha sIwA ko rojZa Gara pahuzcAwA hEM   
+        Theta_Roles::CAUSER CAUSEE DESTINATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pahuzcA%VCAUS%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m              0                 n                l           c
+jk1                 m              ko                n                l           c
+k2p                 m              0|waka            n                l           c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::pahuzcA%VT%S2
+Verb_Sense::HWN (6)
+Eng_Gloss::to provide
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::sarakAra logo waka sevAoM ko (saswe xAmoM meM) pahuzcAwI hEM   
+        Theta_Roles::AGENT THEME DESTINATION ? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pahuzcA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k2                 m              0|ko              n                l           c
+k4                 m              waka              n                l           c
+----------------------------------------------------------------------------------------
+
+
+

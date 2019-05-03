@@ -1,0 +1,37 @@
+Verb::xiKa
+SID::xiKa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to be visible
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->najZara_A, xiKAI_xe; Verb frames to be populated-->najZara_A, xiKAI_xe
+Frames::
+
+        Frame_Name_1::
+        Example::muJa ko yahAz se skUla xiKawA hE 
+        Theta_Roles::EXPERIENCER SOURCE THEME V   
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::xiKa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a                m               ko               n                l            c
+k5                 d               se               n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::AkASa meM muJe wAre xiKawe hEM
+        Theta_Roles::LOCATION EXPERIENCER THEME V 
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::xiKa%VI%S1%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                d               meM              n                l            c
+k4a                m               ko               n                l            c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+

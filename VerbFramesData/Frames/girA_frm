@@ -1,0 +1,43 @@
+Verb::girA
+SID::girA%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to spill
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::baccA xUXa girAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::girA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::girA%VT%S2
+Verb_Sense::HWN (5)
+Eng_Gloss::cause someone to fall
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha muJe (XakkA xekara) girAwA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::girA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k2                 m              ko                n                l            c
+----------------------------------------------------------------------------------------
+

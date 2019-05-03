@@ -1,0 +1,23 @@
+Verb::powa
+SID::powa%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha Gara ko razgoM se powawe hEM
+        Theta_Roles::AGENT THEME INSTRUMENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::powa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2                 m               0|ko            n               l              c
+k3		   d		   se		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+

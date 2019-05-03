@@ -1,0 +1,46 @@
+Verb::nikAla
+SID::nikAla%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to remove
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> 
+Frames::
+
+        Frame_Name_1::
+        Example::mAlika naukaroM ko naukrI se nikAlwA hEM
+        Theta_Roles::AGENT THEME SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikAla%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                  m             0                n               l              c
+k5		    d		  se		   n		   l		  c
+k2                  m             ko               n               l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::nikAla%VT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> kADZa; Verb frames to be populated--> kADZa
+Frames::
+
+        Frame_Name_1::
+        Example::mAz pawIleM se/meM se cAvala nikAlwI hEM
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikAla%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                  m             0                n               l              c
+k5		    d		  se|meM_se	   n		   l		  c
+k2                  m             0|ko             n               l              c
+----------------------------------------------------------------------------------------
+
+

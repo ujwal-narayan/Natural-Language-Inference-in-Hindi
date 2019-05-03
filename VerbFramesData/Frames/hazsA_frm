@@ -1,0 +1,23 @@
+Verb::hazsA
+SID::hazsA%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to make one laugh
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI bAwoM se baccoM ko hazsAwA hEM
+        Theta_Roles::CAUSER CAUSEE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::hazsA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m	           0                n                l            c
+k3		    d 		   se		    n                l		  c
+jk1                 m              ko               n                l            c
+----------------------------------------------------------------------------------------
+
+

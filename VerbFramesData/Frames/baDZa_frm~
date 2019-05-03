@@ -1,0 +1,46 @@
+Verb::baDZa
+SID::baDZa%VI%S1
+Verb_Sense::HWN (5)
+Eng_Gloss::to grow
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::bacce    jalxI baDZawe   hEM
+		 children fast  grow-PRES be-PRES
+		 "Children grow fast"
+        Theta_Roles::PATIENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baDZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::baDZa%VI%S2
+Verb_Sense::HWN (7)
+Eng_Gloss::to increase
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->caDZa%VI%S3%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::cIzoM  kI kImaweM baDZawI       hEM
+		 things of prices  increase-PRES be-PRES
+		 "Prices of things increase" 
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baDZa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+

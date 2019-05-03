@@ -1,0 +1,44 @@
+Verb::laxa
+SID::laxa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to be laden
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vasaMwa riwu meM pedZa PUloM se laxawe hEM 
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laxa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7		   d	           meM              n                l            c	
+k1                 m	           0                n                l            c
+rh                 m    	   se               n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::laxa%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to be loaded
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->caDZa; Verb frames populated-->caDZa
+Frames::
+
+        Frame_Name_1::
+        Example::traka meM sAmAna laxawA hEM 
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laxa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p		   m	           meM              n                l            c	
+k1                 m	           0                n                l            c
+----------------------------------------------------------------------------------------
+

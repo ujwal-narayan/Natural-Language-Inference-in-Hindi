@@ -1,0 +1,22 @@
+Verb::pIta
+SID::pIta%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to beat
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->mAra%VT%S1%FID1, Toka|Tozka, pitAI_kara; Verb frames populated-->Toka|Tozka, pitAI_kara
+Frames::
+
+        Frame_Name_1::
+        Example::rAma SyAma ko lakadZI se pItawA hE
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::pIta%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k2                 m               ko                n                l            c  
+k3                 d               se                n                l            c           
+----------------------------------------------------------------------------------------
+

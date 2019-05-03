@@ -1,0 +1,46 @@
+
+Frame: k1 + rh + + k7 + verb
+===========================
+
+
+Verb Class: (Verbs having this frame)
+
+
+(1)CA		(CA%VI%S2%FID1)
+(2)laxa		(laxa%VI%S1%FID1)
+
+
+=======================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frames for the following verbs is given below:
+
+
+CA (CA%VI%S2%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m              0               n               l              c
+rh                 d              se              n               l              c
+k7                 m              para            n               l              c
+----------------------------------------------------------------------------------------
+
+================================================================================================
+
+
+II.Frames for the following verbs is given below:
+
+
+laxa (laxa%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7		   d	           meM              n                l            c	
+k1                 m	           0                n                l            c
+rh                 m    	   se               n                l            c
+----------------------------------------------------------------------------------------

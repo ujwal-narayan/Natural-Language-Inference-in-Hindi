@@ -1,0 +1,21 @@
+Verb::GasIta
+SID::GasIta%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to pull
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma apne BAI ko vixyalaya waka GasItawA hEM
+        Theta_Roles::AGENT THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::GasIta%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m              0                 n                l            c
+k2                  m              ko                n                l            c
+k7p                 d              waka|meM|para     n                l            c                             
+----------------------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+Verb::laharA
+SID::laharA%VI%S1
+Verb_Sense::HWN (5)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->JUma; Verb frames to be populated-->JUma
+Frames::
+
+        Frame_Name_1::
+        Example::harI-BarI PasaleM havA meM laharAwI hEM
+        Theta_Roles::THEME ???? V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::laharA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n               l            c
+k7		   m		  meM		    n		    l		 c 
+----------------------------------------------------------------------------------------
+
+

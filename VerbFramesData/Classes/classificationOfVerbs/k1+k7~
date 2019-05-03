@@ -1,0 +1,87 @@
+
+Frame: k1 + k7 + verb
+===========================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)A		(A%VI%S3%FID1)
+(2)mila		(mila%VI%S1%FID1)
+(3)ulaJa	(ulaJa%VI%S2%FID1)
+(4)dUba		(dUba%VI%S3%FID1)
+(5)Ko		(Ko%VI%S2%FID1)
+(6)laharA	(laharA%VI%S1%FID1)
+(7)JUma
+(8)Gusa		(Gusa%VI%S2%FID1)
+(9)baxala	(baxala%VI%S1%FID2)
+(10)BIga	(BIga%VI%S1%FID1)
+(11)jIwa	(jIwa%VT%S1%FID1)
+(12)mara	(mara%VI%S1%FID2)
+(13)muskurA	(muskurA%VI%S1%FID1)
+(14)laga	(laga%VI%S7%FID1)
+(15)juta
+
+======================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+
+I.Frame for the following verbs is given below:
+
+A (A%VI%S3%FID1), mila (mila%VI%S1%FID1), ulaJa (ulaJa%VI%S2%FID1), dUba (dUba%VI%S3%FID1), Ko (Ko%VI%S2%FID1), laharA	(laharA%VI%S1%FID1), JUma, 
+Gusa (Gusa%VI%S2%FID1), baxala (baxala%VI%S1%FID2), jIwa (jIwa%VT%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k7                 m             meM                n               l            c
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+
+II.Frame for the following verbs is given below:
+
+BIga (BIga%VI%S1%FID1), mara (mara%VI%S1%FID2)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m              0                 n                l            c
+k7                  d              meM               n                l            c                             
+----------------------------------------------------------------------------------------
+
+
+===================================================================================================
+
+
+III.Frame for the following verbs is given below:
+
+muskurA%VI%S1%FID1
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                 n                l            c
+k7                 d               para              n                l            c                             
+----------------------------------------------------------------------------------------
+
+===================================================================================================
+
+Frame: k1 + k7t + k7 + verb
+===========================
+
+IV.Frame for the following verbs is given below:
+
+laga (laga%VI%S7%FID1), juta
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7t		   d		   0		    n                l            c
+k7                 m               meM              n                l            c
+----------------------------------------------------------------------------------------

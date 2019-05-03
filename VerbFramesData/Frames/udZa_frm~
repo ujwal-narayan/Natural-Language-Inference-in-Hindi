@@ -1,0 +1,23 @@
+Verb::udZa
+SID::udZa%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to fly
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::cidZiyA AkASa meM udZawI hE
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::udZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k7p                d               meM              n                l            c                             
+----------------------------------------------------------------------------------------
+
+
+

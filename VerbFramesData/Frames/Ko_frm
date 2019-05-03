@@ -1,0 +1,43 @@
+Verb::Ko
+SID::Ko%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to lose
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->gazvA%VT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI cijZe KowA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Ko%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k2		   m		   0|ko		   n		   l		  c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::Ko%VI%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to get deeply involved
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> dUba%VI%S3%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha krishna bhajan meM KowI|Ko jAwI hEM
+        Theta_Roles::AGENT TOPIC V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Ko%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k7		   m		   meM		   n		   l		  c
+----------------------------------------------------------------------------------------
+

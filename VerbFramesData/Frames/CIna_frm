@@ -1,0 +1,22 @@
+Verb::CIna
+SID::CIna%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to snatch
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha logoM se pEse CInawA hEM
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CIna%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k5                 m              se                n                l            c
+k2                 m              0                 n                l            c                             
+----------------------------------------------------------------------------------------
+

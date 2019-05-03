@@ -1,0 +1,70 @@
+Verb::CUta
+SID::CUta%VI%S1
+Verb_Sense::HWN (6)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::hamArA vixyAlaya cAra baje CUtawA hEM
+        Theta_Roles::THEME TIME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CUta%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k7t                m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::CUta%VI%S2
+Verb_Sense::HWN (7)
+Eng_Gloss::get removed by washing
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> nikala%VI%S11%FID1, mita%VI%S1%FID1, hata%VI%S2%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::sarPa se xAga, Xabbe CUta jAwe hEM
+        Theta_Roles::CAUSE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CUta%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d              se                n                l            c
+k1                 m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::CUta%VI%S3
+Verb_Sense::HWN (11)
+Eng_Gloss::to start
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms--> prasWAna_kar (different frame), ravAnA_ho (different frame), nikala%VI%S6%FID1, cala%VI%S3%FID1; Verb frames populated--> prasWAna_kar, ravAnA_ho
+
+(Note: prasWAna_kar, ravAnA_ho will have only cala%VI%S3%FID1 frame; CUta%VI%S3%FID1 will have only this frame; cala%VI%S3%FID1, nikala%VI%S6%FID1 will have both this frame and the cala%VI%S3%FID1 frame)
+
+Frames::
+
+        Frame_Name_1::
+        Example::steSana se gAdZi 9 baje CUtawI hE
+        Theta_Roles::SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CUta%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 m	           se               n                l            c
+k1                 m    	   0                n                l            c
+k7t                m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,22 @@
+Verb::mukara
+SID::mukara%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to deny something
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->palata, Pira; Verb frames to be populated-->palata, Pira
+Frames::
+
+        Frame_Name_1::
+        Example::vaha apanI bAwa se mukarawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mukara%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l            c
+k5                 m              se                n                l            c
+----------------------------------------------------------------------------------------
+
+

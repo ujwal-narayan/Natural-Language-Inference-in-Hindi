@@ -1,0 +1,28 @@
+
+Frame: k4a + k7p + verb
+===========================
+
+Verb Class: (Verbs having this frame)
+
+(1)xuKa 	(xuKa%VI%S1%FID1) 'to pain'
+(2)xarxa_ho 	'to pain'
+
+============================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+
+I.Frame for xuKa (xuKa%VI%S1%FID1) 'to pain' and xarxa_ho 'to pain' is given below. The frame of these two verbs is different 
+from the above verbs. They are taking anubhava karta (k1) and deshadhikaran (k7p) as mandatory arguments. 
+
+
+Example::rAma ko sara meM xuKawA hEM
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k4a		   m               ko               n                l            c
+k7p                m               meM              n                l            c
+----------------------------------------------------------------------------------------

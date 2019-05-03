@@ -1,0 +1,26 @@
+Verb::judZa
+SID::judZa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to stick
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::saresa se tUtI huI cIjZa judZawI heM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::judZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh		   m		   se		    n		     l		  c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+
+
+

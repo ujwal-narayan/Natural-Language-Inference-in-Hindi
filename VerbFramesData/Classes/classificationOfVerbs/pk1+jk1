@@ -1,0 +1,44 @@
+
+Frame: pk1 + jk1 + verb
+====================================================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)sulA			(sulA%VCAUS%S1%FID1)
+(2)BagA			(BagA%VCaus1%S1%FID1)
+(3)GumA			(GumA%VCAUS%S2%FID1)
+(4)tahalA
+(5)sEra_karA
+(6)PirA
+(7)calA			(calA%VCAUS%S1%FID1)
+(8)BatakA------------------------------------->populated
+(9)BigA------------------------------------->populated
+(10)xOdA------------------------------------->populated
+(11)JukA------------------------------------->populated
+(12)JulA------------------------------------->populated
+(13)KisakA------------------------------------->populated
+(14)nacA------------------------------------->populated
+(15)rulA------------------------------------->populated
+(16)roka------------------------------------->populated
+(17)wErA------------------------------------->populated
+(18)TaharA------------------------------------->populated
+(19)tikA------------------------------------->populated
+(20)udZA------------------------------------->populated
+
+======================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+sulA (sulA%VCAUS%S1%FID1), BagA (BagA%VCaus1%S1%FID1), GumA (GumA%VCAUS%S2%FID1), tahalA, sEra_karA, PirA, calA (calA%VCAUS%S1%FID1), BatakA, BigA, xOdA, JukA, JulA, KisakA, nacA, rulA, roka, wErA, TaharA, tikA, udZA
+
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+pk1                  m             0                n               l              c
+jk1                  m             ko               n               l              c
+----------------------------------------------------------------------------------------

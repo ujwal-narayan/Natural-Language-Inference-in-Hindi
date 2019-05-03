@@ -1,0 +1,24 @@
+
+Frame: pk1 + jk1 + k5 + verb
+====================================================
+
+Verb Class: (Verbs having this frame)
+
+(1)uTA		(uTA%VCAUS%S4%FID1)
+
+======================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+uTA (uTA%VCAUS%S4%FID1)
+
+--------------------------------------------------------------------------------------
+arc_label	necessity	vibhakti	lextype         src-pos       reln             
+--------------------------------------------------------------------------------------
+pk1		m                   0            n		l              c
+jk1             m                   ko           n		l              c
+k5		m		    se|par_se	 n		l	       c
+--------------------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+Verb::wilamilA
+SID::wilamilA%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to wince
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->wadZapa, CatapatA; Verb frames to be formulated-->wadZapa, CatapatA
+Frames::
+
+        Frame_Name_1::
+        Example::rAma xarxa se/kI vajah se wilamilAwA hE
+        Theta_Roles::AGENT  CAUSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::wilamilA%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+rh                 d               se|kI_vajah_se|  n                l            c
+                                   ke_kAraNa
+----------------------------------------------------------------------------------------

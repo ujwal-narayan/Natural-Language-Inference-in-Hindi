@@ -1,0 +1,92 @@
+
+Frame: k1 + rh + verb
+===========================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)Bara			(Bara%VI%S1%FID1)
+(2)buJa			(buJa%VI%S1%FID1)
+(3)buJa			(buJa%VI%S2%FID1)
+(4)mita
+(5)CUta			(CUta%VI%S2%FID1)
+(6)nikala		(nikala%VI%S11%FID1)
+(7)mita			(mita%VI%S1%FID1)
+(8)hata			(hata%VI%S2%FID1)
+(9)kata			(kata%VI%S1%FID1)
+(10)camaka		(camaka%VI%S1%FID1)
+(11)jagamagA
+(12)xamaka
+(13)cIKZa		(cIKZa%VI%S1%FID1)
+(14)Sora_macA 
+(15)hallA_macA 
+(16)cillA		(cillA%VI%S2%FID1)
+(17)Sora_kara
+(18)hila		(hila%VI%S1%FID1)
+(19)jala		(jala%VI%S3%FID1)
+(20)judZa		(judZa%VI%S1%FID1)
+(21)mara		(mara%VI%S1%FID1)
+(22)gujZara
+(23)wilamilA		(wilamilA%VI%S1%FID1)
+(24)wadZapa
+(25)CatapatA
+(26)muraJA		(muraJA%VI%S1%FID1)
+(27)sUKa
+(28)ruka		(ruka%VI%S3%FID1)
+(29)baMx_ho
+(30)Wama
+(31)Tahara
+(32)kAzpa		(kAzpa%VI%S1%FID1)
+(33)karAha		(karAha%VI%S1%FID1)
+===============================================
+
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frames for the following verbs is given below:
+
+Bara (Bara%VI%S1%FID1), buJa (buJa%VI%S1%FID1), buJa (buJa%VI%S2%FID1), mita, CUta (CUta%VI%S2%FID1), nikala (nikala%VI%S11%FID1), mita (mita%VI%S1%FID1),
+hata (hata%VI%S2%FID1), kata (kata%VI%S1%FID1), camaka (camaka%VI%S1%FID1), jagamagA, xamaka
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d             se                 n               l            c
+k1                 m             0                  n               l            c
+----------------------------------------------------------------------------------------
+
+====================================================================================================
+
+
+II.Frames for the following verbs is given below:
+
+cIKZa (cIKZa%VI%S1%FID1), Sora_macA, hallA_macA, cillA (cillA%VI%S2%FID1), Sora_kara, hila (hila%VI%S1%FID1), jala (jala%VI%S3%FID1), mara (mara%VI%S1%FID1), gujZara,
+wilamilA (wilamilA%VI%S1%FID1), wadZapa, CatapatA, muraJA (muraJA%VI%S1%FID1), sUKa, ruka (ruka%VI%S3%FID1), baMx_ho, Wama, Tahara, kAzpa (kAzpa%VI%S1%FID1),
+karAha (karAha%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh		  d		   se|ke_kAraNa|    n		     l		 c
+                                   |kI_vajaha_se
+k1                m                0                n                l            c
+----------------------------------------------------------------------------------------
+
+========================================================================================================
+
+
+III.Frames for the following verbs is given below:
+
+
+judZa (judZa%VI%S1%FID1)
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh		   m		   se		    n		     l		  c
+k1                 m               0                n                l            c
+----------------------------------------------------------------------------------------
+
+
+

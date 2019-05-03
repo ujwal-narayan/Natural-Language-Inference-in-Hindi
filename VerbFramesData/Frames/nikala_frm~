@@ -1,0 +1,247 @@
+Verb::nikala
+SID::nikala%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to rise
+Verb_Class:: 
+Verbs_in_Same_Class::Synonyms--> uga%VI%S2%FID1, uxaya_ho; Verb frames populated--> uxaya_ho
+Frames::
+
+        Frame_Name_1::
+        Example::sUraja pUraba meM nikalawA hEM
+        Theta_Roles::THEME LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l             c
+k7p		   m               meM             n               l	         c 
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::nikala%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to start
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::gaMgA gaMgowrI se nikalawI hEM
+        Theta_Roles::THEME SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l             c
+k5                 m               se              n               l             c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::nikala%VI%S3
+Verb_Sense::HWN (4)
+Eng_Gloss::to shout
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::cipkali ko xeKa kara baccoM ke mUzha se cIKZa nikalawI hEM
+        Theta_Roles:: ? ? THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 m               se              n               l             c
+k1                 m               0               n               l             c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::nikala%VI%S4
+Verb_Sense::HWN (11)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::pyArisa meM rojZa naye naye PyASana ke kapadZe nikalawe hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                m               meM             n               l             c
+k1                 m               0               n               l             c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::nikala%VI%S5
+Verb_Sense::HWN (16)
+Eng_Gloss::to come out
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::sAzpa bila se nikalawA hEM
+        Theta_Roles::AGENT SOURCE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID_1::nikala%VI%S5%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m                0               n               l             c
+k5                m                se              n               l             c
+----------------------------------------------------------------------------------------
+	
+*******************************************************************************************
+
+SID::nikala%VI%S6
+Verb_Sense::HWN (21)
+Eng_Gloss::to start, to leave
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> prasWAna_kar, ravAnA_ho, CUta%VI%S3%FID1 (different frame), cala%VI%S3%FID1; Verb frames populated--> prasWAna_kar, ravAnA_ho
+
+(Note: prasWAna_kar, ravAnA_ho will have only this frame; CUta%VI%S3%FID1 will not have this frame, it will have a diiferent frame; cala%VI%S3%FID1, nikala%VI%S6%
+FID1 will have both this frame and the CUta%VI%S3%FID1 frame)
+Frames::
+
+        Frame_Name_1::
+        Example::yaha gAdZI subeh 9 baje xillI ke liye nikalwI hEM
+        Theta_Roles::AGENT SOURCE TIME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S6%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                m                0               n               l             c
+k2p               m                0|ke_liye       n               l             c
+k7t               m                0               n               l             c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::nikala%VI%S7
+Verb_Sense::HWN (23,28)
+Eng_Gloss::to erupt
+Verb_Class::
+Verbs_in_Same_Class::uTa%VI%S2%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::usake SarIra para xAne nikalawe hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S7%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                m               para            n                l           c
+k1                 m               0               n                l           c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::nikala%VI%S8
+Verb_Sense::HWN ()
+Eng_Gloss::to emerge
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::bAxaloM meM se sUraja nikalawA hEM
+        Theta_Roles::SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S8%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 m              meM_se|meM      n                l            c
+k1                 m              0               n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::nikala%VI%S9
+Verb_Sense::HWN ()
+Eng_Gloss::to get extracted
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::bIjoM se wela nikalawA hEM
+        Theta_Roles::SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S9%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 m              se 	      	  n                l            c
+k1                 m              0               n                l            c
+----------------------------------------------------------------------------------------
+
+*****************************************************************************************
+
+SID::nikala%VI%S10
+Verb_Sense::HWN ()
+Eng_Gloss::to go out
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sEra ke liye nikalawA hEM
+        Theta_Roles::AGENT PURPOSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S10%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                n                l            c
+rt                 m              ke_liye          n                l            c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::nikala%VI%S11
+Verb_Sense::HWN (25)
+Eng_Gloss::get removed by washing
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> CUta%VI%S2%FID1, mita%VI%S1%FID1, hata%VI%S2%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::sarPa se xAga, Xabbe nikala jAwe hEM
+        Theta_Roles::CAUSE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::nikala%VI%S11%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rh                 d              se                n                l            c
+k1                 m              0                 n                l            c
+----------------------------------------------------------------------------------------
+
+
+

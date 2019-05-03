@@ -1,0 +1,88 @@
+Verb::uTa
+SID::uTa%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to get up
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->KadZA_ho; Verb frames populated--> KadZA_ho
+Frames::
+
+        Frame_Name_1::
+        Example::vaha pAnI lAne ke liye uTawA hEM
+        Theta_Roles::AGENT PURPOSE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+rt		   m		  ke_liye	    n		    l		 c
+k1                 m              0                 n               l            c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::uTa%VI%S2
+Verb_Sense::HWN (5)
+Eng_Gloss::to erupt
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> nikala%VI%S7%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::usake SarIra para GamoriyAz uTawe hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn         reln
+----------------------------------------------------------------------------------------
+k7p                m               para            n                l           c
+k1                 m               0               n                l           c
+----------------------------------------------------------------------------------------
+
+
+**********************************************************************************************
+
+SID::uTa%VI%S3
+Verb_Sense::HWN (4)
+Eng_Gloss::to rise  
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::pEse ki bAwa rojZa uTawI hEM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTa%VI%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n               l            c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::uTa%VI%S4
+Verb_Sense::HWN (2)
+Eng_Gloss::to wakeup 
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> jAga%V%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::mEM subeh pAzca baje uTawI hUM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::uTa%VI%S4%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n               l            c
+k7t                m              0                 n               l            c
+----------------------------------------------------------------------------------------
+
+

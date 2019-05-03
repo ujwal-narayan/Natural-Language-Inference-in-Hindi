@@ -1,0 +1,88 @@
+Verb::CodZa
+SID::CodZa%VT%S1
+Verb_Sense::HWN (12)
+Eng_Gloss::to let something after someone
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::pulIsa coroM ko pakadZane ke liye kuwwe (kuwwoM ko) CodZawI hEM 
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CodZa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                 n                 l            c
+rt		   d	         ke_liye           v                 l            c
+k2                 m             0|ko              n                 l            c                             
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::CodZa%VT%S2
+Verb_Sense::HWN (15)
+Eng_Gloss::to set free
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> AjZAxa_kara, mukwa_kara, Kola; Verb frames populated--> AjZAxa_kara, mukwa_kara, Kola
+Frames::
+
+        Frame_Name_1::
+        Example::vaha pinjare meM baMxa pakRiyoM ko CodZawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CodZa%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k2                 m              ko                n                l           c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::CodZa%VT%S3
+Verb_Sense::HWN (11)
+Eng_Gloss::to drop, to leave
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->pahuzcA%VCAUS%S1%FID1 (different frame)
+Frames::
+
+        Frame_Name_1::
+        Example::vaha sIwA ko Gara waka CodZawA hEM | vaha sIwA ko rojZa Gara CodZawA hEM   
+        Theta_Roles::AGENT THEME DESTINATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::CodZa%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k2                 m              ko                n                l           c
+k2p                m              0|waka            n                l           c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::vaha apane bacce ko skUla meM CodZawI hEM | vaha bacce ko apanI mAz ke_pAsa CodZawI hEM 
+        Theta_Roles::AGENT THEME LOCATION V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::CodZa%VT%S3%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m              0                 n                l           c
+k2                 m              ko                n                l           c
+k7p                m              meM               n                l           c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+
+
+
+

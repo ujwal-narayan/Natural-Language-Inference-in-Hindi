@@ -1,0 +1,22 @@
+Verb::buna
+SID::buna%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to weave
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::sIwA apane bacce ke lie svetara bunawI hEM
+        Theta_Roles::AGENT PURPOSE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::buna%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m	           0                n                l            c
+k2                 m     	   0                n                l            c
+----------------------------------------------------------------------------------------
+
+

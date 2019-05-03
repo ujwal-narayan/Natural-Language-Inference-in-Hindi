@@ -1,0 +1,67 @@
+Verb::gAdZa
+SID::gAdZa%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to bury
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> xaPnA, xaPana_kara; Verb frames populated--> xaPnA, xaPana_kara
+Frames::
+
+        Frame_Name_1::
+        Example::vaha Sava ko gAdZawe hEM | vaha Sava ko (Gara ke piCavAde) gAdZawe hEM | kuCa loga apane pAlawU jAnvoroM ke Sava (apane Gara meM) gAdZawe hEM
+        Theta_Roles::AGENT THEME DESTINATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::gAdZa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              0|ko            n               l              c
+k7p		    d		   0|meM	   n		   l		  c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::gAdZa%VT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to fix up
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha KaMbe gAdZawA hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::gAdZa%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              0               n               l              c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::gAdZa%VT%S3
+Verb_Sense::HWN (3)
+Eng_Gloss::to bury
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha mohareM/moharoM ko mitti mEM gAdZawA hEM 
+        Theta_Roles::AGENT THEME DESTINATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::gAdZa%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k2                  m              0|ko            n               l              c
+k7p                 d              0|meM           n               l              c
+----------------------------------------------------------------------------------------
+

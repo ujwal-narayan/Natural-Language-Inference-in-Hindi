@@ -1,0 +1,48 @@
+Verb::le 
+SID::le%VT%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to take
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha merI kiwAba lewA hEM | vaha sIwA se kiwAba lewA hEM ??? (It occurs with a source as well as without source)
+        Theta_Roles::AGENT THEME V         | AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::le%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype	         posn	         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k5		   d		   se		   n		   l              c
+k2                 m               0|ko            n               l              c
+----------------------------------------------------------------------------------------
+
+**********************************************************************************************
+
+SID::le%VT%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to buy
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->KarIxa%VT%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha usa xukAna se kapadZe lewA hEM 
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::le%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn            reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l              c
+k5                 d               se              n               l              c
+k2                 m               0|ko            n               l              c
+----------------------------------------------------------------------------------------
+
+************************************************************************************************
+
+

@@ -1,0 +1,21 @@
+Verb::dazsa
+SID::dazsa%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::to bite
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->kAta; Verb frames to be populated-->kAta
+Frames::
+
+        Frame_Name_1::
+        Example::kisAna ko (Kewa meM) sAzpa dazsawA hEM
+        Theta_Roles::EXPERIENCER LOCATION AGENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::dazsa%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n                l            c
+k2                 m               ko              n                l            c                    
+----------------------------------------------------------------------------------------
+

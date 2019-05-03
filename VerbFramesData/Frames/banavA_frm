@@ -1,0 +1,27 @@
+Verb::banavA
+SID::banavA%VCaus1%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to get made
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha halavAI se miTAI  banavAwe       hEM
+		 he   cook    by sweets make-CAUS-PRES be-PRES
+		 "He made the cook to make sweets"
+        Theta_Roles::CAUSER CAUSEE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::banavA%Caus1%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m             0                  n               l            c
+jk1                 m             se                 n               l            c
+k2                  m             0                  n               l            c  
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+

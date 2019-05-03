@@ -1,0 +1,42 @@
+Verb::baha
+SID::baha%VI%S1
+Verb_Sense::HWN (5)
+Eng_Gloss::to flow
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->nikala; Verb frames to be populated-->nikala
+Frames::
+
+        Frame_Name_1::
+        Example::PodZe se pIba bahawA hEM
+        Theta_Roles::SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baha%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k5                 m               se               n                l            c
+k1                 m               0                n                l            c                             
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::baha%VI%S2
+Verb_Sense::HWN (6)
+Eng_Gloss::to flow
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->cala; Verb frames to be populated-->cala
+Frames::
+
+        Frame_Name_1::
+        Example::havA XIre XIre bahawI hEM
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baha%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c                             
+----------------------------------------------------------------------------------------
+

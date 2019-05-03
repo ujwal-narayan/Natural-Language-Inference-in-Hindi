@@ -1,0 +1,42 @@
+Verb::ladZa
+SID::ladZa%VI%S1
+Verb_Sense::HWN (4)
+Eng_Gloss::to fight
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> JagadZa, JagadZA_kara, ladZAI_kara, ulaJa; Verb frame populated--> JagadZa, JagadZA_kara, ladZAI_kara, ulaJa
+Frames::
+
+        Frame_Name_1::
+        Example::rAma apne BAI se ladZawA hE
+        Theta_Roles::CAUSE ACTOR1 ACTOR2 V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ladZa%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               se               n                l            c
+----------------------------------------------------------------------------------------
+
+*******************************************************************************************
+
+SID::ladZa%VI%S2
+Verb_Sense::HWN (3)
+Eng_Gloss::to have a battle
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> yuxXa_kara; Verb frame populated--> yuxXa_kara
+Frames::
+
+        Frame_Name_1::
+        Example::rAnI lakRmI bAI azgrejZoM se ladZawI hEM
+        Theta_Roles::ACTOR1 ACTOR2 V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ladZa%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m               0                n                l            c
+k2                 m               se               n                l            c
+----------------------------------------------------------------------------------------

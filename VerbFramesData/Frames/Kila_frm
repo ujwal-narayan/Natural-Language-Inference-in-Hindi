@@ -1,0 +1,44 @@
+Verb::Kila
+SID::Kila%VI%S1
+Verb_Sense::HWN (1)
+Eng_Gloss::to bloom, to blossom
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->PUla; Verb frame populated-->PUla
+Frames::
+
+        Frame_Name_1::
+        Example::bAgZa meM PUla Kilawe hEM
+        Theta_Roles::LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kila%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k7p		   d		   meM		   n		   l		 c
+k1                 m               0               n               l             c
+----------------------------------------------------------------------------------------
+
+*********************************************************************************************
+
+SID::Kila%VI%S2
+Verb_Sense::HWN (2)
+Eng_Gloss::to befit
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->jazca, jama, Kula; Verb frames populated-->jazca, jama, Kula
+Frames::
+
+        Frame_Name_1::
+        Example::lAla raMga kI sAdZI usa para KilawI hEM
+        Theta_Roles::
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::Kila%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn           reln
+----------------------------------------------------------------------------------------
+k1                 m               0               n               l             c
+k7p		   m		   para		   n		   l		 c		   
+----------------------------------------------------------------------------------------
+
+

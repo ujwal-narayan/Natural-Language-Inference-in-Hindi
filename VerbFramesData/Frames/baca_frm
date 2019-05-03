@@ -1,0 +1,47 @@
+Verb::baca
+SID::baca%VI%S1
+Verb_Sense:: HWN (2,3)
+Eng_Gloss::to escape,to avoid
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::cora  pulisa se   bacawA      hE      / vaha SarAba se   bacawA     hE	    
+		 thief police from escape-PRES be-PRES   he   liquor from avoid-PRES be-PRES
+		 "The thief escapes from the police"     "He avoids liquor"
+        Theta_Roles::AGENT ?THEMEorSource V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baca%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype           posn       reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l          c
+k5                  m              se              n               l          c
+----------------------------------------------------------------------------------------
+
+***********************************************************************************************
+
+SID::baca%VI%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::to get saved
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> raha; Verb frames populated-->raha
+Frames::
+
+        Frame_Name_1::
+        Example::mere pAsa hara  mahIne ru.100 bacawe    hE
+		 my   near every month  Rs.100 save-PRES be-PRES
+		 "Every month Rs.100 gets saved with me"
+        Theta_Roles::THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::baca%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype          posn        reln
+----------------------------------------------------------------------------------------
+k7p                 d              pAsa            n               l          c
+k1                  m              0               n               l          c
+----------------------------------------------------------------------------------------
+

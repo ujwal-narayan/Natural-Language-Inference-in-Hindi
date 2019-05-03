@@ -1,0 +1,23 @@
+Verb::liKavA
+SID::liKavA%VCAUS%S1 (causative of 'liKa')
+Verb_Sense::HWN (1)
+Eng_Gloss::to cause to write
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->liKA%VCAUS%S1%FID1
+Frames::
+
+        Frame_Name_1::
+        Example::vaha klarka se citTiyAz liKavAwA hEM
+        Theta_Roles::CAUSER CAUSEE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::liKavA%VCAUS%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+pk1                 m	           0                 n               l            c
+jk1                 m	           se                n               l            c
+k2		    m		   0                 n               l            c
+----------------------------------------------------------------------------------------
+
+

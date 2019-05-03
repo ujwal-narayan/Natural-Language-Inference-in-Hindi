@@ -1,0 +1,69 @@
+Verb::cuna
+SID::cuna%VT%S1
+Verb_Sense::HWN (2)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->CAzta; Verb frames to be populated-->CAzta
+Frames::
+
+        Frame_Name_1::
+        Example::vaha tokarI meM se Ama CAztawI hEM
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cuna%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                  m             0                n               l              c
+k5		    d		  se|meM_se	   n		   l		  c
+k2                  m             0|ko             n               l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::cuna%VT%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->bIna; Verb frames to be populated-->bIna
+Frames::
+
+        Frame_Name_1::
+        Example::mAz cAvala meM se kaMkadZa cunawI hEM
+        Theta_Roles::AGENT SOURCE THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cuna%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                  m             0                n               l              c
+k5		    d		  se|meM_se	   n		   l		  c
+k2                  m             0|ko             n               l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::cuna%VT%S3
+Verb_Sense::HWN (5)
+Eng_Gloss::to elect
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::kOzgresi soniyA gAzXI ko kOzgresa aXyakSa cunawe hEM
+        Theta_Roles::AGENT THEME ATTRIBUTE V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::cuna%VT%S3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+k2                 m             ko                 n               l            c
+??k2g or k2s       m             0                  n 		    l            c
+----------------------------------------------------------------------------------------
+
+

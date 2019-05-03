@@ -1,0 +1,70 @@
+Verb::jalA
+SID::jalA%VT%S1
+Verb_Sense::HWN (3)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::Synonyms--> sulagA, PZUzka; Verb frames populated-->  sulagA, PZUzka
+Frames::
+
+        Frame_Name_1::
+        Example::vaha (KAnA banAne ke liye) cUlhA jalAwI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jalA%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n                l            c
+k2                  m              0|ko            n                l            c
+----------------------------------------------------------------------------------------
+
+******************************************************************************************
+
+SID::jalA%VT%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to make jealous
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha rojZa naye kapadZe pahanakara apanI bahana ko jalAwI hEM
+        Theta_Roles::AGENT THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jalA%VT%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+vmod		    m		   0		   v		    l		 c
+(sequential)
+k1                  m              0               n                l            c
+k2                  m              ko              n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::jalA%VT%3
+Verb_Sense::HWN ()
+Eng_Gloss::to scorch
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha kAgajZa jalAwA heM
+        Theta_Roles::AGENT THEME
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::jalA%VT%3%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n                l            c
+k2                  m              0|ko            n                l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+

@@ -1,0 +1,45 @@
+
+Frame: pk1 + mk1 + jk1 + verb
+====================================================
+
+Verb Class: (Verbs having this frame)
+
+
+(1)sulavA------------------------------------->populated			
+(2)BagavA------------------------------------->populated			
+(3)GumavA------------------------------------->populated			
+(4)tahalavA------------------------------------->populated
+(5)sEra_karA/karavA------------------------------------->populated
+(6)PiravA------------------------------------->populated
+(7)calavA------------------------------------->populated	
+(8)BatakavA------------------------------------->populated
+(9)BigavA------------------------------------->populated
+(10)xOdavA------------------------------------->populated
+(11)JukavA------------------------------------->populated
+(12)JulavA------------------------------------->populated
+(13)KisakavA------------------------------------->populated
+(14)nacavA------------------------------------->populated
+(15)rulavA------------------------------------->populated
+(16)rukavA------------------------------------->populated
+(17)wEravA------------------------------------->populated
+(18)TaharavA------------------------------------->populated
+(19)tikavA------------------------------------->populated
+(20)udZavA------------------------------------->populated
+
+======================================
+
+Above verbs are sub-divided according to vibhaktis and other information given in the detailed frame. Detailed frames are given below:
+
+
+I.Frame for the following verbs is given below:
+
+sulavA, BagavA, GumavA, tahalavA, sEra_karA/karavA, PiravA, calavA, BatakavA, BigavA, xOdavA, JukavA, JulavA, KisakavA, nacavA, rulavA, rukavA, wEravA, TaharavA,
+tikavA, udZavA
+
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+pk1                  m             0                n               l              c
+mk1                  m             se               n               l              c
+jk1                  m             ko               n               l              c
+----------------------------------------------------------------------------------------

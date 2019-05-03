@@ -1,0 +1,46 @@
+Verb::ho
+SID::ho%VI%1
+Verb_Sense::HWN ()
+Eng_Gloss::is (Copula BE, PRESENT TENSE) 
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma  acCA  hEM
+        Theta_Roles::AGENT COMPLEMENT V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ho%VI%1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos         reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k1s                 m              0               adj             l              c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::ho%VI%S2
+Verb_Sense::HWN (1)
+Eng_Gloss::is (Existential BE, PRESENT TENSE)
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::rAma vahAz/Gara meM/Cawa para  hE
+        Theta_Roles::AGENT LOCATION V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::ho%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype         src-pos          reln
+----------------------------------------------------------------------------------------
+k1                  m              0               n               l              c
+k7p                 m              0|meM|para      n               l              c
+----------------------------------------------------------------------------------------
+
+
+
+

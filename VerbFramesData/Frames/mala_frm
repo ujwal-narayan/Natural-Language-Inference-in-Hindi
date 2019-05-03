@@ -1,0 +1,23 @@
+Verb::mala
+SID::mala%VT%S1
+Verb_Sense::HWN (5)
+Eng_Gloss::
+Verb_Class::
+Verbs_in_Same_Class::
+Frames::
+
+        Frame_Name_1::
+        Example::vaha SarIra para wela malawI hEM
+        Theta_Roles::AGENT LOCATION THEME V
+        Demand_Frame::FRAME_ID_1
+
+FRAME_ID::mala%VT%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m           	   0               n                l            c
+k7p                m           	   para            n                l            c
+k2                 m               0|ko		   n		    l            c
+----------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,72 @@
+Verb::mila
+SID::mila%VI%S1
+Verb_Sense::HWN ()
+Eng_Gloss::to obtain, to get
+Verb_Class::
+Verbs_in_Same_Class:: Synonyms-->A%VI%S3%FID1
+Frames::
+
+	Frame_Name_1::
+	Example::yaha  kiwAba Rs.100 meM milwI       hEM
+	Theta_Roles::THEME TOPIC V
+	Demand_Frame::FRAME_ID_1
+
+
+FRAME_ID::mila%VI%S1%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype		posn         	reln
+----------------------------------------------------------------------------------------
+k1		   m               0               n               l              c
+k7                 m               meM             n               l              c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+        Example::yaha kiwAba 125 rupaye kI milwI       hE
+        Theta_Roles::THEME ASSET V
+        Demand_Frame::FRAME_ID_2
+
+FRAME_ID::A%VI%S3%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti         lextype           posn         reln
+----------------------------------------------------------------------------------------
+k1                 m             0                  n               l            c
+r6v                m             kI|kA|ke           n               l            c
+----------------------------------------------------------------------------------------
+
+********************************************************************************************
+
+SID::mila%VI%S2
+Verb_Sense::HWN (4)
+Eng_Gloss::to meet
+Verb_Class::
+Verbs_in_Same_Class::Synonyms-->mulAkAwa_kara; Verb frames to be populated-->mulAkAwa_kara
+Frames::
+
+	Frame_Name_1::
+	Example::rAma sIwA se milwA hEM
+	Theta_Roles::ACTOR1 ACTOR2 V
+	Demand_Frame::FRAME_ID_1
+
+
+FRAME_ID::mila%VI%S2%FID1
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype		posn         	reln
+----------------------------------------------------------------------------------------
+k1		   m               0               n               l              c
+k2                 m               se              n               l              c
+----------------------------------------------------------------------------------------
+
+
+	Frame_Name_2::
+	Example::rAma Ora sIwA rojZa milwe hEM
+	Theta_Roles::????? V
+	Demand_Frame::FRAME_ID_2
+
+
+FRAME_ID::mila%VI%S2%FID2
+----------------------------------------------------------------------------------------
+arc-label       necessity       vibhakti        lextype		posn         	reln
+----------------------------------------------------------------------------------------
+k1		   m               0               n               l              c
+----------------------------------------------------------------------------------------
