@@ -32,4 +32,10 @@ for i in range(1,len(splitData)):
     f.write("\n")
 
     
-
+f = io.open("s1.txt", mode="w", encoding="utf-8")
+for i in range(1,len(splitData)):
+    text = splitData[i][6]
+    u = unicode(text, "utf-8")
+    text = u
+    f.write(text)
+    f.write("\n")
